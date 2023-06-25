@@ -7,7 +7,7 @@
 #
 ---
 name: en_ext
-version: "2023-06-16"
+version: "2023-06-25"
 sort: by_weight
 ...
 # 一些杂项
@@ -1134,7 +1134,7 @@ P2P	P2P
 OPPO	OPPO
 vivo	vivo
 Uno	Uno
-Gopher	Gopher
+gopher	gopher
 GDPR	GDPR
 General Data Protection Regulation	GDPR
 Netlify	Netlify
@@ -2229,3 +2229,10 @@ simplification	simplification
 simplifier	simplifier
 Loki	Loki
 panzer	panzer
+hardened	hardened
+motherfucker	motherfucker
+motherfucking	motherfucking
+dict	dict
+latte	latte
+Hughie	Hughie
+Maeve	Maeve
