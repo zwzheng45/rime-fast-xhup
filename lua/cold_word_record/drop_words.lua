@@ -1,7 +1,4 @@
-local drop_words =
-{ 	"国旅",
-	"流娼",
-	"厅属",
+local drop_words = {
 	"苫次",
 	"艮园",
 	"牛屄",

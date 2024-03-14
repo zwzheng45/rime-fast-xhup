@@ -1,5 +1,7 @@
--- 自动补全配对的符号，并把光标左移到符号对内部
+-- 自动补全配对的符号, 并把光标左移到符号对内部
 -- ref: https://github.com/hchunhui/librime-lua/issues/84
+-- local puts = require("tools/debugtool")
+
 local function moveCursorToLeft()
 	local osascript = [[osascript -e '
       tell application "System Events" to tell front process
@@ -14,6 +16,7 @@ local pairTable = {
 	["“"] = "”",
 	["'"] = "'",
 	["‘"] = "’",
+	["`"] = "`",
 	["("] = ")",
 	["（"] = "）",
 	["「"] = "」",
@@ -29,8 +32,8 @@ local pairTable = {
 	["〖"] = "〗",
 	["<"] = ">",
 	["《"] = "》",
-	["apostrophe"] = "“”",
-	-- ["Shift+quotedbl"] = '“”'
+	["apostrophe"] = { "“”", '""' },
+	["quotedbl"] = { "‘’", "''" },
 }
 
 local function detect_os()
@@ -48,12 +51,24 @@ local function pair_symbols(key, env)
 	local composition = context.composition
 	local segment = composition:back()
 
-	if pairTable[key:repr()] and (not context:is_composing()) then
-		engine:commit_text(pairTable[key:repr()])
-		context:clear()
+	local key_name
+	if (key:repr():match("quotedbl")) and (key.keycode == 34) then
+		key_name = "quotedbl"
+	else
+		key_name = key:repr()
+	end
+
+	if pairTable[key_name] and (not context:is_composing()) then
+		if context:get_option("ascii_mode") then
+			engine:commit_text(pairTable[key_name][2])
+		else
+			engine:commit_text(pairTable[key_name][1])
+		end
+
 		if detect_os() == "Darwin" then
 			moveCursorToLeft()
 		end
+		context:clear()
 		return 1 -- kAccepted 收下此key
 	end
 
