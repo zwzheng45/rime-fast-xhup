@@ -55,7 +55,7 @@ options:
   --shape, -x           spec the style of shape, hxm, zrm etc
   --input_files [INPUT_FILES ...], -i [INPUT_FILES ...]
                         additional yaml dict files to input
-  --word_frequency WORD_FREQUENCY, -f WORD_FREQUENCY
+  --word_frequency WORD_FREQUENCY, -w WORD_FREQUENCY
                         sepc word_frequency
   --mode, -m            spec output mode for generate file, w[rite] or a[ppend].
   --type, -t            spec generate filetype for output, yaml or text.
@@ -65,9 +65,9 @@ options:
 example:
     python3 flypy_dict_generator_new.py -i a.dict.yaml
     python3 flypy_dict_generator_new.py -i b.txt -t txt
-    python3 flypy_dict_generator_new.py -i bb.txt -t txt -f 0
+    python3 flypy_dict_generator_new.py -i bb.txt -t txt -w 0
     python3 flypy_dict_generator_new.py -i ab.dict.yaml -c
-    python3 flypy_dict_generator_new.py -i abc.dict.yaml -c -x -f 100
+    python3 flypy_dict_generator_new.py -i abc.dict.yaml -c -x -w 100
     python3 flypy_dict_generator_new.py -i c.dict.yaml d.dict.yaml -o nc.dict.yaml nd.dict.yaml -m
 """
 
@@ -147,7 +147,7 @@ def pinyin_to_flypy(quanpin: list[str]):
 def converte_to_pinyin(hanzi: str):
     pinyin_list = pinyin(hanzi, heteronym=True)
     sl = [" ".join(i) for i in itertools.product(*pinyin_list)]
-    if (len(sl) > 3):
+    if len(sl) > 3:
         return {"lp": lazy_pinyin(hanzi)}
     npyl = []
     for j in sl:
@@ -161,10 +161,10 @@ def gen_dict_record(pinyin_list, contents_perline, *args):
     if not pinyin_list:
         return
     print("pinyin_list: ", pinyin_list)
-    if args[0] == "shuangpin":      # 转换全拼为小鹤双拼
+    if args[0] == "shuangpin":  # 转换全拼为小鹤双拼
         flypy_list = pinyin_to_flypy(pinyin_list)
     else:
-        flypy_list = pinyin_list    # 首字母简写
+        flypy_list = pinyin_list  # 首字母简写
 
     if args[2]:  # 转换对应汉字的形码
         words_xm_list = [xhxm_dict.get(m, "[") for m in contents_perline[0].strip()]
@@ -188,7 +188,7 @@ def gen_dict_record(pinyin_list, contents_perline, *args):
 def parser_line_content(line_content, *args):
     contents_perline = line_content.strip().split()
     if not len(contents_perline):
-        return ''
+        return ""
     if args[0] and args[1]:  # 汉字转换对应风格的拼音
         if args[0] != "jianpin":
             _pyd = converte_to_pinyin(contents_perline[0])
@@ -310,11 +310,11 @@ def get_cli_args():
         # action="append",
         help=("add yaml dict files to input"),
         # type=open,
-        type=argparse.FileType('r', encoding='UTF-8')
+        type=argparse.FileType("r", encoding="UTF-8"),
     )
     parser.add_argument(
         "--word_frequency",
-        "-f",
+        "-w",
         default=1,
         help=("sepc word_frequency"),
         type=int,
