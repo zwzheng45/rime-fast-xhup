@@ -4,7 +4,7 @@
 schema:
   schema_id: flypy_xhfast
   name: 飞鹤快拼
-  version: "0.6"
+  version: "0.7"
   author:
     - boomker
   description: |
@@ -147,26 +147,31 @@ speller:
     - derive/^hy/hw/
     - derive/^t([wy])/dw/                       # t[wy] --> dw
     - derive/^t([er])/df/                       # t[er] --> df
-    - derive/^t([km])/r$1/                      # t[km] --> r[km]
-    - derive/^tg/og/                            # tg --> og
+    - derive/^tk/rk/                            # tk --> rk
+    - derive/^tg/rm/                            # tg --> rm
     - derive/^tp/rl/                            # tp --> rl
-    - derive/^rg/rb/
-    - derive/^rf/rn/                            # gf --> gn
+    - derive/^r([gv])/rb/                       # r[gv] --> rb
+    - derive/^rf/rn/                            # rf --> rn
     - derive/^gf/gn/                            # gf --> gn
     - derive/^gr/gm/                            # gr --> gm
     - derive/^g([wy])/gi/
-    - derive/^nh/xh/
-    - derive/^nj/xj/
-    - derive/^xy/xo/
     - derive/^xp/sl/
     - derive/^xt/sb/
-    - derive/^xs/nx/
+    - derive/^xy/xo/
+    - derive/^xs/xh/
+    - derive/^nj/xj/
+    - derive/^nh/xh/
+    - derive/^nu/nx/
+    - derive/^no/nr/
     - derive/^ly/nw/
     - derive/^lm/nz/
     - derive/^jm/jz/
     - derive/^jx/ja/
     - derive/^jb/jo/
     - derive/^zw/zk/
+    - derive/^za/zl/
+    - derive/^zs/zn/
+    - derive/^zd/zm/
     - derive/^vg/vk/
     - derive/^vf/vn/                            # vf --> vn
     - derive/^vr/vm/                            # vr --> vm
@@ -202,7 +207,7 @@ mkst:
   tips: "〔精准造词〕"
   tag: mkst
 
-custom_phrase:                      # 自定义短语, 包含固顶字词, 快捷启动 APP 名称
+custom_phrase:                      # 自定义短语, 包含固顶字词
   dictionary: ""
   user_dict: custom_phrase
   db_class: stabledb
@@ -274,14 +279,12 @@ punctuator:
 key_binder:
   import_preset: default
   bindings:
-    - {when: has_menu, accept: semicolon, send: 2}
-    - {when: has_menu, accept: apostrophe, send: 3}         ## 单引号用于第3候选
-    - {when: has_menu, accept: "Control+0", toggle: traditionalization}
-    - {when: composing, accept: bracketleft, send: "["}     ## `[`引导辅助码
+    - {when: has_menu, accept: Control+0, toggle: traditionalization}
+    - {when: has_menu, accept: Control+period, toggle: ascii_punct}
+    - {when: has_menu, accept: Control+slash, toggle: emoji}
     - {when: composing, accept: Control+o, send: Shift+Left}
     - {when: composing, accept: Control+i, send: Shift+Right}
     - {when: composing, accept: Control+w, send: Control+BackSpace}
-    # - { when: composing, accept: Tab, send: '[' }         ## 取消注释后: tab引导辅助码
     # - { when: composing, accept: Control+m, send: Return }
     # - { when: always, accept: Control+1, send_sequence: 'HelloWorld' }
 
