@@ -1,6 +1,6 @@
 -- 默认应用启动或切换触发前缀为"jj"
 -- 可在下行配置其他的触发前缀
-local appLaunchPrefix = "af"
+local appLaunchPrefix = "ak"
 
 local commands = {
 	-- 应用启动切换
@@ -66,10 +66,10 @@ local commands = {
 				["显示桌面图标"] = "defaults write com.apple.finder CreateDesktop true && killall Finder",
 				["暗夜模式开关"] = "osascript -e 'tell application \"System Events\" to tell appearance preferences to set dark mode to not dark mode'",
 				["开启屏保"] = "osascript -e 'tell application \"System Events\" to start current screen saver'",
-                ["立即熄屏"] = "pmset displaysleepnow",
-                ["刷新DNS缓存"] = "dscacheutil -flushcache",
-                ["部署Rime"] = "/Library/Input Methods/Squirrel.app/Contents/MacOS/squirrel --reload",
-                ["同步Rime"] = "/Library/Input Methods/Squirrel.app/Contents/MacOS/squirrel --sync"
+				["立即熄屏"] = "pmset displaysleepnow",
+				["刷新DNS缓存"] = "dscacheutil -flushcache",
+				["部署Rime"] = "/Library/Input Methods/Squirrel.app/Contents/MacOS/squirrel --reload",
+				["同步Rime"] = "/Library/Input Methods/Squirrel.app/Contents/MacOS/squirrel --sync",
 			},
 		},
 		["cn卡号"] = {
@@ -89,7 +89,7 @@ local commands = {
 				"https://github.com",
 			},
 		},
-		["fl文件夹路径"] = {
+		["fp文件夹路径"] = {
 			["action"] = "open",
 			["items"] = {
 				["〔下载〕文件夹"] = "~/Downloads",

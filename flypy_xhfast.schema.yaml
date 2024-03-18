@@ -84,7 +84,7 @@ engine:
     - lua_translator@commit_history_translator        # hisz 触发
     - lua_translator@datetime_translator              # date, rq, week, time 触发
     - lua_translator@launcher_translator              # jj 快捷命令触发
-    - lua_translator@lunar_translator                 # cnl , znl 触发
+    - lua_translator@lunar_translator                 # cnl 触发
     - lua_translator@laTex_translator                 # f/ 触发
     - lua_translator@number_translator                # n/ 触发
     - lua_translator@en_custom_translator             # `置于结尾处触发
@@ -168,13 +168,13 @@ speller:
     - derive/^jm/jz/
     - derive/^jx/ja/
     - derive/^jb/jo/
-    - derive/^zw/zk/
+    - derive/^z([ws])/zk/
     - derive/^za/zl/
-    - derive/^zs/zn/
-    - derive/^zd/zm/
-    - derive/^vg/vk/
-    - derive/^vf/vn/                            # vf --> vn
+    - derive/^ze/zn/
+    - derive/^zr/zm/
     - derive/^vr/vm/                            # vr --> vm
+    - derive/^vf/vn/                            # vf --> vn
+    - derive/^vg/vk/
     - derive/^mb/ms/
     - derive/^mh/mx/
     - derive/^mk/me/

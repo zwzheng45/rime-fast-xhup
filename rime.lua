@@ -43,7 +43,7 @@ librime-lua 样例
 date_time = require("date_time")
 datetime_translator = date_time.translator
 
--- lunar_translator: 将 `cnl`, `znl`, 翻译成农历
+-- lunar_translator: 将 `cnl`, 翻译成农历
 lunar = require("lunar")
 lunar_translator = lunar.translator
 

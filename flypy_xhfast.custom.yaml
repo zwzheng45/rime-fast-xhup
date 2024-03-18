@@ -46,8 +46,8 @@ patch:
       # - derive/^(i)([^fg])/c$2/                 # ch => c
       # - derive/^(u)([^bfgnm])/s$2/              # sh => s
       # - derive/^n([uo])$/l$1/                   # n => l
-      - derive/^(z)([^acdefghijklmnu])/v$2/       # z => zh
-      - derive/^(c)([^acdefghijuo])/i$2/          # c => ch
+      - derive/^(z)([^acdefghijklmnsu])/v$2/      # z => zh
+      - derive/^(c)([^acdefghijsuo])/i$2/         # c => ch
       - derive/^(s)([^abcdefgijklmnu])/u$2/       # s => sh
       - derive/^(i)f/$1g/                         # [zcs][h]en => [zcs][h]eng
       - derive/^(i)g/$1f/                         # [zcs][h]eng => [zcs][h]en

@@ -7,7 +7,7 @@
 #
 ---
 name: en_ext
-version: "2024-03-11"
+version: "2024-03-18"
 sort: by_weight
 ...
 # 一些杂项
@@ -1081,6 +1081,8 @@ SEO	SEO
 Search Engine Optimization	SEO
 Search Engine Optimization	SearchEngineOptimization
 OCSP	OCSP
+Online Certificate Status Protocol	OCSP
+Online Certificate Status Protocol	OnlineCertificateStatusProtocol
 Arthas	Arthas
 Wordle	Wordle
 Silicon Valley	SiliconValley
@@ -2442,9 +2444,7 @@ monolith	monolith
 Chiikawa	Chiikawa
 anxious	anxious
 trudge	trudge
-Blockchain	Blockchain 
-Kubeadm	Kubeadm 
-Minikube	Minikube 
-Prometheus	Prometheus 
-anxious	anxious 
-trudge	trudge 
+LibreOffice	LibreOffice
+Asics	Asics
+LibreOffice	LibreOffice 
+Asics	Asics 
