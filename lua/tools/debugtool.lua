@@ -44,17 +44,20 @@
 --
 -- global variable
 function __FILE__(n)
-    n = n or 2
-    return debug.getinfo(n, 'S').source
+	n = n or 2
+	return debug.getinfo(n, "S").source
 end
+
 function __LINE__(n)
-    n = n or 2
-    return debug.getinfo(n, 'l').currentline
+	n = n or 2
+	return debug.getinfo(n, "l").currentline
 end
+
 function __FUNC__(n)
-    n = n or 2
-    return debug.getinfo(n, 'n').name
+	n = n or 2
+	return debug.getinfo(n, "n").name
 end
+
 INFO = "log"
 WARN = "warn"
 ERROR = "error"
@@ -62,26 +65,31 @@ DEBUG = "trace"
 CONSOLE = "console"
 
 local function tran_msg(...)
-    local msg = "\t"
-    for _, k in next, {...} do msg = msg .. ": " .. tostring(k) end
-    return msg
+	local msg = "\t"
+	for _, k in next, { ... } do
+		msg = msg .. ": " .. tostring(k)
+	end
+	return msg
 end
-local function puts(tag, ...)
-    if type(tag) ~= "string" then return end
 
-    if INFO and tag:match("^" .. INFO) then
-        (log and log.info or print)(tag .. tran_msg(...))
-    elseif WARN and tag:match("^" .. WARN) then
-        (log and log.warning or print)(tag .. tran_msg(...))
-    elseif ERROR and tag:match("^" .. ERROR) then
-        (log and log.error or print)(tag .. tran_msg(...))
-    elseif DEBUG and tag:match("^" .. DEBUG) then
-        (log and log.error or print)(tag .. tran_msg(...))
-    elseif CONSOLE and tag:match("^" .. CONSOLE) then
-        (print)(tag .. tran_msg(...))
-    else
-        return
-    end
+local function puts(tag, ...)
+	if type(tag) ~= "string" then
+		return
+	end
+
+	if INFO and tag:match("^" .. INFO) then
+		(log and log.info or print)(tag .. tran_msg(...))
+	elseif WARN and tag:match("^" .. WARN) then
+		(log and log.warning or print)(tag .. tran_msg(...))
+	elseif ERROR and tag:match("^" .. ERROR) then
+		(log and log.error or print)(tag .. tran_msg(...))
+	elseif DEBUG and tag:match("^" .. DEBUG) then
+		(log and log.error or print)(tag .. tran_msg(...))
+	elseif CONSOLE and tag:match("^" .. CONSOLE) then
+		(print)(tag .. tran_msg(...))
+	else
+		return
+	end
 end
 
 return puts

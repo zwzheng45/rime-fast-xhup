@@ -109,6 +109,11 @@ top_word_autocommit_filter = top_word_autocommit.filter
 -- 详见 `lua/reverse.lua`
 -- reverse_lookup_filter = require("reverse")
 
+-- 词条置顶
+pin_word = require("pin_word")
+pin_word_filter = pin_word.filter
+pin_word_processor = pin_word.processor
+
 -- 强制删词, 隐藏词组
 cold_word_drop = require("cold_word_drop")
 cold_word_drop_filter = cold_word_drop.filter

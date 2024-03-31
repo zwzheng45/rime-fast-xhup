@@ -9,6 +9,6 @@ patch:
     - schema: flypy_xhfast
     - schema: flypy_radical
     - schema: melt_eng
-    # - schema: flypy_phrase
+    - schema: flypy_phrase
     # - schema: flypy_zrmfast
     # - schema: emoji               # emoji表情

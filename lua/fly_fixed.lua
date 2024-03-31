@@ -1,5 +1,5 @@
 -- local puts = require("tools/debugtool")
-require("tools.string")
+require("tools/string")
 
 local function last_character(s)
 	return string.utf8_sub(s, -1, -1)
