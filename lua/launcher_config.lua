@@ -12,7 +12,7 @@ local commands = {
 		["jjht"] = { "画图", "mspaint.exe" },
 		["jjjs"] = { "计算器", "calc.exe" },
 	},
-	["Darwin"] = {
+	["MacOS"] = {
 		["jjjt"] = { "截图", "com.apple.screenshot.launcher" },
 		["jjss"] = { "截图", "com.apple.screenshot.launcher" },
 		["jjam"] = { "任务监视器", "com.apple.ActivityMonitor" },

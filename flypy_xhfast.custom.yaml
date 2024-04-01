@@ -46,11 +46,12 @@ patch:
       # - derive/^(v)([^fg])/z$2/                 # zh => z
       # - derive/^(i)([^fg])/c$2/                 # ch => c
       # - derive/^(u)([^bfgnm])/s$2/              # sh => s
+      - derive/^(u)([h])/s$2/                     # uh => sh
       # - derive/^n([uo])$/l$1/                   # n => l
       - derive/^(z)([^acdefghijklmnsu])/v$2/      # z => zh
       - derive/^(c)([^acdefghijsuo])/i$2/         # c => ch
-      - derive/^(s)([^abcdefgijklmnu])/u$2/       # s => sh
-      - derive/^(i)f/$1g/                         # [zcs][h]en => [zcs][h]eng
+      - derive/^(s)([^abcdefghijklmnu])/u$2/      # s => sh
+      # - derive/^(i)f/$1g/                       # [zcs][h]en => [zcs][h]eng
       - derive/^(i)g/$1f/                         # [zcs][h]eng => [zcs][h]en
-      - derive/^([typdbn])b/$1k/                  # in => ing
+      - derive/^([ypdbn])b/$1k/                   # in => ing
       # - derive/^([typdjxbm])k/$1b/              # ing => in
