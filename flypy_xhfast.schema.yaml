@@ -25,7 +25,7 @@ switches:
     reset: 0
     states: [。, .]
   - name: emoji
-    reset: 1
+    reset: 0
     states: [💀, 😄]
   - name: full_shape
     states: [半角, 全角]

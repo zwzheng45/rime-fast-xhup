@@ -65,9 +65,10 @@ speller:
   finals: "'"
   #delimiter: " '"
   max_code_length: 4
-  auto_select: true   #顶字上屏
+  auto_select: false   #顶字上屏
   auto_select_pattern: ^;.$|^\w{4}$
   auto_clear: max_length #manual|auto|max_length 空码按下一键确认清屏|空码自动清|达到最长码时后码顶上清屏
+  auto_select_unique_candidate: false #无重码自动上屏
 
 translator:
   dictionary: flypy
