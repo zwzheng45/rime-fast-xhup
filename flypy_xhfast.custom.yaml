@@ -8,22 +8,22 @@ patch:
     filters/+:
   menu/page_size: 5               # 自定义候选项个数
   key_binder/+:
-    select_first_character: "minus"
-    select_last_character: "equal"
+    # select_first_character: "minus"
+    # select_last_character: "equal"
     pin_cand: "Control+t"         # 候选词置顶
     drop_cand: "Control+d"        # 强制删词, 无视输入的编码
     hide_cand: "Control+x"        # 匹配当前输入码后隐藏指定的候选字词
     turn_down_cand: "Control+j"   # 匹配当前输入码后降频指定的候选字词
     bindings/+:
-      - {when: has_menu, accept: semicolon, send: 2}
-      - {when: has_menu, accept: apostrophe, send: 3}       ## 单引号用于第3候选
-      # - {when: paging, accept: comma, send: Page_Up}      ## 逗号返回上一页
-      - {when: has_menu, accept: period, send: Page_Down}
+      # - {when: has_menu, accept: semicolon, send: 2}
+      # - {when: has_menu, accept: apostrophe, send: 3}       ## 单引号用于第3候选
+      - {when: paging, accept: minus, send: Page_Up}      ## 逗号返回上一页
+      - {when: has_menu, accept: equal, send: Page_Down}    ##上下翻页设置(已改为-=)
       - {when: composing, accept: Control+k, send: Shift+Delete}
       - {when: composing, accept: Control+e, send: End}
-      - {when: composing, accept: Tab, send: Shift+Right}
+      # - {when: composing, accept: Tab, send: Shift+Right}
       - {when: composing, accept: bracketleft, send: "["}   ## [引导辅助码
-      # - { when: composing, accept: grave, send: '`' }     ## 取消注释后: `引导辅助码
+      - {when: composing, accept: Tab, send: "["}     ## 取消注释后: Tab引导辅助码
       # `键 (grave, Tab 上面那个) 为词组逐字追加辅助码.
       # 可将 grave 改成 Tab, Control+Tab, bracketright(] 键).
       # 如果希望无论有无 [ 均可引导, 取消注释的同时将 xform 改成 derive
@@ -46,12 +46,12 @@ patch:
       # - derive/^(v)([^fg])/z$2/                 # zh => z
       # - derive/^(i)([^fg])/c$2/                 # ch => c
       # - derive/^(u)([^bfgnm])/s$2/              # sh => s
-      - derive/^(u)([h])/s$2/                     # uh => sh
+      # - derive/^(u)([h])/s$2/                     # uh => sh
       # - derive/^n([uo])$/l$1/                   # n => l
-      - derive/^(z)([^acdefghijklmnsu])/v$2/      # z => zh
-      - derive/^(c)([^acdefghijsuo])/i$2/         # c => ch
-      - derive/^(s)([^abcdefghijklmnu])/u$2/      # s => sh
-      # - derive/^(i)f/$1g/                       # [zcs][h]en => [zcs][h]eng
-      - derive/^(i)g/$1f/                         # [zcs][h]eng => [zcs][h]en
+      # - derive/^(z)([^acdefghijklmnsu])/v$2/      # z => zh
+      # - derive/^(c)([^acdefghijsuo])/i$2/         # c => ch
+      # - derive/^(s)([^abcdefghijklmnu])/u$2/      # s => sh
+      - derive/^([zcsivuh])f/$1g/                       # [zcs][h]en => [zcs][h]eng
+      - derive/^([zcsivuh])g/$1f/                         # [zcs][h]eng => [zcs][h]en
       - derive/^([ypdbn])b/$1k/                   # in => ing
-      # - derive/^([typdjxbm])k/$1b/              # ing => in
+      - derive/^([typdjxbm])k/$1b/              # ing => in
