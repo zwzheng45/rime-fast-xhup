@@ -10,7 +10,7 @@ local function moveCursorToLeft()
    ']]
 	os.execute(osascript)
 end
-
+--[[ 
 local pairTable = {
 	['"'] = '"',
 	["“"] = "”",
@@ -32,9 +32,9 @@ local pairTable = {
 	["〖"] = "〗",
 	["<"] = ">",
 	["《"] = "》",
-	["apostrophe"] = { "“”", '""' },
-	["quotedbl"] = { "‘’", "''" },
-}
+	["apostrophe"] = { "‘’", "''" },
+	["quotedbl"] = { "“”", '""' },
+} ]]
 
 local function detect_os()
 	local user_distribute_name = rime_api:get_distribution_code_name()

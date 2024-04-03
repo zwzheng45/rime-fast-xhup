@@ -143,8 +143,8 @@ key_binder:
     - {accept: "Tab", send: Escape, when: composing}
     - {accept: "Shift_R", send: Escape, when: composing}
   #  - {accept: "Shift+space", toggle: full_shape, when: always} #切换全半角
-    - {accept: "Control+period", toggle: ascii_punct, when: always} #切换中英标点
-    - {accept: "Control+j", toggle: simplification, when: always} #切换简繁
+  #  - {accept: "Control+period", toggle: ascii_punct, when: always} #切换中英标点
+  #  - {accept: "Control+j", toggle: simplification, when: always} #切换简繁
 
 recognizer:
   import_preset: default
