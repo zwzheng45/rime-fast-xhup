@@ -1,4 +1,3 @@
----@diagnostic disable: undefined-global, unused-local
 --[[
 关于CJK扩展字符
   CJK = 中日韩（China, Japan, Korea），这个主要是指的东亚地区使用汉字及部分衍生偏僻字的字符集
@@ -49,6 +48,8 @@ local charset = {
 	["ExtE"] = { first = 0x2B820, last = 0x2CEAF }, -- CJK Unified Ideographs Extension E - https://unicode.org/charts/PDF/U2B820.pdf
 	["ExtF"] = { first = 0x2CEB0, last = 0x2EBEF }, -- CJK Unified Ideographs Extension F - https://unicode.org/charts/PDF/U2CEB0.pdf
 	["ExtG"] = { first = 0x30000, last = 0x3134A }, -- CJK Unified Ideographs Extension G - https://unicode.org/charts/PDF/U30000.pdf
+	["ExtH"] = { first = 0x31350, last = 0x323AF }, -- CJK Unified Ideographs Extension H - https://unicode.org/charts/PDF/U31350.pdf
+	["ExtI"] = { first = 0x2EBF0, last = 0x2EE5D }, -- CJK Unified Ideographs Extension I - https://unicode.org/charts/PDF/U31350.pdf
 	["Compat"] = { first = 0xF900, last = 0xFAFF }, -- CJK Compatibility Ideographs - https://unicode.org/charts/PDF/UF900.pdf
 	["CompatSupp"] = { first = 0x2F800, last = 0x2FA1F }, -- CJK Compatibility Ideographs Supplement - https://unicode.org/charts/PDF/U2F800.pdf
 }
@@ -80,6 +81,8 @@ local function is_cjk_ext(c)
 		or is_charset("ExtE")(c)
 		or is_charset("ExtF")(c)
 		or is_charset("ExtG")(c)
+		or is_charset("ExtH")(c)
+		or is_charset("ExtI")(c)
 		or is_charset("Compat")(c)
 		or is_charset("CompatSupp")(c)
 end
@@ -117,7 +120,7 @@ local function charset_comment_filter(input)
 	-- 使用 `iter()` 遍历所有输入候选项
 	for cand in input:iter() do
 		-- 判断当前候选内容 `cand.text` 中文字属哪个字符集
-		for s, r in pairs(charset) do
+		for s, _ in pairs(charset) do
 			if exists(is_charset(s), cand.text) then
 				--[[ 修改候选的注释 `cand.comment`
                  因复杂类型候选项的注释不能被直接修改，

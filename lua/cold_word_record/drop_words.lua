@@ -64,5 +64,9 @@ local drop_words =
 	"乾眼",
 	"乾咽",
 	"虾乾",
+	"瞭解",
+	"瞭然",
+	"直捷了当",
+	"行政区画",
 }
 return drop_words
