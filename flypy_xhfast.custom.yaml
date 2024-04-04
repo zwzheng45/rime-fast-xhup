@@ -53,5 +53,5 @@ patch:
       # - derive/^(s)([^abcdefghijklmnu])/u$2/      # s => sh
       - derive/^([zcsivuhk])f/$1g/                       # [zcs][h]en => [zcs][h]eng
       - derive/^([zcsivuhk])g/$1f/                         # [zcs][h]eng => [zcs][h]en
-      - derive/^([ypdbn])b/$1k/                   # in => ing
-      - derive/^([typdjxbm])k/$1b/              # ing => in
+      - derive/^([ypdbnl])b/$1k/                   # in => ing
+      - derive/^([typdjxbml])k/$1b/              # ing => in

@@ -47,7 +47,7 @@ engine:
     - lua_processor@select_char_processor
     - lua_processor@expand_idiom_abbr_processor
     - lua_processor@cold_word_drop_processor
-    - lua_processor@word_append_space_processor
+    # - lua_processor@word_append_space_processor # 词尾加空格
     - lua_processor@top_word_autocommit_processor
     - ascii_composer
     - recognizer
@@ -99,7 +99,7 @@ engine:
     - lua_filter@fly_fixed_filter
     - lua_filter@pin_word_filter
     - lua_filter@charset_withEmoji_filter
-    - lua_filter@word_append_space_filter
+    # - lua_filter@word_append_space_filter # 词尾加空格
     - lua_filter@engword_autocaps_filter
     - lua_filter@top_word_autocommit_filter
     - lua_filter@long_word_up_filter

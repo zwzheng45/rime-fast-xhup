@@ -81,10 +81,12 @@ charset_comment_filter = charset.comment_filter
 -- 详见 `lua/single_char.lua`
 -- single_char_filter = require("single_char")
 
+
 -- 适用于中文输入方案的中英文之间加空格
 word_append_space = require("word_append_space")
 word_append_space_filter = word_append_space.filter
 word_append_space_processor = word_append_space.processor
+
 
 -- 适用于英文输入方案的英文单词之间加空格
 engword_append_space = require("engword_append_space")
