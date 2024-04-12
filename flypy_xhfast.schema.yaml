@@ -126,64 +126,66 @@ speller:
     - derive/^(\w+)\[(\w)(\w)$/$1\[$2/          # Flypy: AB[C
     - derive/^(\w+)\[(\w)(\w)$/$1/              # Flypy: AB
 
-    ## 左右并击飞键音码规则
-    - derive/^(j)n/$1c/
-    - derive/^([jyn])t/$1d/                     # t --> d
-    - derive/^([bjlmn])p/$1e/                   # p --> e
-    - derive/^([djlnx])q/$1f/                   # q --> f
-    - derive/^q([biklmnpsxy])/f$1/
-    - derive/^qt/fd/
-    - derive/^qu/fe/
-    - derive/^qr/fo/
-    - derive/^qq/fz/
-    - derive/^p([okifuhjbnmg])/e$1/
-    - derive/^pp/el/                            # pp --> el
-    - derive/^dp/dl/                            # dp --> dl
-    - derive/^([jkiu])y/$1w/                    # [jkiu]y --> [jkiu]w
-    - derive/^y([ikb])/w$1/                     # y[ikb] --> w[ikb]
-    - derive/^y([asderzc])/o$1/
-    - derive/^yu/ov/
-    - derive/^yy/ow/
-    - derive/^yh/wn/
-    - derive/^yj/wm/
-    - derive/^hy/hw/
-    - derive/^t([wy])/dw/                       # t[wy] --> dw
-    - derive/^t([er])/df/                       # t[er] --> df
-    - derive/^tk/rk/                            # tk --> rk
-    - derive/^tg/rm/                            # tg --> rm
-    - derive/^tp/rl/                            # tp --> rl
-    - derive/^r([gv])/rb/                       # r[gv] --> rb
-    - derive/^rf/rn/                            # rf --> rn
-    - derive/^gf/gn/                            # gf --> gn
-    - derive/^gr/gm/                            # gr --> gm
-    - derive/^g([wy])/gi/
-    - derive/^xp/sl/
-    - derive/^xt/sb/
-    - derive/^xy/xo/
-    - derive/^xs/xh/
-    - derive/^nj/xj/
-    - derive/^nh/xh/
-    - derive/^nu/nx/
-    - derive/^no/nr/
-    - derive/^ly/nw/
-    - derive/^lm/nz/
-    - derive/^jm/jz/
-    - derive/^jx/ja/
-    - derive/^jb/jo/
-    - derive/^z([ws])/zk/
-    - derive/^za/zl/
-    - derive/^ze/zn/
-    - derive/^zr/zm/
-    - derive/^vr/vm/                            # vr --> vm
-    - derive/^vf/vn/                            # vf --> vn
-    - derive/^vg/vk/
-    - derive/^mb/ms/
-    - derive/^mh/mx/
-    - derive/^mk/me/
-    - derive/^mo/mr/
-    - derive/^mu/mv/
-    - derive/^b([hju])/a$1/
-    - derive/^b([fgknm])/s$1/
+
+    # ## 左右并击飞键音码规则
+    # - derive/^(j)n/$1c/
+    # # - derive/^([jyn])t/$1d/                     # t --> d
+    # # - derive/^([bjlmn])p/$1e/                   # p --> e
+    # # - derive/^([djlnx])q/$1f/                   # q --> f
+    # - derive/^q([biklmnpsxy])/f$1/
+    # - derive/^qt/fd/
+    # - derive/^qu/fe/
+    # - derive/^qr/fo/
+    # - derive/^qq/fz/
+    # - derive/^p([okifuhjbnmg])/e$1/
+    # - derive/^pp/el/                            # pp --> el
+    # - derive/^dp/dl/                            # dp --> dl
+    # - derive/^([jkiu])y/$1w/                    # [jkiu]y --> [jkiu]w
+    # - derive/^y([ikb])/w$1/                     # y[ikb] --> w[ikb]
+    # - derive/^y([asderzc])/o$1/
+    # - derive/^yu/ov/
+    # - derive/^yy/ow/
+    # - derive/^yh/wn/
+    # - derive/^yj/wm/
+    # - derive/^hy/hw/
+    # - derive/^t([wy])/dw/                       # t[wy] --> dw
+    # - derive/^t([er])/df/                       # t[er] --> df
+    # - derive/^tk/rk/                            # tk --> rk
+    # - derive/^tg/rm/                            # tg --> rm
+    # - derive/^tp/rl/                            # tp --> rl
+    # - derive/^r([gv])/rb/                       # r[gv] --> rb
+    # - derive/^rf/rn/                            # rf --> rn
+    # - derive/^gf/gn/                            # gf --> gn
+    # - derive/^gr/gm/                            # gr --> gm
+    # - derive/^g([wy])/gi/
+    # - derive/^xp/sl/
+    # - derive/^xt/sb/
+    # - derive/^xy/xo/
+    # - derive/^xs/xh/
+    # - derive/^nj/xj/
+    # - derive/^nh/xh/
+    # - derive/^nu/nx/
+    # - derive/^no/nr/
+    # - derive/^ly/nw/
+    # - derive/^lm/nz/
+    # - derive/^jm/jz/
+    # - derive/^jx/ja/
+    # - derive/^jb/jo/
+    # - derive/^z([ws])/zk/
+    # - derive/^za/zl/
+    # - derive/^ze/zn/
+    # - derive/^zr/zm/
+    # - derive/^vr/vm/                            # vr --> vm
+    # - derive/^vf/vn/                            # vf --> vn
+    # - derive/^vg/vk/
+    # - derive/^mb/ms/
+    # - derive/^mh/mx/
+    # - derive/^mk/me/
+    # - derive/^mo/mr/
+    # - derive/^mu/mv/
+    # - derive/^b([hju])/a$1/
+    # - derive/^b([fgknm])/s$1/
+
 
 grammar:
   language: zh-hans-t-essay-bgw

@@ -56,13 +56,11 @@ IPMI	ipmi	100000
 quickfix	quickfix	100000
 vimgrep	vimgrep	100000
 emoji	emoji	100000
-
 todesk	todesk	100000
 youtube	youtube	100000
 librime	librime	100000
-veui	veui	100000
-ve	ve	100000
-ee```	ee	100000
-fe	fe	100000
-nq	nq	100000
-ff	ff	100000
+trime	trime	100000
+neovim	neovim	100000
+Vue	vue	100000
+macbook	macbook	100000
+MacBook	macbook	100000

@@ -51,7 +51,7 @@ patch:
       # - derive/^(z)([^acdefghijklmnsu])/v$2/      # z => zh
       # - derive/^(c)([^acdefghijsuo])/i$2/         # c => ch
       # - derive/^(s)([^abcdefghijklmnu])/u$2/      # s => sh
-      - derive/^([zcsivuhk])f/$1g/                       # [zcs][h]en => [zcs][h]eng
-      - derive/^([zcsivuhk])g/$1f/                         # [zcs][h]eng => [zcs][h]en
-      - derive/^([ypdbnl])b/$1k/                   # in => ing
-      - derive/^([typdjxbml])k/$1b/              # ing => in
+      - derive/^([zcsivuhkfpb])f/$1g/                       # [zcs][h]en => [zcs][h]eng
+      - derive/^([zcsivuhkfpb])g/$1f/                         # [zcs][h]eng => [zcs][h]en
+      - derive/^([ypdbnlqmtjx])b/$1k/                   # in => ing
+      - derive/^([ypdbnlqmtjx])k/$1b/              # ing => in
