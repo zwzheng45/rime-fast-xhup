@@ -21,11 +21,11 @@ jobs:
 
     - name: Sync cn_dicts
       run: |
-        rsync -av --delete source_repo/cn_dicts/ ./cn_dicts/
+        rsync -av source_repo/cn_dicts/ ./cn_dicts/
 
     - name: Sync en_dicts
       run: |
-        rsync -av --delete source_repo/en_dicts/ ./en_dicts/
+        rsync -av source_repo/en_dicts/ ./en_dicts/
 
     - name: Commit and push changes
       run: |
