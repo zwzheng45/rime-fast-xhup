@@ -4,7 +4,7 @@ name: auto_update_sougou_dict
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"   # 设置定时任务
+    - cron: "0 1 * * *"   # 设置定时任务
 
 jobs:
   update_sogou_dict:
