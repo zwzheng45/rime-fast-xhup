@@ -56,11 +56,11 @@ preset_color_schemes:
     name: "純粹的形式/Purity of Form"
     author: 雨過之後、佛振
     candidate_format: "%c.\u2005%@ \u2005"
-    font_face: ''
+    font_face: 'HYQuanTangShiJ'
     font_point: 32
-    label_font_face: "Helvetica"                # 序号字体及大小
+    label_font_face: "FirstWorld_xianzhou"                # 序号字体及大小
     label_font_point: 28
-    comment_font_face: "Helvetica"              # 注字体及大小
+    comment_font_face: "HYQuanTangShiJ"              # 注字体及大小
     comment_font_point: 18
     candidate_list_layout: linear              # 候选排布: 层叠 stacked | 行 linear
     text_orientation: horizontal                # 行文向: 横 horizontal | 纵 vertical
@@ -96,11 +96,11 @@ preset_color_schemes:
   frosy_teal:
     name: "霜青／Frosty Teal"  # 配色取自 Alfred 自带主题 Frosty Teal
     author: Dvel
-    font_face: ""                                 # 字体及大小
+    font_face: "HYQuanTangShiJ"                                 # 字体及大小
     font_point: 32
-    label_font_face: "Helvetica"                  # 序号字体及大小
+    label_font_face: "FirstWorld_xianzhou"                  # 序号字体及大小
     label_font_point: 28
-    comment_font_face: "Helvetica"                # 注字体及大小
+    comment_font_face: "HYQuanTangShiJ"                # 注字体及大小
     comment_font_point: 18
     inline_preedit: true                         # 拼音位于： 候选框 false | 行内 true
     candidate_list_layout: linear                # 候选排布：层叠 stacked | 行 linear

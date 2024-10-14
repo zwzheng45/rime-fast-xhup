@@ -1,7 +1,8 @@
 ---
 name: en_custom
-version: "2023-07-15"
+version: "2024-4-8"
 ...
+abcd	abcd	100000
 vnext	vnext	100000
 xform	xform	100000
 devstack	devstack	100000
@@ -14,7 +15,6 @@ kolla	kolla	100000
 autostart	autostart	100000
 libvirt	libvirt	100000
 libvirtd	libvirtd	100000
-limit	limit	100000
 neovide	neovide	100000
 cgroup	cgroup	100000
 iscsid	iscsid	100000
@@ -33,7 +33,6 @@ ucloud	ucloud	100000
 fastapi	fastapi	100000
 webhook	webhook	100000
 filebeat	filebeat	100000
-tacker	tacker	100000
 scrum	scrum	100000
 kanban	kanban	100000
 websocket	websocket	100000
@@ -61,7 +60,28 @@ youtube	youtube	100000
 librime	librime	100000
 trime	trime	100000
 neovim	neovim	100000
-Vue	vue	100000
 macbook	macbook	100000
-MacBook	macbook	100000
-n	n	100000
+MacBook	Macbook	100000
+keyevent	keyevent	100000
+Opencc	Opencc	100000
+joker	joker	100000
+pinyin	pinyin	100000
+kong	kong	100000
+pipx	pipx	100000
+wechat	wechat	100000
+Docker	docker	100000
+launcher	launcher	100000
+applescript	applescript	100000
+ollama	ollama	100000
+pcall	pcall	100000
+push	push	100000
+punct	punct	100000
+iowait	iowait	100000
+preedit	preedit	100000
+taskset	taskset	100000
+ingress	ingress	100000
+OpenCore	opencore	100000
+vmstat	vmstat	100000
+Baidu	baidu	100000
+userdb	userdb	100000
+tooltip	tooltip	100000
