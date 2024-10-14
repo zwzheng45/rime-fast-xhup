@@ -11,10 +11,10 @@ jobs:
 
     steps:
     - name: Checkout this repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4.2.1
 
     - name: Checkout the source repository
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4.2.1
       with:
         repository: boomker/rime-fast-xhup
         path: source_repo
