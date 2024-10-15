@@ -16,6 +16,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Pull latest code
+        run: |
+          git pull
+
       - name: Set up Python
         uses: actions/setup-python@v5.1.1
         with:
