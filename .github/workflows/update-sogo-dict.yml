@@ -43,6 +43,13 @@ jobs:
         run: |
           awk -F'\t' 'FNR==NR&&NR>=10{a[$1]++;w[$1]=$0};FNR!=NR&&FNR>=10{b[$1]++}END{for(i in a){if(b[i]<1)print w[i]}}' ./cn_dicts/sougou_pop.dict.yaml ./cn_dicts/flypy_sogou.dict.yaml >diff_sg.txt
 
+      - name: 'Upload diff file'
+        uses: actions/upload-artifact@v4
+        with:
+          name: dict_difference
+          path: diff_sg.txt
+          retention-days: 5
+
       - name: Incremental update rime quanpin_dict to shuangpin_dict
         run: |
           python3 ./scripts/flypy_dict_generator.py -i ./diff_sg.txt -o ./cn_dicts/flypy_sogou.dict.yaml -m
@@ -65,8 +72,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Commit and push changes
-        run: |
-          git add cn_dicts/flypy_sogou.dict.yaml
-          git commit -m "Update sougou dict"
-          git push origin master
+      # - name: Commit and push changes
+      #   run: |
+      #     git add cn_dicts/flypy_sogou.dict.yaml
+      #     git commit -m "Update sougou dict"
+      #     git push origin master
