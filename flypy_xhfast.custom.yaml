@@ -53,6 +53,6 @@ patch:
       # - derive/^(s)([^abcdefghijklmnu])/u$2/      # s => sh
       - derive/^([zcsirvuhkfpbmgl])f/$1g/                       # [zcs][h]en => [zcs][h]eng
       - derive/^([zcsirvuhkfpbmgl])g/$1f/                         # [zcs][h]eng => [zcs][h]en
-      - derive/^([ypdbnlqmtjx])b/$1k/                   # in => ing
-      - derive/^([ypdbnlqmtjx])k/$1b/              # ing => in
+      - derive/^([ypdbnlqmtjxf])b/$1k/                   # in => ing
+      - derive/^([ypdbnlqmtjxf])k/$1b/              # ing => in
       - derive/^([o])u/$1z/              # ou => oz
