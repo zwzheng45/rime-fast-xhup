@@ -281,7 +281,7 @@ recognizer:
     # emojis: "^of[a-z]*'?$"
 
 menu:
-  page_size: 5 # 候选词个数
+  page_size: 5 # 词个数
 
 traditionalize:
   option_name: traditionalization

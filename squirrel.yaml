@@ -58,7 +58,7 @@ preset_color_schemes:
     candidate_format: "%c.\u2005%@ \u2005"
     font_face: 'HYQuanTangShiJ'
     font_point: 32
-    label_font_face: "FirstWorld_xianzhou"                # 序号字体及大小
+    label_font_face: "HYQuanTangShiJ"                # 序号字体及大小
     label_font_point: 28
     comment_font_face: "HYQuanTangShiJ"              # 注字体及大小
     comment_font_point: 18
@@ -98,7 +98,7 @@ preset_color_schemes:
     author: Dvel
     font_face: "HYQuanTangShiJ"                                 # 字体及大小
     font_point: 32
-    label_font_face: "FirstWorld_xianzhou"                  # 序号字体及大小
+    label_font_face: "HYQuanTangShiJ"                  # 序号字体及大小
     label_font_point: 28
     comment_font_face: "HYQuanTangShiJ"                # 注字体及大小
     comment_font_point: 18
