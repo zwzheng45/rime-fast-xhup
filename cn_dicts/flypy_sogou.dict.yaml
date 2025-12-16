@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2025-12-15
+version: 2025-12-16
 sort: by_weight
 ...
 
@@ -64767,3 +64767,6 @@ sort: by_weight
 阿尔巴尼亚	aa er ba ni ya	1
 阿贝多	aa bw do	1
 阿布扎比	aa bu va bi	1
+阿米诺斯	aa mi no si	1
+阿尔巴尼斯	aa er ba ni si	1
+阿康云医	aa kh yy yi	1
