@@ -33,6 +33,7 @@ version: "2025-12-22"
 -	jm
 -	gh
 .	dm
+/	xg
 &	he
 %	bf
 %	pc
@@ -150,6 +151,10 @@ M2
 M3
 M4
 S3
+
+n8n
+KHz
+MHz
 F5G
 F10
 F11
@@ -168,14 +173,15 @@ K8S
 256MB
 512MB
 500GB
-n8n
-MHz
 2.4G
 60Hz
 90Hz
 120Hz
 144Hz
 240Hz
+500ml
+60fps
+120fps
 AE86
 H263
 H264
@@ -190,11 +196,10 @@ IPv6
 VIP1
 VIP2
 VIP3
+HiFi
 SVIP1
 SVIP2
 SVIP3
-HiFi
-500ml
 PM2.5
 3DMax
 7-Zip
@@ -202,8 +207,9 @@ utf-8
 UTF-8
 HTTP2
 HTTP3
-HTTP1.1
 WiFi-6
+HTTP1.1
+GLM-4.7
 
 1L水
 00后
@@ -221,6 +227,8 @@ WiFi-6
 4S店
 4A级
 5A级
+2025年
+2026年
 2B铅笔
 2K电视
 2K分辨率
@@ -248,16 +256,25 @@ WiFi-6
 8K分辨率
 8K显示器
 100%确认
+120Hz高刷
+144Hz高刷
+240Hz高刷
 304不锈钢
 316不锈钢
+1.6T光模块
+800G光模块
 
 嗑CP
 v我50
-免root
+O不OK
+OK了吗
+我OK啊
 这TM的
+免root
 我TM服了
-我@你一下
+非常nice
 B站大会员
+我@你一下
 
 a4纸
 A4腰
@@ -313,6 +330,7 @@ POS机
 PVC管
 SDK包
 SIM卡
+eSIM卡
 T细胞
 T恤衫
 TCP包
@@ -343,9 +361,6 @@ CTRL键
 Ctrl键
 Eject键
 Enter键
-O不OK
-OK了吗
-我OK啊
 AV女优
 BC电池
 AD钙奶
@@ -368,8 +383,6 @@ T568A标准
 RJ11水晶头
 RJ45水晶头
 HJT电池
-HBM内存
-MCU芯片
 MCN机构
 QQ号码
 QQ空间
@@ -392,14 +405,19 @@ C++语言
 Java语言
 Java代码
 Bash脚本
-公网IP
 飞牛OS
+iOS系统
+Win7系统
+Win11系统
+macOS系统
 AB型血
 AB血型
 HB铅笔
 HDMI线
-IP协议
+内网IP
+公网IP
 IP地址
+IP协议
 IP电话
 IP经济
 YY语音
@@ -415,6 +433,7 @@ HD高清
 JK制服
 UI设计
 UI界面
+UX设计
 V8引擎
 我叫MT
 卡拉OK
@@ -429,22 +448,27 @@ V8引擎
 歼-20S
 歼-35A
 霹雳-15
+鹰击-18
+鹰击-21
+鹰击-83
 东风-31
 东风-41
 东风-5C
 东风-61
-鹰击-18
-鹰击-21
-鹰击-83
 东风-21D
 东风-26D
 东风-31A
 空警-500
+
+C919飞机
 FPV无人机
 
+L3级
 挂D档
 挂P档
 挂R档
+L3级智驾
+L3辅助驾驶
 Tesla汽车
 小鹏G9
 小鹏G6
@@ -569,6 +593,9 @@ LOF基金
 中证500
 中证1000
 创业板50
+10CM涨停
+20CM涨停
+30CM涨停
 
 6G概念
 C2M概念
@@ -593,22 +620,40 @@ Sora概念
 Pixel手机
 Redmi手机
 
+异维A酸
 维生素A
 维生素B
 维生素C
 维生素D
 维生素E
 维生素K
+维生素E乳
+
+7Z压缩
+Zip压缩
+7-Zip压缩
+
+PCB板
+HBM内存
+MCU芯片
+UPS电源
+H200芯片
+ASIC芯片
+M9覆铜板
+PCB电路板
+
+双buff
+叠buff
+非常6+1
+哆啦A梦
 头文字D
 阿Q精神
 阿Q正传
+芭比Q了
 Z逆变换
 逆Z变换
-哆啦A梦
-异维A酸
-芭比Q了
-非常6+1
 永硕E盘
+115网盘
 小米SU7
 小米YU7
 ABS刹车
@@ -635,6 +680,10 @@ CNC加工
 CNY账户
 CPU核数
 CPU温度
+GPU加速
+GPU性能
+国产CPU
+国产GPU
 CRM软件
 CRM系统
 CSS样式
@@ -654,7 +703,6 @@ DoS攻击
 DDR3内存
 DDR4内存
 DDR5内存
-LPDDR内存
 ECC内存
 ERP系统
 ESP系统
@@ -662,8 +710,6 @@ GDP增速
 GDP增长
 GPS导航
 GPS定位
-GPU加速
-GPU性能
 GRE考试
 Git提交
 ICP备案
@@ -690,6 +736,11 @@ RAM容量
 RNA分析
 RNA提取
 ROM空间
+CBA直播
+CBA赛程
+NBA直播
+NBA赛程
+WPS连接
 SEM图像
 SMT贴片
 SQL语句
@@ -700,13 +751,12 @@ SUV车身
 SUV车型
 SVN仓库
 URL链接
-URL重定向
 USB接口
 USD汇率
 UTM投影
 VGA接口
 VIP会员
-SVIP会员
+VIP用户
 VPN连接
 XML格式
 XRD测试
@@ -714,10 +764,10 @@ X86架构
 SSL加密
 TLS加密
 IoT设备
+I/O设备
 工业4.0
 Rime方案
 Rime引擎
-Rime输入法
 BIOS设置
 BOSS直聘
 H5小程序
@@ -741,6 +791,7 @@ POST请求
 HTTP请求
 HTTP协议
 HTTPS协议
+LPDDR内存
 多模态AI
 AI智能体
 JPEG图片
@@ -751,30 +802,30 @@ YAML格式
 YAML配置
 TOML格式
 TOML配置
-WPS连接
+Word文档
 WiFi密码
 WiFi信号
-Word文档
-CBA直播
-CBA赛程
-NBA直播
-NBA赛程
+IPv4地址
+IPv6地址
+URL重定向
 CBA常规赛
 NBA常规赛
 ABS防抱死
 CPU散热器
 B型超声波
 B淋巴细胞
-维生素E乳
+T淋巴细胞
 PDF阅读器
 PDF转换器
 SDK工具包
 SQL数据库
 TypeC接口
-T淋巴细胞
 单边Z变换
 双边Z变换
 IoT物联网
+随身Wi-Fi
+江南Style
+Rime输入法
 OSI七层模型
 
 V冷
