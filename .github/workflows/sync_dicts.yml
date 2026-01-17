@@ -1,8 +1,8 @@
-name: Sync dicts
+name: Sync Dicts
 
 on:
   schedule:
-    - cron: "15 0 * * *" # 每天运行一次
+    - cron: "15 0 * * *" # 每天 00:15 UTC
   workflow_dispatch:
 
 permissions:
@@ -17,35 +17,52 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: true
+          persist-credentials: false
 
-      - name: Checkout the source repository
+      - name: Checkout upstream repository (source_repo)
         uses: actions/checkout@v4
         with:
           repository: boomker/rime-fast-xhup
           path: source_repo
           fetch-depth: 1
+          persist-credentials: false
 
-      - name: Sync cn_dicts
-        run: rsync -av --delete source_repo/cn_dicts/ cn_dicts/
+      - name: Sync cn_dicts (overwrite update, keep local extras)
+        run: |
+          mkdir -p cn_dicts
+          rsync -av source_repo/cn_dicts/ ./cn_dicts/
 
-      - name: Sync en_dicts
-        run: rsync -av --delete source_repo/en_dicts/ en_dicts/
+      - name: Sync en_dicts (overwrite update, keep local extras)
+        run: |
+          mkdir -p en_dicts
+          rsync -av source_repo/en_dicts/ ./en_dicts/
+
+      - name: Sync flypy_xhfast.dict.yaml (force overwrite from upstream)
+        run: |
+          cp -f source_repo/flypy_xhfast.dict.yaml ./flypy_xhfast.dict.yaml
 
       - name: Commit and push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          # 防止误提交嵌套仓库
+          # 1) 修复：防止 source_repo 被当作嵌套仓库/子模块加入版本控制
+          git rm -r --cached source_repo 2>/dev/null || true
           rm -rf source_repo
 
+          # 2) 忽略 source_repo（只需要提交一次，后续不再出现）
+          if [ ! -f .gitignore ]; then
+            touch .gitignore
+          fi
+          grep -qx "source_repo/" .gitignore || echo "source_repo/" >> .gitignore
+
+          # 3) 配置提交身份
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # 只提交词库目录，不要 git add .
-          git add cn_dicts/ en_dicts/
+          # 4) 只提交需要同步的内容（不要 git add .）
+          git add cn_dicts/ en_dicts/ flypy_xhfast.dict.yaml .gitignore
 
-          # 没变化就直接退出（避免 nothing to commit 导致失败）
+          # 5) 没变化就退出
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -53,6 +70,6 @@ jobs:
 
           git commit -m "Sync dicts from boomker/rime-fast-xhup"
 
-          # 确保 push 使用 token（避免 403）
+          # 6) 用 token 推送，避免 403
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git push origin HEAD:master
+          git push origin HEAD:${GITHUB_REF_NAME}
