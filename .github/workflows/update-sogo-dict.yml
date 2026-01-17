@@ -1,9 +1,9 @@
 # 自动同步上游项目变更
 name: auto_update_sougou_dict
 
-on:
-  workflow_dispatch:
-  schedule:
+#on:
+#  workflow_dispatch:
+#  schedule:
 #    - cron: "0 1 * * *"   # 设置定时任务
 
 jobs:
