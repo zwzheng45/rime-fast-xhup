@@ -2,37 +2,57 @@ name: Sync dicts
 
 on:
   schedule:
-    - cron: '15 0 * * *' # 每天运行一次
+    - cron: "15 0 * * *" # 每天运行一次
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   sync_dicts:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout this repository
-      uses: actions/checkout@v4.2.1
+      - name: Checkout this repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-    - name: Checkout the source repository
-      uses: actions/checkout@v4.2.1
-      with:
-        repository: boomker/rime-fast-xhup
-        path: source_repo
+      - name: Checkout the source repository
+        uses: actions/checkout@v4
+        with:
+          repository: boomker/rime-fast-xhup
+          path: source_repo
+          fetch-depth: 1
 
-    - name: Sync cn_dicts
-      run: |
-        rsync -av source_repo/cn_dicts/ ./cn_dicts/
+      - name: Sync cn_dicts
+        run: rsync -av --delete source_repo/cn_dicts/ cn_dicts/
 
-    - name: Sync en_dicts
-      run: |
-        rsync -av source_repo/en_dicts/ ./en_dicts/
+      - name: Sync en_dicts
+        run: rsync -av --delete source_repo/en_dicts/ en_dicts/
 
-    - name: Commit and push changes
-      run: |
-        git config --global user.name 'github-actions[bot]'
-        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
-        git commit -m 'Sync dicts from boomker/rime-fast-xhup'
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # 防止误提交嵌套仓库
+          rm -rf source_repo
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # 只提交词库目录，不要 git add .
+          git add cn_dicts/ en_dicts/
+
+          # 没变化就直接退出（避免 nothing to commit 导致失败）
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Sync dicts from boomker/rime-fast-xhup"
+
+          # 确保 push 使用 token（避免 403）
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin HEAD:master
