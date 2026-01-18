@@ -15,9 +15,11 @@
   - 添加了一些数学用的快速符号输入
   - 小改了一下默认皮肤
 
-本仓库还会每天从原方案仓库同步词库文件，你也可以[参考这个脚本](https://gist.github.com/zwzheng45/55edc1063d1c5f40c5569888ecbeb6bd)通过定时任务自动更新本地的词库。
+本仓库还使用 [GitHub Action](https://github.com/zwzheng45/rime-fast-xhup/actions/workflows/sync_dicts.yml) 每天从原方案仓库同步词库文件，[像这样](https://gist.github.com/zwzheng45/55edc1063d1c5f40c5569888ecbeb6bd)通过定时任务自动更新本地的词库。
 
-以下是原自述文件
+万象语法模型`wanxiang-lts-zh-hans.gram`使用git-lfs存储，请确保克隆时安装有git-lfs，或手动[下载模型文件](wanxiang-lts-zh-hans.gram)并覆盖。
+
+以下是原README
 
 ## Rime 输入法双拼加辅助码方案
 
