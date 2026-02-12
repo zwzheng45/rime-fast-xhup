@@ -254,27 +254,30 @@ local function twac_filter(input, env)
 
     if table.find({6, 8}, #preedit_code) and string.find(preedit_code, "^%l+") then
         local reversedb_phrase = ReverseLookup("flypy_phrase")
-        local i, when_done, commit_text = 1, 0, nil
-        for _, cand in pairs(tfchars_word_cands) do
-            local reverse_code = reversedb_phrase:lookup(cand.text)
+        if reversedb_phrase then
+            local i, when_done, commit_text = 1, 0, nil
+            for _, cand in pairs(tfchars_word_cands) do
+                local reverse_code = reversedb_phrase:lookup(cand.text)
+                if reverse_code then
+                    local match_res = string.match(reverse_code, preedit_code)
+                    if match_res then
+                        done = done + 1
+                        when_done = when_done + 1
+                        if done == 1 then commit_text = cand.text end
+                    end
+                end
 
-            local match_res = string.match(reverse_code, preedit_code)
-            if reverse_code and match_res then
-                done = done + 1
-                when_done = when_done + 1
-                if done == 1 then commit_text = cand.text end
+                if (i >= 5) and (done == 1) and (pos >= 6) and (when_done == 1) and
+                    ((#preedit_code / 2 == utf8.len(commit_text)) or
+                        (#preedit_code / 3 == utf8.len(commit_text))) then
+                    local cand_txt = append_space_to_cand(env, commit_text)
+                    env.engine:commit_text(cand_txt)
+                    context:clear()
+                    reset_cand_property(env)
+                    return 1 -- kAccepted
+                end
+                i = i + 1
             end
-
-            if (i >= 5) and (done == 1) and (pos >= 6) and (when_done == 1) and
-                ((#preedit_code / 2 == utf8.len(commit_text)) or
-                    (#preedit_code / 3 == utf8.len(commit_text))) then
-                local cand_txt = append_space_to_cand(env, commit_text)
-                env.engine:commit_text(cand_txt)
-                context:clear()
-                reset_cand_property(env)
-                return 1 -- kAccepted
-            end
-            i = i + 1
         end
     end
 

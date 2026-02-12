@@ -1,3 +1,27 @@
+这是一个 Rime 输入方案，使用小鹤双拼 + 鹤形辅助码。只是为了自用，代码质量较差，请多支持原作者。
+
+本方案改自[boomker/rime-fast-xhup](https://github.com/boomker/rime-fast-xhup)，主要做了如下更改以适合我自己：
+
+- 只使用原版小鹤双拼 + 鹤形辅助码，使用 Tab 键插入辅助码，例如：小（xn [tab] ld）、双（ul [tab] yy）
+  - 禁用了其他方案，包括音码飞键（原作者很好的想法，可惜我用不来，好在小鹤的音码布局本来就是双拼中较为均衡的了）
+- 使用更大的[万象语法模型（RIME-LMDG）](https://github.com/amzxyz/RIME-LMDG)，拥有更好的长句输入体验
+- 以及一些杂项
+  - eng-en，ing-in模糊音
+  - 辅助码存在唯一匹配时自动上屏
+  - 辅助码提示
+  - 禁用了一些我习惯手动做的事情，比如
+    - 符号成对输入
+    - 中英文间自动添加空格
+  - 添加了一些数学用的快速符号输入
+  - 小改了一下默认皮肤
+
+本仓库使用 [GitHub Action](../../actions/workflows/update_sogou_dict.yml) 每天更新搜狗词库，再[像这样](https://gist.github.com/zwzheng45/55edc1063d1c5f40c5569888ecbeb6bd)通过定时任务自动更新本地的词库。
+
+万象语法模型`wanxiang-lts-zh-hans.gram`使用git-lfs存储，请确保克隆时安装有git-lfs，或手动[下载模型文件](wanxiang-lts-zh-hans.gram)并覆盖。
+
+以下是原README
+
+
 ## Rime 输入法双拼加辅助码方案
 
 Rime 输入法配置文件，小鹤双拼+小鹤形码辅助方案。使用后打字几乎不需要翻页，且学习成本明显低于五笔等输入方案。
