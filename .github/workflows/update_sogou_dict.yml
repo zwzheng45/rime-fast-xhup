@@ -48,7 +48,7 @@ jobs:
 
       - name: Download sogou scel file
         run: |
-          curl -fsL -o sogou_net_pop.scel 'https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=网络流行新词【官方推荐】&f=detail'
+          curl -vfsL -o sogou_net_pop.scel 'https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=网络流行新词【官方推荐】&f=detail'
 
       - name: Convert sogou scel to rime quanpin dict
         run: |
