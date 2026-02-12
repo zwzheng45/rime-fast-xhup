@@ -1,12 +1,19 @@
 # Rime dictionary
 # encoding: utf-8
+#
 # 挂载中英混合输入方案的词库
 #
 
 ---
 name: flypy_melt_eng
-version: "2026.01.25"
+version: "2026.01.15"
+
 ...
+
+α	af
+β	bt
+θ	xt
+γ	gm
 
 1	yi
 2	er
@@ -33,15 +40,17 @@ version: "2026.01.25"
 18	ub
 19	uj
 000	qm
-@	aT
-+	jX
--	jM
--	gH
-.	dM
-/	xG
-&	hE
-%	bF
-%	pC
+@	at
++	jx
+-	jm
+-	gh
+.	dm
+/	xg
+&	he
+%	bf
+%	pc
+C#	cj
+F#	fj
 
 A	A
 B	B
@@ -220,11 +229,11 @@ SVIP3
 512MB
 500GB
 3DMax
-7-Zip
+7-Zip	qzip
 utf8
 utf-8	utfb
-UTF-8
-UTF-16
+UTF-8	utfb
+UTF-16	utful
 v2rayA
 V2rayN
 V2rayNG
@@ -355,6 +364,10 @@ TG群
 拍CT
 做B超
 充Q币
+α粒子
+β粒子
+θ粒子
+γ射线
 e招贷
 AVL树
 A出口
@@ -437,9 +450,8 @@ QQ三国
 
 C编程
 C语言
-C#编程	cjbi
-C#语言	cjyy
-F#语言	fjyy
+C#编程
+C#语言
 Go程序
 Go语言
 Vue框架
@@ -752,7 +764,7 @@ HBM内存
 MCU芯片
 VGA接口
 USB接口
-I/O设备	ioub
+I/O设备
 LCD屏幕
 LED屏幕
 LED电视
@@ -856,7 +868,6 @@ DNS查询
 DNS请求
 DNS劫持
 DNS污染
-私人DNS
 DoS攻击
 ECC内存
 ERP系统
@@ -919,8 +930,6 @@ PUT请求
 Web应用
 Web开发
 WPS连接
-WPS联网
-MESH组网
 Rime方案
 Rime引擎
 BOSS直聘
@@ -970,4 +979,3 @@ IoT物联网
 江南Style
 Rime输入法
 OSI七层模型
-台北101大厦
