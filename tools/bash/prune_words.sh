@@ -105,4 +105,4 @@ ${SCMD} -i \
     -e '/单依纯/s/dj/uj/1' \
     -e '/夺宝券/s/jr/qr/1' \
     -e '/听调不听/s/tn/dn/1' \
-    -r -e '/^曾[^经几用]/s/\tcg/\tzg/1' flypy_sghot.dict.yaml
+    -r -e '/^曾[^经几用]/s/\tcg/\tzg/1' cn_dicts/flypy_sogou.dict.yaml

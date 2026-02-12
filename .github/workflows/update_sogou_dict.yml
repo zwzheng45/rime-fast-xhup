@@ -63,12 +63,12 @@ jobs:
         run: |
           python3 ./tools/python/flypy_dict_generator.py -i ./diff_sg.txt -o ./cn_dicts/flypy_sogou.dict.yaml -m -w 100
 
-      - name: change version for flypy_sghot.dict.yaml
+      - name: change version for flypy_sogou.dict.yaml
         run: |
           today="$(date '+%F')"
           sed -i "s/version: .*/version: $today/" ./cn_dicts/flypy_sogou.dict.yaml
 
-      - name: Remove spam entries for flypy_sghot.dict.yaml
+      - name: Remove spam entries for flypy_sogou.dict.yaml
         run: |
           bash ./tools/bash/prune_words.sh
 
