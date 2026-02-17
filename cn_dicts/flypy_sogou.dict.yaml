@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-02-16
+version: 2026-02-17
 sort: by_weight
 ...
 
@@ -116264,7 +116264,6 @@ sort: by_weight
 辽视	ln ui	100
 拖尾	to ww	100
 除夕夜	iu xi ye	100
-陆校服	dk xn fu	100
 粘对联	vj dv lm	100
 打咩	da mp	100
 位移为零	ww yi ww lk	100
@@ -116334,3 +116333,315 @@ sort: by_weight
 张万森下雪了	vh wj sf xx xt le	100
 饿了么订单	ee le me dk dj	100
 手感	uz gj	100
+热情桑巴	re qk sh ba	100
+香缇莫	xl ti mo	100
+自选包	zi xr bc	100
+金浪	jb lh	100
+缄花	jm hx	100
+雷军换头像	lw jy hr tz xl	100
+拜年红包	bd nm hs bc	100
+大年初一	da nm iu yi	100
+压岁	ya sv	100
+梵希雅机位	fj xi ya ji ww	100
+马年祝福	ma nm vu fu	100
+辞岁	ci sv	100
+蚂蚁说	ma yi uo	100
+敬菩萨	jk pu sa	100
+阿离	aa li	100
+马到成功	ma dc ig gs	100
+胡杰	hu jp	100
+今日除夕	jb ri iu xi	100
+棍式	gy ui	100
+樊振东	fj vg ds	100
+夺宝券	do bc qr	100
+门联	mf lm	100
+雷犁热刀	lw li re dc	100
+星衍	xk yj	100
+卡膜	ka mo	100
+马踏祥云	ma ta xl yy	100
+大吉大利	da ji da li	100
+凌虚子怎么打	lk xu zi zf me da	100
+敖隐	ao yb	100
+拜年啦	bd nm la	100
+蛇年	ue nm	100
+吗喽	ma lz	100
+夜市新星	ye ui xb xk	100
+顺顺当当	uy uy dh dh	100
+范丞丞红包	fj ig ig hs bc	100
+这一大桌子	ve yi da vo zi	100
+春晚没有相声	iy wj mw yz xl ug	100
+越来越好	yt ld yt hc	100
+福如东海	fu ru ds hd	100
+打咩	da mp	100
+健健康康	jm jm kh kh	100
+手气	uz qi	100
+吾妻晚音	wu qi wj yb	100
+蒜苔	sr td	100
+孙颖莎红包	sy yk ua hs bc	100
+马年春晚彩排	ma nm iy wj cd pd	100
+年年有余	nm nm yz yu	100
+新春佳节	xb iy jx jp	100
+柯冉	ke rj	100
+元宝红包雨	yr bc hs bc yu	100
+天公	tm gs	100
+牢帕	lc pa	100
+贴了对联	tp le dv lm	100
+南绷	nj bh	100
+东星斑	ds xk bj	100
+伊内丝	yi nw si	100
+安赛龙	an sd ls	100
+梵希雅	fj xi ya	100
+红包红包	hs bc hs bc	100
+牢弟	lc di	100
+黄金中事件	hl jb vs ui jm	100
+招财进宝	vc cd jb bc	100
+击破特工	ji po te gs	100
+旧梗	jq gg	100
+明星红包预约	mk xk hs bc yu yt	100
+我擀皮	wo gj pi	100
+烧香	uc xl	100
+倒数第二发	dc uu di er fa	100
+陈妍希空降	if yj xi ks jl	100
+夜莺	ye yk	100
+光追	gl vv	100
+黄景瑜红包	hl jk yu hs bc	100
+红温了	hs wf le	100
+癫公颠婆	dm gs dm po	100
+拜年	bd nm	100
+青春永驻	qk iy ys vu	100
+巩汉林	gs hj lb	100
+天天开心	tm tm kd xb	100
+朱涛	vu tc	100
+林培生	lb pw ug	100
+包贝尔一家	bc bw er yi jx	100
+央蛮	yh mj	100
+粗细	cu xi	100
+迪奥开运红	di ao kd yy hs	100
+果宝特工	go bc te gs	100
+整几个菜	vg ji ge cd	100
+周翊然红包	vz yi rj hs bc	100
+同堂	ts th	100
+欧气	ou qi	100
+金粉	jb ff	100
+万金泪冠	wj jb lw gr	100
+杨迪除夕红包	yh di iu xi hs bc	100
+年饭	nm fj	100
+双丰收	ul fg uz	100
+硬菜	yk cd	100
+马尼菈	ma ni la	100
+七个红包	qi ge hs bc	100
+拜老爷	bd lc ye	100
+玛拉妮	ma la ni	100
+我们春天见	wo mf iy tm jm	100
+吉祥安康	ji xl an kh	100
+爆竹声	bc vu ug	100
+西格玛男人	ma ge xi nj rf	100
+好好的时光	hc hc de ui gl	100
+成毅的年夜饭	ig yi de nm ye fj	100
+河南下雪	he nj xx xt	100
+祖先	zu xm	100
+挂件	gx jm	100
+登陆少年	dg lu uc nm	100
+晦月魔君	hv yt mo jy	100
+看春晚	kj iy wj	100
+包水饺了	bc uv jn le	100
+蒋诗萌	jl ui mg	100
+檀健次红包	tj jm ci hs bc	100
+远漫	yr mj	100
+雷霆特工队	lw tk te gs dv	100
+马上有财	ma uh yz cd	100
+潘斌龙	pj bb ls	100
+家庭美满	jx tk mw mj	100
+登陆日	dg lu ri	100
+围炉	ww lu	100
+作弊版	zo bi bj	100
+马年顺遂	ma nm uy sv	100
+刘涛新年送福	lq tc xb nm ss fu	100
+娜维娅	na ww ya	100
+镇魂街	vf hy jp	100
+黑吗喽	hw ma lz	100
+浮屠界	fu tu jp	100
+帕加尼	pa jx ni	100
+祈愿	qi yr	100
+恭喜你发财	gs xi ni fa cd	100
+春节洗头日历	iy jp xi tz ri li	100
+阿米诺斯	aa mi no si	100
+迪希雅	di xi ya	100
+锦绣	jb xq	100
+马年祝福壁纸	ma nm vu fu bi vi	100
+马年大吉大利	ma nm da ji da li	100
+梵希雅弹唱	fj xi ya tj ih	100
+潘展乐双记录	pj vj le ul ji lu	100
+身体安康	uf ti an kh	100
+六六大顺	lq lq da uy	100
+卷角	jr jn	100
+马到功成	ma dc gs ig	100
+万马奔腾	wj ma bf tg	100
+尉迟恭	yu ii gs	100
+全家幸福	qr jx xk fu	100
+都除夕了	dz iu xi le	100
+显眼包	xm yj bc	100
+吗喽	ma lz	100
+世一决	ui yi jt	100
+雪迷宫	xt mi gs	100
+太过完美	td go wj mw	100
+积分夺宝券	ji ff do bc qr	100
+白鹿红包预告	bd lu hs bc yu gc	100
+电子产品日	dm zi ij pb ri	100
+除夕快乐	iu xi kk le	100
+负温度	fu wf du	100
+新年有礼了	xb nm yz li le	100
+川渝	ir yu	100
+塔柳	ta lq	100
+李宗恒小品	li zs hg xn pb	100
+世界队	ui jp dv	100
+梁洁红包	ll jp hs bc	100
+我的新年心愿	wo de xb nm xb yr	100
+直接领	vi jp lk	100
+过年了	go nm le	100
+六级包	lq ji bc	100
+我叫张三	wo jn vh sj	100
+马年行大运	ma nm xk da yy	100
+坟山	ff uj	100
+全英雄	qr yk xs	100
+打保底	da bc di	100
+团年饭	tr nm fj	100
+年三十了	nm sj ui le	100
+老板大气	lc bj da qi	100
+欢乐	hr le	100
+小品天赋	xn pb tm fu	100
+夜饭	ye fj	100
+陆校服	dk xn fu	100
+小品	xn pb	100
+山东卫视春晚	uj ds ww ui iy wj	100
+曾舜晞红包	zg uy xi hs bc	100
+打咩	da mp	100
+年夜饭文案	nm ye fj wf an	100
+奈川	nd ir	100
+白蛇	bd ue	100
+阳炽	yh ii	100
+猫爪美甲	mc vx mw jx	100
+几杯辟谣去世	ji bw pi yc qu ui	100
+马年到	ma nm dc	100
+撕胶带	si jn dd	100
+财运亨通	cd yy hg ts	100
+独子	du zi	100
+王楚然红包	wh iu rj hs bc	100
+卡拉比丘	ka la bi qq	100
+骏马	jy ma	100
+战至巅峰	vj vi dm fg	100
+陈星旭的红包	if xk xu de hs bc	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+财运旺	cd yy wh	100
+梵希雅真的强	fj xi ya vf de ql	100
+小舞姐	xn wu jp	100
+新年祝福语	xb nm vu fu yu	100
+毛晓彤红包	mc xn ts hs bc	100
+梵希雅第一	fj xi ya di yi	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+大团圆	da tr yr	100
+星鸣特工	xk mk te gs	100
+张杰梵希雅	vh jp fj xi ya	100
+辽台	ln td	100
+金元宝	jb yr bc	100
+苏新皓红包	su xb hc hs bc	100
+王一博出图	wh yi bo iu tu	100
+贺池	he ii	100
+荣光	rs gl	100
+过年啦	go nm la	100
+拜年礼	bd nm li	100
+幽邃地窟	yz sv di ku	100
+新联	xb lm	100
+接崽	jp zd	100
+小骊龙	xn li ls	100
+春节快乐	iy jp kk le	100
+马上来财	ma uh ld cd	100
+余时	yu ui	100
+祝愿	vu yr	100
+掌勺	vh uc	100
+黑吗喽	hw ma lz	100
+缉盗	ji dc	100
+金字	jb zi	100
+新春大吉	xb iy da ji	100
+健康幸福	jm kh xk fu	100
+癫公	dm gs	100
+尼菈	ni la	100
+王安宇红包	wh an yu hs bc	100
+我嘞个豆	wo le ge dz	100
+寿比南山	uz bi nj uj	100
+偷偷放	tz tz fh	100
+祝你快乐	vu ni kk le	100
+周慧敏	vz hv mb	100
+王异	wh yi	100
+顺心如意	uy xb ru yi	100
+旺火	wh ho	100
+等白鹿红包	dg bd lu hs bc	100
+辽宁卫视春晚	ln nk ww ui iy wj	100
+要吃年夜饭	yc ii nm ye fj	100
+炖鱼	dy yu	100
+云璃	yy li	100
+李子柒真诚	li zi qi vf ig	100
+鲨刀	ua dc	100
+过年饭	go nm fj	100
+除夕守岁	iu xi uz sv	100
+于适骑马出场	yu ui qi ma iu ih	100
+红包口令	hs bc kz lk	100
+肥宗	fw zs	100
+最后一跳	zv hz yi tn	100
+事事如意	ui ui ru yi	100
+央视马年春晚	yh ui ma nm iy wj	100
+解斑	jp bj	100
+少生气	uc ug qi	100
+蒜蓉粉丝虾	sr rs ff si xx	100
+发红包	fa hs bc	100
+马年发大财	ma nm fa da cd	100
+包完啦	bc wj la	100
+杨幂贺岁图	yh mi he sv tu	100
+梵希雅第四	fj xi ya di si	100
+一阳双排	yi yh ul pd	100
+祠堂	ci th	100
+做年夜饭	zo nm ye fj	100
+基尼奇	ji ni qi	100
+敬神	jk uf	100
+露一手	lz yi uz	100
+春晚节目单	iy wj jp mu dj	100
+春晚大赏	iy wj da uh	100
+年夜饭	nm ye fj	100
+新春吉祥	xb iy ji xl	100
+赵小棠	vc xn th	100
+喜庆	xi qk	100
+节目单	jp mu dj	100
+张杰日常宠粉	vh jp ri ih is ff	100
+泰酷辣	td ku la	100
+仄起平收	ze qi pk uz	100
+我嘞个	wo le ge	100
+飞霄	fw xn	100
+炮竹	pc vu	100
+秦叔宝	qb uu bc	100
+福满门	fu mj mf	100
+卡齐娜	ka qi na	100
+周深演老头	vz uf yj lc tz	100
+年夜饭送到家	nm ye fj ss dc jx	100
+美满	mw mj	100
+周铁男	vz tp nj	100
+马年祝福语	ma nm vu fu yu	100
+全抽	qr iz	100
+厄夏	ee xx	100
+凌虚子	lk xu zi	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+汪苏泷毛衣	wh su ls mc yi	100
+难绷	nj bg	100
+孙颖莎	sy yb ua	100
+朱志鑫红包	vu vi xb hs bc	100
+朱重八	vu is ba	100
+幻影特工	hr yk te gs	100
+蒜苔	sr td	100
+语言成绩	yu yj ig ji	100
+马蹄疾	ma ti ji	100
+光追	gl vv	100
+过大年	go da nm	100
+烧鞭炮	uc bm pc	100
+主厨	vu iu	100
+张万森下雪了	vh wj sf xx xt le	100
+饿了么订单	ee le me dk dj	100
+大烟花	da yj hx	100
