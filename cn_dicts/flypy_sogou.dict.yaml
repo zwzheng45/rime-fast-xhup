@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-02-17
+version: 2026-02-18
 sort: by_weight
 ...
 
@@ -116511,7 +116511,6 @@ sort: by_weight
 欢乐	hr le	100
 小品天赋	xn pb tm fu	100
 夜饭	ye fj	100
-陆校服	dk xn fu	100
 小品	xn pb	100
 山东卫视春晚	uj ds ww ui iy wj	100
 曾舜晞红包	zg uy xi hs bc	100
@@ -116645,3 +116644,404 @@ sort: by_weight
 张万森下雪了	vh wj sf xx xt le	100
 饿了么订单	ee le me dk dj	100
 大烟花	da yj hx	100
+香缇莫	xl ti mo	100
+以梦为马	yi mg ww ma	100
+短信	dr xb	100
+大领导	da lk dc	100
+大年初二	da nm iu er	100
+梵希雅机位	fj xi ya ji ww	100
+新年红包	xb nm hs bc	100
+田曦薇宋威龙	tm xi ww ss ww ls	100
+未来	ww ld	100
+春节晚会	iy jp wj hv	100
+蔡明烟熏妆	cd mk yj xy vl	100
+宝宝	bc bc	100
+棍式	gy ui	100
+谁的菜	uv de cd	100
+樊振东	fj vg ds	100
+夺宝券	do bc qr	100
+古韵	gu yy	100
+三拜	sj bd	100
+雷犁热刀	lw li re dc	100
+卡膜	ka mo	100
+一点也不好笑	yi dm ye bu hc xn	100
+霉运	mw yy	100
+创辉煌	il hv hl	100
+凌虚子怎么打	lk xu zi zf me da	100
+我刚包完	wo gh bc wj	100
+敖隐	ao yb	100
+一家人	yi jx rf	100
+倾情	qk qk	100
+吗喽	ma lz	100
+长话短说	ih hx dr uo	100
+惊喜定格	jk xi dk ge	100
+希林娜依	xi lb na yi	100
+打咩	da mp	100
+吃个三室一厅	ii ge sj ui yi tk	100
+朵莉亚新皮肤	do li ya xb pi fu	100
+大戏登场	da xi dg ih	100
+龙破九天	ls po jq tm	100
+新年礼物	xb nm li wu	100
+魏晨站山顶	ww if vj uj dk	100
+蒜苔	sr td	100
+海军	hd jy	100
+数字	uu zi	100
+李治良	li vi ll	100
+诸事顺遂	vu ui uy sv	100
+热梗编年史	re gg bm nm ui	100
+柯冉	ke rj	100
+生态	ug td	100
+安宁	an nk	100
+家庭	jx tk	100
+智能机器人	vi ng ji qi rf	100
+李一桐红包	li yi ts hs bc	100
+闪耀动起来	uj yc ds qi ld	100
+牢帕	lc pa	100
+专属红包	vr uu hs bc	100
+南绷	nj bh	100
+伊内丝	yi nw si	100
+安赛龙	an sd ls	100
+合肥分会场	he fw ff hv ih	100
+梵希雅	fj xi ya	100
+社区	ue qu	100
+牢弟	lc di	100
+贺花神	he hx uf	100
+暖心	nr xb	100
+转运	vr yy	100
+击破特工	ji po te gs	100
+豆包抽奖	dz bc iz jl	100
+踏浪	ta lh	100
+马宝宝出生	ma bc bc iu ug	100
+光追	gl vv	100
+全息投影	qr xi tz yk	100
+人鱼公主	rf yu gs vu	100
+红温了	hs wf le	100
+师父	ui fu	100
+米雪	mi xt	100
+癫公颠婆	dm gs dm po	100
+爱岗敬业	ai gh jk ye	100
+大明风华	da mk fg hx	100
+科技	ke ji	100
+梁咏琪	ll ys qi	100
+姜妍	jl yj	100
+王亚飞	wh ya fw	100
+转发	vr fa	100
+果宝特工	go bc te gs	100
+我最难忘的今宵	wo zv nj wh de jb xn	100
+田曦薇红包	tm xi ww hs bc	100
+武侠群像	wu xx qy xl	100
+血压计	xt ya ji	100
+传统	ir ts	100
+灯火	dg ho	100
+马尼菈	ma ni la	100
+王天放出息了	wh tm fh iu xi le	100
+科技强国	ke ji ql go	100
+好哥哥	hc ge ge	100
+玛拉妮	ma la ni	100
+朱洁静	vu jp jk	100
+整点	vg dm	100
+福马	fu ma	100
+李谷一	li gu yi	100
+西格玛男人	ma ge xi nj rf	100
+张毅	vh yi	100
+田曦薇好萌	tm xi ww hc mg	100
+下机器人了	xx ji qi rf le	100
+杰哥	jp ge	100
+中央电视台	vs yh dm ui td	100
+非穷尽列举	fw qs jb lp ju	100
+报幕	bc mu	100
+激烈	ji lp	100
+登陆少年	dg lu uc nm	100
+晦月魔君	hv yt mo jy	100
+听我说	tk wo uo	100
+全是青春回忆	qr ui qk iy hv yi	100
+小红包	xn hs bc	100
+硝烟	xn yj	100
+来晒秋	ld ud qq	100
+时代峰峻年会	ui dd fg jy nm hv	100
+真妈妈来了	vf ma ma ld le	100
+初一	iu yi	100
+传统文化	ir ts wf hx	100
+还得是周深	hd dw ui vz uf	100
+雷霆特工队	lw tk te gs dv	100
+清融发红包	qk rs fa hs bc	100
+大鑫	da xb	100
+辛苦	xb ku	100
+丁真珍珠	dk vf vf vu	100
+押中春晚魔术	ya vs iy wj mo uu	100
+宋威龙红包	ss ww ls hs bc	100
+成果	ig go	100
+传统习俗	ir ts xi su	100
+普通红包	pu ts hs bc	100
+横联	hg lm	100
+登陆日	dg lu ri	100
+小破站	xn po vj	100
+年夜饭摄影大赛	nm ye fj ue yk da sd	100
+鸡毛换糖	ji mc hr th	100
+又来了	yz ld le	100
+难忘今宵	nj wh jb xn	100
+娜维娅	na ww ya	100
+宇树科技股票	yu uu ke ji gu pn	100
+倒酒	dc jq	100
+长红	ih hs	100
+邓超反差	dg ic fj ia	100
+黑吗喽	hw ma lz	100
+拜大年	bd da nm	100
+心病	xb bk	100
+浮屠界	fu tu jp	100
+才贴完	cd tp wj	100
+恭喜恭喜	gs xi gs xi	100
+乌日娜	wu ri na	100
+阿米诺斯	aa mi no si	100
+陶渊明	tc yr mk	100
+福报	fu bc	100
+迪希雅	di xi ya	100
+梵希雅弹唱	fj xi ya tj ih	100
+潘展乐双记录	pj vj le ul ji lu	100
+短剧上春晚了	dr ju uh iy wj le	100
+新年福利	xb nm fu li	100
+排场	pd ih	100
+福泽绵长	fu ze mm ih	100
+手绢	uz jr	100
+烟火气	yj ho qi	100
+凡尘	fj if	100
+高级感	gc ji gj	100
+包宿哥	bc xq ge	100
+醉拳	zv qr	100
+尾声	ww ug	100
+沈腾怎么办	uf tg zf me bj	100
+显眼包	xm yj bc	100
+吗喽	ma lz	100
+老年人	lc nm rf	100
+世一决	ui yi jt	100
+雪迷宫	xt mi gs	100
+机器人假摔	ji qi rf jx uk	100
+太过完美	td go wj mw	100
+南平	nj pk	100
+积分夺宝券	ji ff do bc qr	100
+平安顺利	pk an uy li	100
+回家过年	hv jx go nm	100
+祖峰	zu fg	100
+另一个序幕	lk yi ge xu mu	100
+高科技	gc ke ji	100
+范伟	fj ww	100
+导演组	dc yj zu	100
+负温度	fu wf du	100
+里奇	li qi	100
+在烧纸	zd uc vi	100
+盛况	ug kl	100
+给领导	gw lk dc	100
+地球村	di qq cy	100
+二舅来了一朵	er jq ld le yi do	100
+串门指南	ir mf vi nj	100
+何老师	he lc ui	100
+有备而来	yz bw er ld	100
+亮点	ll dm	100
+上市公司	uh ui gs si	100
+动起来	ds qi ld	100
+心经	xb jk	100
+奥巴马改口了	ao ba ma gd kz le	100
+观众	gr vs	100
+梦底	mg di	100
+比小品好笑	bi xn pb hc xn	100
+茶杯头	ia bw tz	100
+就这一次	jq ve yi ci	100
+新禧	xb xi	100
+机器人	ji qi rf	100
+骏马迎春	jy ma yk iy	100
+谢谢喵	xp xp mn	100
+马上有奇迹	ma uh yz qi ji	100
+成功上岸	ig gs uh an	100
+文艺	wf yi	100
+周杰伦红包	vz jp ly hs bc	100
+肖战拜年	xn vj bd nm	100
+公开处刑	gs kd iu xk	100
+长虹	ih hs	100
+电视	dm ui	100
+陆校服	dk xn fu	100
+十二花神	ui er hx uf	100
+祝寿	vu uz	100
+迈克尔杰克逊	md ke er jp ke xy	100
+丝路	si lu	100
+说错词	uo co ci	100
+星河	xk he	100
+空竹	ks vu	100
+打咩	da mp	100
+网络	wh lo	100
+四字成语	si zi ig yu	100
+坚持手搓	jm ii uz co	100
+来拜年	ld bd nm	100
+大师炫技之作	da ui xr ji vi zo	100
+笑口常开	xn kz ih kd	100
+魔丸变灵珠	mo wj bm lk vu	100
+硬广	yk gl	100
+别来无恙	bp ld wu yh	100
+春晚导演	iy wj dc yj	100
+家里人	jx li rf	100
+新年大吉	xb nm da ji	100
+暗广	an gl	100
+财力	cd li	100
+歌舞	ge wu	100
+卡拉比丘	ka la bi qq	100
+战至巅峰	vj vi dm fg	100
+现金红包	xm jb hs bc	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+梵希雅真的强	fj xi ya vf de ql	100
+王菲水滴耳环	wh fw uv di er hr	100
+宇树机器人	yu uu ji qi rf	100
+梵希雅第一	fj xi ya di yi	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+星鸣特工	xk mk te gs	100
+张杰梵希雅	vh jp fj xi ya	100
+戚家军	qi jx jy	100
+刘浩	lq hc	100
+接元宝	jp yr bc	100
+跳舞	tn wu	100
+奶奶的最爱	nd nd de zv ai	100
+孙千红裙芭蕾	sy qm hs qy ba lw	100
+守夜	uz ye	100
+幽邃地窟	yz sv di ku	100
+银河战力党	yb he vj li dh	100
+精致狗狗	jk vi gz gz	100
+孤独	gu du	100
+春晚收视率	iy wj uz ui lv	100
+迪奥红运开年	di ao hs yy kd nm	100
+浙江压岁钱	ve jl ya sv qm	100
+流量明星	lq ll mk xk	100
+风口	fg kz	100
+九尾	jq ww	100
+时刻准备着	ui ke vy bw ve	100
+龟兹	qq ci	100
+真正的魔术	vf vg de mo uu	100
+接崽	jp zd	100
+贴好	tp hc	100
+小茉莉	xn mo li	100
+小骊龙	xn li ls	100
+有福	yz fu	100
+喜剧	xi ju	100
+黑吗喽	hw ma lz	100
+四季平安	si ji pk an	100
+春晚后台	iy wj hz td	100
+老人	lc rf	100
+山鸡哥	uj ji ge	100
+缉盗	ji dc	100
+你准喜欢	ni vy xi hr	100
+紫气东来	zi qi ds ld	100
+浙江卫视春晚	ve jl ww ui iy wj	100
+成绩	ig ji	100
+定州	dk vz	100
+曾舜晞钻粉	zg uy xi zr ff	100
+特别节目	te bp jp mu	100
+这歌也是个歌	ve ge ye ui ge ge	100
+艺术指导	yi uu vi dc	100
+癫公	dm gs	100
+财富	cd fu	100
+沂蒙	yi mg	100
+舞台效果	wu td xn go	100
+尼菈	ni la	100
+我嘞个豆	wo le ge dz	100
+张歆艺	vh xb yi	100
+我在春晚闯祸	wo zd iy wj il ho	100
+领红包	lk hs bc	100
+失落城堡	ui lo ig bc	100
+老同学	lc ts xt	100
+王彬	wh bb	100
+文化	wf hx	100
+回乡记	hv xl ji	100
+天天快乐	tm tm kk le	100
+太帅	td uk	100
+经理	jk li	100
+策马	ce ma	100
+马上发	ma uh fa	100
+性能	xk ng	100
+祈祷	qi dc	100
+李健人间共鸣	li jm rf jm gs mk	100
+花神	hx uf	100
+年年有熊	nm nm yz xs	100
+送福利	ss fu li	100
+云璃	yy li	100
+包你满意	bc ni mj yi	100
+喜剧演员	xi ju yj yr	100
+三农	sj ns	100
+加马	jx ma	100
+立上游	li uh yz	100
+机器人摔倒	ji qi rf uk dc	100
+最丰盛	zv fg ug	100
+熙熙攘攘	xi xi rh rh	100
+尬演	ga yj	100
+肥宗	fw zs	100
+博子哥	bo zi ge	100
+固定节目	gu dk jp mu	100
+宝岛恋歌	bc dc lm ge	100
+手气红包	uz qi hs bc	100
+我们是世界	wo mf ui ui jp	100
+解斑	jp bj	100
+天选王昭君	tm xr wh vc jy	100
+马丽单飞了	ma li dj fw le	100
+中奖	vs jl	100
+梵希雅第四	fj xi ya di si	100
+芙蓉镇	fu rs vf	100
+喜雨	xi yu	100
+恭贺新春	gs he xb iy	100
+新年合集	xb nm he ji	100
+小撒	xn sa	100
+白鹿好美	bd lu hc mw	100
+基尼奇	ji ni qi	100
+郭江涛	go jl tc	100
+神超官宣女友	uf ic gr xr nv yz	100
+老照片	lc vc pm	100
+泰酷辣	td ku la	100
+舞蹈	wu dc	100
+我嘞个	wo le ge	100
+高山青	gc uj qk	100
+飞霄	fw xn	100
+宝贝	bc bw	100
+全明星赛	qr mk xk sd	100
+常诚	ih ig	100
+卡齐娜	ka qi na	100
+念佛	nm fo	100
+规模	gv mo	100
+合江门	he jl mf	100
+开始吃剩菜	kd ui ii ug cd	100
+自由	zi yz	100
+吉量	ji ll	100
+妙哉	mn zd	100
+罗嘉豪	lo jx hc	100
+戏曲	xi qu	100
+彩头	cd tz	100
+家人健康	jx rf jm kh	100
+义乌人	yi wu rf	100
+老妈	lc ma	100
+李健开净化了	li jm kd jk hx le	100
+总导演	zs dc yj	100
+新号	xb hc	100
+网友	wh yz	100
+凌虚子	lk xu zi	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+难绷	nj bg	100
+夜王	ye wh	100
+集团	ji tr	100
+孙颖莎	sy yb ua	100
+曲目	qu mu	100
+朱重八	vu is ba	100
+全景	qr jk	100
+幻影特工	hr yk te gs	100
+蒜苔	sr td	100
+陈哲远红包	if ve yr hs bc	100
+年味壁纸	nm ww bi vi	100
+首发	uz fa	100
+光追	gl vv	100
+明星	mk xk	100
+争气	vg qi	100
+洛杉矶劫案	lo uj ji jp an	100
+丝路古韵	si lu gu yy	100
+春晚后台直播	iy wj hz td vi bo	100
+除夕吃饺子	iu xi ii jn zi	100
+万物过大年	wj wu go da nm	100
+春雨	iy yu	100
+邓超妈妈	dg ic ma ma	100
+张万森下雪了	vh wj sf xx xt le	100
+无人机	wu rf ji	100
+诶哟	ei yo	100
+饿了么订单	ee le me dk dj	100
+财气	cd qi	100
