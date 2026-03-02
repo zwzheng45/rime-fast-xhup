@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-03-01
+version: 2026-03-02
 sort: by_weight
 ...
 
@@ -119619,7 +119619,7 @@ sort: by_weight
 桑迪	sh di	100
 牢帕	lc pa	100
 童趣	ts qu	100
-乐华娱乐声明	yt hx yu le ug mk	100
+乐华娱乐声明	yt hx yu yt ug mk	100
 王安琪	wh an qi	100
 学生手册	xt ug uz ce	100
 牢弟	lc di	100
@@ -119630,7 +119630,6 @@ sort: by_weight
 飞霄	fw xn	100
 隐藏式	yb ch ui	100
 假新闻	jx xb wf	100
-陆校服	dk xn fu	100
 方穆静提离婚	fh mu jk ti li hy	100
 边坡	bm po	100
 划线	hx xm	100
@@ -119875,3 +119874,306 @@ sort: by_weight
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
 心理健康	xb li jm kh	100
+预防性打击	yu fh xk da ji	100
+封锁	fg so	100
+西南财经大学	xi nj cd jk da xt	100
+伊朗国家广播电视台	yi lh go jx gl bo dm ui td	100
+河海	he hd	100
+新大	xb da	100
+专硕	vr uo	100
+战至巅峰	vj vi dm fg	100
+潘汉胜	pj hj ug	100
+精神领袖	jk uf lk xq	100
+冰碴	bk ia	100
+假人	jx rf	100
+须佐	xu zo	100
+能源动力	ng yr ds li	100
+小木虫	xn mu is	100
+女儿女婿	nv er nv xu	100
+圣牌	ug pd	100
+植物保护	vi wu bc hu	100
+不开市	bu kd ui	100
+艺术类	yi uu lw	100
+继任者	ji rf ve	100
+樊振东	fj vg ds	100
+复试前	fu ui qm	100
+浮屠界	fu tu jp	100
+海运	hd yy	100
+好大雨	hc da yu	100
+组合款	zu he kr	100
+土木水利	tu mu uv li	100
+学科教学	xt ke jn xt	100
+哈梅	ha mw	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+美国海军第五舰队	mw go hd jy di wu jm dv	100
+帕克普尔	pa ke pu er	100
+七种退税方式	qi vs tv uv fh ui	100
+我在挨骂	wo zd ai ma	100
+集美大学	ji mw da xt	100
+帆船酒店	fj ir jq dm	100
+进攻	jb gs	100
+大理大学	da li da xt	100
+美国第五舰队	mw go di wu jm dv	100
+江苏省人民政府	jl su ug rf mb vg fu	100
+社科大	ue ke da	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+最高领导	zv gc lk dc	100
+学长学姐	xt vh xt jp	100
+世界大战	ui jp da vj	100
+特靠谱	te kc pu	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+曲阜师范大学	qu fu ui fj da xt	100
+华政	hx vg	100
+凌虚子	lk xu zi	100
+林学	lb xt	100
+酱味大鸡	jl ww da ji	100
+中国药科大学	vs go yc ke da xt	100
+果宝特工	go bc te gs	100
+内贾德	nw jx de	100
+土壤	tu rh	100
+暗恋二十三年冬	an lm er ui sj nm ds	100
+水主	uv vu	100
+湖南师范大学	hu nj ui fj da xt	100
+双非	ul fw	100
+棕榈岛	zs lv dc	100
+老哈	lc ha	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+迈赫尔通讯社	md he er ts xy ue	100
+解斑	jp bj	100
+折音	ve yb	100
+积分夺宝券	ji ff do bc qr	100
+我嘞个	wo le ge	100
+沙姆哈尼	ua mu ha ni	100
+马陵山镇	ma lk uj vf	100
+小甜水化	xn tm uv hx	100
+伊朗卫生部	yi lh ww ug bu	100
+首师大	uz ui da	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+椰树广告	ye uu gl gc	100
+星鸣特工	xk mk te gs	100
+中国矿业大学	vs go kl ye da xt	100
+犹太	yz td	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+首都师范大学	uz du ui fj da xt	100
+幽邃地窟	yz sv di ku	100
+青岛大学	qk dc da xt	100
+吗喽	ma lz	100
+机况	ji kl	100
+光追	gl vv	100
+烤香蕉	kc xl jn	100
+波斯	bo si	100
+同等学力	ts dg xt li	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+大炮一响	da pc yi xl	100
+曾从钦	zg cs qb	100
+陈英俊	if yk jy	100
+吗喽	ma lz	100
+卡膜	ka mo	100
+司令	si lk	100
+中国台北队	vs go td bw dv	100
+团款	tr kr	100
+电子科大	dm zi ke da	100
+岩羊	yj yh	100
+大明星	da mk xk	100
+牢帕	lc pa	100
+伊斯兰	yi si lj	100
+赵继伟神仙球	vc ji ww uf xm qq	100
+牢弟	lc di	100
+云大	yy da	100
+西格玛男人	ma ge xi nj rf	100
+武汉科技大学	wu hj ke ji da xt	100
+中国驻土耳其使馆	vs go vu tu er qi ui gr	100
+飞霄	fw xn	100
+李健巡演官宣	li jm xy yj gr xr	100
+陆校服	dk xn fu	100
+退税	tv uv	100
+投降派	tz xl pd	100
+渤海大学	bo hd da xt	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+颛桥万达广场	vr qn wj da gl ih	100
+音击	yb ji	100
+里雾诗	li wu ui	100
+全英音乐奖	qr yk yb yt jl	100
+神权	uf qr	100
+公大	gs da	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+神秘武器	uf mi wu qi	100
+夺宝券	do bc qr	100
+哈梅内伊遇害	ha mw nw yi yu hd	100
+华北电力大学	hx bw dm li da xt	100
+陆军	lu jy	100
+韩嵩	hj ss	100
+卡拉比丘	ka la bi qq	100
+最低线	zv di xm	100
+迪希雅	di xi ya	100
+青海大学	qk hd da xt	100
+哈利法塔	ha li fa ta	100
+国防军	go fh jy	100
+中央民族大学	vs yh mb zu da xt	100
+法大	fa da	100
+棕榈泉费尔蒙酒店	zs lv qr fw er mg jq dm	100
+阿米诺斯	aa mi no si	100
+北京工业大学	bw jk gs ye da xt	100
+方小虎	fh xn hu	100
+江财	jl cd	100
+弱小	ro xn	100
+动力工程	ds li gs ig	100
+西安交通大学	xi an jn ts da xt	100
+马尼菈	ma ni la	100
+中国地质大学	vs go di vi da xt	100
+玛拉妮	ma la ni	100
+伊朗宣布战果	yi lh xr bu vj go	100
+黑吗喽	hw ma lz	100
+我嘞个豆	wo le ge dz	100
+周尔均	vz er jy	100
+折音券	ve yb qr	100
+饿了么订单	ee le me dk dj	100
+教士	jn ui	100
+对外经贸	dv wd jk mc	100
+风景园林	fg jk yr lb	100
+双宝宝	ul bc bc	100
+缉盗	ji dc	100
+青岛科技大学	qk dc ke ji da xt	100
+梵希雅真的强	fj xi ya vf de ql	100
+伊朗足协	yi lh zu xp	100
+阿拉伯人	aa la bo rf	100
+登陆少年	dg lu uc nm	100
+伊以十二日战争	yi yi ui er ri vj vg	100
+理学	li xt	100
+庄浪	vl lh	100
+山西大学	uj xi da xt	100
+延禧攻略	yj xi gs lt	100
+真主旅	vf vu lv	100
+逊尼派	xy ni pd	100
+校园送	xn yr ss	100
+蒜苔	sr td	100
+广西师范大学	gl xi ui fj da xt	100
+苏莱曼尼	su ld mj ni	100
+暗盘	an pj	100
+地堡	di bc	100
+反击	fj ji	100
+海南大学	hd nj da xt	100
+南绷	nj bh	100
+植树	vi uu	100
+伊朗局势	yi lh ju ui	100
+死斑	si bj	100
+最高领导人	zv gc lk dc rf	100
+幻影特工	hr yk te gs	100
+登陆日	dg lu ri	100
+黑米饼	hw mi bk	100
+安赛龙	an sd ls	100
+杭州动物园	hh vz ds wu yr	100
+河北大学	he bw da xt	100
+南财	nj cd	100
+棍式	gy ui	100
+河科大	he ke da	100
+雷犁热刀	lw li re dc	100
+中山公园动物园	vs uj gs yr ds wu yr	100
+甲醇	jx iy	100
+云璃	yy li	100
+小米滑板车	xn mi hx bj ie	100
+伊斯兰教	yi si lj jn	100
+舆论战	yu ly vj	100
+伊朗国家电视台	yi lh go jx dm ui td	100
+战损自报	vj sy zi bc	100
+国际性	go ji xk	100
+黑吗喽	hw ma lz	100
+辽宁大学	ln nk da xt	100
+何凯文	he kd wf	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+江苏师范大学	jl su ui fj da xt	100
+生死不明	ug si bu mk	100
+社科院	ue ke yr	100
+城镇开发边界管理办法	ig vf kd fa bm jp gr li bj fa	100
+宋夹城	ss jx ig	100
+华中农业大学	hx vs ns ye da xt	100
+梵希雅弹唱	fj xi ya tj ih	100
+娜维娅	na ww ya	100
+结构力学	jp gz li xt	100
+咆哮的狮子	pc xn de ui zi	100
+合肥工业大学	he fw gs ye da xt	100
+笔译	bi yi	100
+克尔曼省	ke er mj ug	100
+乱源	lr yr	100
+阿斯皮德斯行动	aa si pi de si xk ds	100
+世一决	ui yi jt	100
+胡赛	hu sd	100
+郝熠然好会魅	hc yi rj hc hv mw	100
+美以联军	mw yi lm jy	100
+工业大学	gs ye da xt	100
+浙工大	ve gs da	100
+东华大学	ds hx da xt	100
+北科	bw ke	100
+美合	mw he	100
+老铺	lc pu	100
+肥宗	fw zs	100
+世界和平	ui jp he pk	100
+米纳布市	mi na bu ui	100
+吉首大学	ji uz da xt	100
+卸载挽留	xp zd wj lq	100
+李洪全	li hs qr	100
+柯冉	ke rj	100
+国际形势	go ji xk ui	100
+暗金	an jb	100
+沙特阿拉比亚电视台	ua te aa la bi ya dm ui td	100
+晦月魔君	hv yt mo jy	100
+中国驻伊朗大使馆	vs go vu yi lh da ui gr	100
+内乱	nw lr	100
+水户蜀葵	uv hu uu kv	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+分子生物学	ff zi ug wu xt	100
+雷霆特工队	lw tk te gs dv	100
+妇女节	fu nv jp	100
+秒切	mn qp	100
+难绷	nj bg	100
+东北师范大学	ds bw ui fj da xt	100
+张杰梵希雅	vh jp fj xi ya	100
+安徽大学	an hv da xt	100
+江西师范大学	jl xi ui fj da xt	100
+一锅端	yi go dr	100
+击破特工	ji po te gs	100
+新疆大学	xb jl da xt	100
+猎头	lp tz	100
+马前卒	ma qm zu	100
+霍尔木兹	ho er mu zi	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+稳进	wf jb	100
+电子信息	dm zi xb xi	100
+尼菈	ni la	100
+小米超跑好帅	xn mi ic pc hc uk	100
+小米超跑亮相	xn mi ic pc ll xl	100
+梵希雅第一	fj xi ya di yi	100
+伊朗人民	yi lh rf mb	100
+美以联合袭击伊朗	mw yi lm he xi ji yi lh	100
+打咩	da mp	100
+江科大	jl ke da	100
+加布里埃尔	jx bu li ai er	100
+哈里尔空军基地	ha li er ks jy ji di	100
+癫公颠婆	dm gs dm po	100
+美伊以冲突	mw yi yi is tu	100
+重师	is ui	100
+狮吼行动	ui hz xk ds	100
+潘展乐双记录	pj vj le ul ji lu	100
+米店	mi dm	100
+光追	gl vv	100
+面剂子	mm ji zi	100
+天津师范大学	tm jb ui fj da xt	100
+朱重八	vu is ba	100
+军港	jy gh	100
+双盲	ul mh	100
+伊朗伊斯兰共和国军队	yi lh yi si lj gs he go jy dv	100
+蒜苔	sr td	100
+什叶派	ui ye pd	100
+打咩	da mp	100
+哈妹	ha mw	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
