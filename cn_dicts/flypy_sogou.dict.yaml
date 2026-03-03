@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-03-02
+version: 2026-03-03
 sort: by_weight
 ...
 
@@ -119989,7 +119989,6 @@ sort: by_weight
 中国驻土耳其使馆	vs go vu tu er qi ui gr	100
 飞霄	fw xn	100
 李健巡演官宣	li jm xy yj gr xr	100
-陆校服	dk xn fu	100
 退税	tv uv	100
 投降派	tz xl pd	100
 渤海大学	bo hd da xt	100
@@ -120175,5 +120174,236 @@ sort: by_weight
 什叶派	ui ye pd	100
 打咩	da mp	100
 哈妹	ha mw	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+白菜对我笑	bd cd dv wo xn	100
+金银全线高开	jb yb qr xm gc kd	100
+绯雪	fw xt	100
+战至巅峰	vj vi dm fg	100
+美国驻巴基斯坦领事馆	mw go vu ba ji si tj lk ui gr	100
+人的力量	rf de li ll	100
+刘永好	lq ys hc	100
+春雪	iy xt	100
+共效	gs xn	100
+思政课	si vg ke	100
+帝霸	di ba	100
+樊振东	fj vg ds	100
+浮屠界	fu tu jp	100
+拉默尔德	la mo er de	100
+泥水	ni uv	100
+通鼎互联	ts dk hu lm	100
+观影后悔权	gr yk hz hv qr	100
+三桶油	sj ts yz	100
+单独计税	dj du ji uv	100
+湖北省养老服务条例	hu bw ug yh lc fu wu tn li	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+地震剧情	di vf ju qk	100
+送汤圆	ss th yr	100
+元宵节	yr xn jp	100
+柏林赫塔	bo lb he ta	100
+大使馆	da ui gr	100
+春意渐浓	iy yi jm ns	100
+望里科技	wh li ke ji	100
+南京港	nj jk gh	100
+肖战展示内搭	xn vj vj ui nw da	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+中富电路	vs fu dm lu	100
+陕西省税务局	uj xi ug uv wu ju	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+浙江省地震局	ve jl ug di vf ju	100
+凌虚子	lk xu zi	100
+情报局	qk bc ju	100
+终刻	vs ke	100
+泥石	ni ui	100
+金牛化工	jb nq hx gs	100
+中国足协超级杯	vs go zu xp ic ji bw	100
+世俗化	ui su hx	100
+刘文祥麻辣烫	lq wf xl ma la th	100
+果宝特工	go bc te gs	100
+埃尔布斯	ai er bu si	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+中继站	vs ji vj	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+宣传照	xr ir vc	100
+强硬派	ql yk pd	100
+我嘞个	wo le ge	100
+顺德	uy de	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+导游词	dc yz ci	100
+星鸣特工	xk mk te gs	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+幽邃地窟	yz sv di ku	100
+此沙的脚	ci ua de jn	100
+吗喽	ma lz	100
+光追	gl vv	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+周立宸	vz li if	100
+吗喽	ma lz	100
+张瑜	vh yu	100
+卡膜	ka mo	100
+国际油价	go ji yz jx	100
+黑龙江省文旅厅	hw ls jl ug wf lv tk	100
+薇诺娜	ww no na	100
+第二十八年春	di er ui ba nm iy	100
+国际油价飙升	go ji yz jx bn ug	100
+牢帕	lc pa	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+豆瓣发致歉信	dz bj fa vi qm xb	100
+阿克罗蒂里	aa ke lo di li	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+招商轮船	vc uh ly ir	100
+陈昊宇剧宣	if hc yu ju xr	100
+清波寨	qk bo vd	100
+泰顺	td uy	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+海胆头	hd dj tz	100
+穿墙透视	ir ql tz ui	100
+数理统计	uu li ts ji	100
+爱耳日	ai er ri	100
+闹红火	nc hs ho	100
+原站	yr vj	100
+阮祥燕	rr xl yj	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+夺宝券	do bc qr	100
+杭州奥体中心体育场	hh vz ao ti vs xb ti yu ih	100
+张云鹏	vh yy pg	100
+富玩表	fu wj bn	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+美驻科威特使馆	mw vu ke ww te ui gr	100
+学历自卑	xt li zi bw	100
+李雨桐	li yu ts	100
+阿米诺斯	aa mi no si	100
+豆瓣豆品	dz bj dz pb	100
+中国足球协会超级杯	vs go zu qq xp hv ic ji bw	100
+迪丽	di li	100
+马尼菈	ma ni la	100
+玛拉妮	ma la ni	100
+导论	dc ly	100
+物理意义上	wu li yi yi uh	100
+黑吗喽	hw ma lz	100
+雷米	lw mi	100
+米德尔斯堡	mi de er si bc	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+殉道	xy dc	100
+缉盗	ji dc	100
+梵希雅真的强	fj xi ya vf de ql	100
+登陆少年	dg lu uc nm	100
+宋亚轩海胆头	ss ya xr hd dj tz	100
+蒜苔	sr td	100
+八国联军	ba go lm jy	100
+金银涨爆了	jb yb vh bc le	100
+糟羹	zc gg	100
+南绷	nj bh	100
+丹布罗西奥	dj bu lo xi ao	100
+方穆扬发飙	fh mu yh fa bn	100
+扫雪呢	sc xt ne	100
+贾文军	jx wf jy	100
+幻影特工	hr yk te gs	100
+登陆日	dg lu ri	100
+市委政法工作会议	ui ww vg fa gs zo hv yi	100
+安赛龙	an sd ls	100
+吴劲松	wu jb ss	100
+线性代数	xm xk dd uu	100
+棍式	gy ui	100
+洛希	lo xi	100
+招商南油	vc uh nj yz	100
+雷犁热刀	lw li re dc	100
+华交会	hx jn hv	100
+喵喵的结合	mn mn de jp he	100
+艾跃进	ai yt jb	100
+黄轩的手	hl xr de uz	100
+司宫令	si gs lk	100
+云璃	yy li	100
+姐姐姐夫共创	jp jp jp fu gs il	100
+阿莱	aa ld	100
+弥弗	mi fu	100
+黑吗喽	hw ma lz	100
+元宵活动	yr xn ho ds	100
+杨博文跳伞	yh bo wf tn sj	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+汇算	hv sr	100
+护校	hu xn	100
+质肽生物	vi td ug wu	100
+黄金暗盘跳水	hl jb an pj tn uv	100
+史诗狂怒行动	ui ui kl nu xk ds	100
+最燃的接力	zv rj de jp li	100
+范绪锋	fj xu fg	100
+元宵节快乐	yr xn jp kk le	100
+梵希雅弹唱	fj xi ya tj ih	100
+东京马拉松	ds jk ma la ss	100
+娜维娅	na ww ya	100
+孙晓灿	sy xn cj	100
+阿达希尔	aa da xi er	100
+特别的人	te bp de rf	100
+汤汤	uh uh	100
+一辈子都不原谅	yi bw zi dz bu yr ll	100
+世一决	ui yi jt	100
+晚点名	wj dm mk	100
+阿联酋民航总局	aa lm qq mb hh zs ju	100
+苌弘广场	ih hs gl ih	100
+英国派出战机	yk go pd iu vj ji	100
+沛纳海	pw na hd	100
+拉亚	la ya	100
+油价开盘暴涨	yz jx kd pj bc vh	100
+油价金价大涨	yz jx jb jx da vh	100
+西交	xi jn	100
+班会课	bj hv ke	100
+无所畏惧	wu so ww ju	100
+狼小妹	lh xn mw	100
+海油	hd yz	100
+肥宗	fw zs	100
+能源	ng yr	100
+鞠婧祎化淡妆	ju jk yi hx dj vl	100
+柯冉	ke rj	100
+晦月魔君	hv yt mo jy	100
+展馆	vj gr	100
+华尔兹	hx er zi	100
+以色列外交部	yi se lp wd jn bu	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+达万	da wj	100
+沈华柏	uf hx bd	100
+雷霆特工队	lw tk te gs dv	100
+拉水管	la uv gr	100
+难绷	nj bg	100
+张杰梵希雅	vh jp fj xi ya	100
+李茂报平安	li mc bc pk an	100
+击破特工	ji po te gs	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+尼菈	ni la	100
+卢昱晓短发	lu yu xn dr fa	100
+空袭	ks xi	100
+梵希雅第一	fj xi ya di yi	100
+科威特国防部	ke ww te go fh bu	100
+空言	ks yj	100
+荷兰弟	he lj di	100
+打咩	da mp	100
+圣战	ug vj	100
+浙江地震	ve jl di vf	100
+癫公颠婆	dm gs dm po	100
+贡伟宇	gs ww yu	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+中国台北男篮	vs go td bw nj lj	100
+贾马兰	jx ma lj	100
+朱重八	vu is ba	100
+铁筷	tp kk	100
+石油股	ui yz gu	100
+休闲时刻	xq xm ui ke	100
+蒜苔	sr td	100
+打咩	da mp	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
