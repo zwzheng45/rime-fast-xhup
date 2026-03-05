@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-03-04
+version: 2026-03-05
 sort: by_weight
 ...
 
@@ -120500,7 +120500,6 @@ sort: by_weight
 西格玛男人	ma ge xi nj rf	100
 元宵晚会	yr xn wj hv	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 元宵	yr xn	100
 兰臻	lj vf	100
 彩车	cd ie	100
@@ -120645,5 +120644,282 @@ sort: by_weight
 打咩	da mp	100
 蒋丽莎	jl li ua	100
 蒋胜男	jl ug nj	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+梦见你	mg jm ni	100
+绿博园	lv bo yr	100
+舰长	jm vh	100
+史诗般的愤怒	ui ui bj de ff nu	100
+克莱恩	ke ld en	100
+林俊旸	lb jy yh	100
+酥油花	su yz hx	100
+泽州公园	ze vz gs yr	100
+陆铭	lu mk	100
+专家会议	vr jx hv yi	100
+直布罗陀	vi bu lo to	100
+战至巅峰	vj vi dm fg	100
+就是很想亲	jq ui hf xl qb	100
+秧歌	yh ge	100
+法德联合声明	fa de lm he ug mk	100
+年就过完了	nm jq go wj le	100
+夏雷	xx lw	100
+江苏建筑职业技术大学	jl su jm vu vi ye ji uu da xt	100
+铁花	tp hx	100
+看灯了	kj dg le	100
+非遗嘉年华	fw yi jx nm hx	100
+罗刹妄海	lo ia wh hd	100
+杰娜	jp na	100
+樊振东	fj vg ds	100
+转九曲	vr jq qu	100
+伊朗华侨华人联合会	yi lh hx qn hx rf lm he hv	100
+浮屠界	fu tu jp	100
+我型我秀	wo xk wo xq	100
+腰果圣杯	yc go ug bw	100
+转机	vr ji	100
+肉汁	rz vi	100
+月全食好美	yt qr ui hc mw	100
+林霸天	lb ba tm	100
+大汤圆	da th yr	100
+平朔项目部	pk uo xl mu bu	100
+杭州云谷学校	hh vz yy gu xt xn	100
+严晓丹	yj xn dj	100
+四环外	si hr wd	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+原链接	yr lm jp	100
+华晨宇好稳	hx if yu hc wf	100
+杰贝阿里港	jp bw aa li gh	100
+看灯去	kj dg qu	100
+江苏建筑职业技术学院	jl su jm vu vi ye ji uu xt yr	100
+春风行动	iy fg xk ds	100
+戒网瘾学校	jp wh yb xt xn	100
+社会救助法	ue hv jq vu fa	100
+高达	gc da	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+无名之花	wu mk vi hx	100
+杨幂元宵祈福	yh mi yr xn qi fu	100
+北京银行	bw jk yb hh	100
+云谷学校	yy gu xt xn	100
+敖隐	ao yb	100
+女性之美	nv xk vi mw	100
+雪迷宫	xt mi gs	100
+小圆子	xn yr zi	100
+湖人险胜鹈鹕	hu rf xm ug ti hu	100
+凌虚子	lk xu zi	100
+人间小满	rf jm xn mj	100
+果宝特工	go bc te gs	100
+玩偶套	wj ou tc	100
+沙特阿拉伯	ua te aa la bo	100
+星如雨	xk ru yu	100
+草莓馅	cc mw xm	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+通济桥	ts ji qn	100
+正月十六	vg yt ui lq	100
+我嘞个	wo le ge	100
+王蕴凡	wh yy fj	100
+水果汤圆	uv go th yr	100
+撞人族	vl rf zu	100
+看看灯	kj kj dg	100
+春江花好月圆夜	iy jl hx hc yt yr ye	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+郭文韬	go wf tc	100
+星鸣特工	xk mk te gs	100
+煮汤圆吃	vu th yr ii	100
+冰锅	bk go	100
+行通济	xk ts ji	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+挑灯笼	tn dg ls	100
+马什哈德	ma uf ha de	100
+死手快点绑啊	si uz kk dm bh aa	100
+古列斯坦王宫	gu lp si tj wh gs	100
+过十五了	go ui wu le	100
+补仓了	bu ch le	100
+幽邃地窟	yz sv di ku	100
+你真的太狠了	ni vf de td hf le	100
+刘小怂	lq xn ss	100
+吗喽	ma lz	100
+隐藏卡	yb ch ka	100
+黑芝麻汤圆	hw vi ma th yr	100
+光追	gl vv	100
+潮石音乐	ic ui yb yt	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+沙特国防部	ua te go fh bu	100
+吗喽	ma lz	100
+中国石油跌停	vs go ui yz dp tk	100
+伊朗库姆遭袭	yi lh ku mu zc xi	100
+卡膜	ka mo	100
+五洲湖	wu vz hu	100
+康康赛后采访	kh kh sd hz cd fh	100
+牢帕	lc pa	100
+威惠庙	ww hv mn	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+飞霄	fw xn	100
+有花灯	yz hx dg	100
+陆校服	dk xn fu	100
+安全区域	an qr qu yu	100
+法国派出航母	fa go pd iu hh mu	100
+舞台走位	wu td zz ww	100
+张学武	vh xt wu	100
+夏亚	xx ya	100
+米纳布	mi na bu	100
+伊朗原子能组织	yi lh yr zi ng zu vi	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+班主任退班群	bj vu rf tv bj qy	100
+石炳启	ui bk qi	100
+柳梢头	lq uc tz	100
+戈勒斯坦宫	ge le si tj gs	100
+几个汤圆	ji ge th yr	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+指名道姓	vi mk dc xk	100
+夺宝券	do bc qr	100
+米纳卜市	mi na bu ui	100
+撒贝宁老鼠干	sa bw nk lc uu gj	100
+首华燃气	uz hx rj qi	100
+李松	li ss	100
+有放烟花	yz fh yj hx	100
+卡拉比丘	ka la bi qq	100
+滞留迪拜	vi lq di bd	100
+奶茶书皮	nd ia uu pi	100
+刘振超	lq vf ic	100
+迪希雅	di xi ya	100
+汤丸	th wj	100
+阿瑟又白干了	aa se yz bd gj le	100
+阿米诺斯	aa mi no si	100
+烟台花臂动物救援队	yj td hx bi ds wu jq yr dv	100
+龙灯	ls dg	100
+王一博粉丝	wh yi bo ff si	100
+马尼菈	ma ni la	100
+伊朗女足	yi lh nv zu	100
+玛拉妮	ma la ni	100
+黑吗喽	hw ma lz	100
+我嘞个豆	wo le ge dz	100
+烈隐	lp yb	100
+饿了么订单	ee le me dk dj	100
+中国驻土库曼斯坦使馆	vs go vu tu ku mj si tj ui gr	100
+白龙马	bd ls ma	100
+缉盗	ji dc	100
+水生调	uv ug tn	100
+梵希雅真的强	fj xi ya vf de ql	100
+一碗汤圆	yi wj th yr	100
+娄勤俭	lz qb jm	100
+登陆少年	dg lu uc nm	100
+沙特阿拉伯国防部	ua te aa la bo go fh bu	100
+蒜苔	sr td	100
+西班牙政府	xi bj ya vg fu	100
+伊朗红新月会	yi lh hs xb yt hv	100
+尚博勒	uh bo le	100
+刘忻	lq xb	100
+养老服务法	yh lc fu wu fa	100
+外交官	wd jn gr	100
+南绷	nj bh	100
+大钲资本	da vg zi bf	100
+这波贪了	ve bo tj le	100
+幻影特工	hr yk te gs	100
+中国驻迪拜总领事馆	vs go vu di bd zs lk ui gr	100
+杨中池	yh vs ii	100
+登陆日	dg lu ri	100
+安赛龙	an sd ls	100
+现货金银急跌	xm ho jb yb ji dp	100
+棍式	gy ui	100
+雷犁热刀	lw li re dc	100
+杨幂汤圆头像	yh mi th yr tz xl	100
+老薛	lc xt	100
+云璃	yy li	100
+导线管	dc xm gr	100
+高新公安社区	gc xb gs an ue qu	100
+黑吗喽	hw ma lz	100
+元宵晚会四美	yr xn wj hv si mw	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+灯会	dg hv	100
+巴尔德	ba er de	100
+江西泰豪动漫职业学院	jl xi td hc ds mj vi ye xt yr	100
+痴人说梦	ii rf uo mg	100
+赤豆元宵	ii dz yr xn	100
+首尔江北警察署	uz er jl bw jk ia uu	100
+生态环境法典	ug td hr jk fa dm	100
+梵希雅弹唱	fj xi ya tj ih	100
+一抹云海	yi mo yy hd	100
+航天彩虹	hh tm cd hs	100
+娜维娅	na ww ya	100
+汉韵	hj yy	100
+有无人机	yz wu rf ji	100
+酥心糖	su xb th	100
+水蓝蓝	uv lj lj	100
+阜民里	fu mb li	100
+顺钠	uy na	100
+世一决	ui yi jt	100
+元宵吧	yr xn ba	100
+荠菜肉	ji cd rz	100
+东风夜放花千树	ds fg ye fh hx qm uu	100
+中国驻沙特大使馆	vs go vu ua te da ui gr	100
+亚盛	ya ug	100
+光剑	gl jm	100
+圆月	yr yt	100
+龙洋眼妆	ls yh yj vl	100
+萨巴伦卡订婚	sa ba ly ka dk hy	100
+迪奥公主	di ao gs vu	100
+曼陀草	mj to cc	100
+田轩	tm xr	100
+火树银花	ho uu yb hx	100
+肥宗	fw zs	100
+黑脂麻	hw vi ma	100
+灯展	dg vj	100
+霓虹	ni hs	100
+柯冉	ke rj	100
+晦月魔君	hv yt mo jy	100
+圆满	yr mj	100
+李燕锋	li yj fg	100
+张小满	vh xn mj	100
+油价再度大涨	yz jx zd du da vh	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+打灯笼	da dg ls	100
+中石油	vs ui yz	100
+池神庙	ii uf mn	100
+甜茶首次来华	tm ia uz ci ld hx	100
+雷霆特工队	lw tk te gs dv	100
+看无人机	kj wu rf ji	100
+佰维	bd ww	100
+花生汤圆	hx ug th yr	100
+滚回山中去	gy hv uj vs qu	100
+汤圆里	th yr li	100
+难绷	nj bg	100
+萝卜灯	lo bo dg	100
+张杰梵希雅	vh jp fj xi ya	100
+表妹万福质感	bn mw wj fu vi gj	100
+击破特工	ji po te gs	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+元宵灯会	yr xn dg hv	100
+陆委会	lu ww hv	100
+尼菈	ni la	100
+历史不会辜负实干者	li ui bu hv gu fu ui gj ve	100
+梵希雅第一	fj xi ya di yi	100
+迪丽热巴工作室	di li re ba gs zo ui	100
+巴黎时装周	ba li ui vl vz	100
+打咩	da mp	100
+段曦	dr xi	100
+医圣祠	yi ug ci	100
+多变迷宫	do bm mi gs	100
+癫公颠婆	dm gs dm po	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+领导层建筑群	lk dc cg jm vu qy	100
+伊朗专家会议	yi lh vr jx hv yi	100
+朱重八	vu is ba	100
+华为终端	hx ww vs dr	100
+王晓晨	wh xn if	100
+霍尔姆	ho er mu	100
+伊拉瓦尼	yi la wa ni	100
+蒜苔	sr td	100
+打咩	da mp	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
