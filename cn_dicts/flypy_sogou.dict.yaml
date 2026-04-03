@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-04-02
+version: 2026-04-03
 sort: by_weight
 ...
 
@@ -126521,7 +126521,6 @@ sort: by_weight
 密战	mi vj	100
 飞霄	fw xn	100
 景景	jk jk	100
-陆校服	dk xn fu	100
 大耳兜帽	da er dz mc	100
 孙俪回应蒋欣	sy li hv yk jl xb	100
 月鳞绮纪热度	yt lb qi ji re du	100
@@ -126654,5 +126653,211 @@ sort: by_weight
 蒜苔	sr td	100
 打咩	da mp	100
 推理神作	tv li uf zo	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+专治脆皮大学生	vr vi cv pi da xt ug	100
+谁能演张雪	uv ng yj vh xt	100
+海空卫士	hd ks ww ui	100
+战至巅峰	vj vi dm fg	100
+地面战	di mm vj	100
+大武夷	da wu yi	100
+乐平天湖医院	le pk tm hu yi yr	100
+凯越集团	kd yt ji tr	100
+樊振东	fj vg ds	100
+市加美	ui jx mw	100
+江文波	jl wf bo	100
+浮屠界	fu tu jp	100
+天湖医院	tm hu yi yr	100
+寇伟	kz ww	100
+马鲁古海	ma lu gu hd	100
+钢铁森林定档	gh tp sf lb dk dh	100
+可露希尔	ke lu xi er	100
+换牛肉	hr nq rz	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+索象	so xl	100
+曾舜晞工作室	zg uy xi gs zo ui	100
+中广联合会	vs gl lm he hv	100
+暴锋雨开播	bc fg yu kd bo	100
+第二大脑	di er da nc	100
+雨鑫	yu xb	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+敖隐	ao yb	100
+孤独症	gu du vg	100
+雪迷宫	xt mi gs	100
+包华	bc hx	100
+陕工商	uj gs uh	100
+粉丝后援会	ff si hz yr hv	100
+凌虚子	lk xu zi	100
+白雪	bd xt	100
+严浩翔后援会	yj hc xl hz yr hv	100
+果宝特工	go bc te gs	100
+拜林财神三期	bd lb cd uf sj qi	100
+克里斯缇娜	ke li si ti na	100
+柏原有纪	bo yr yz ji	100
+高开高走	gc kd gc zz	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+恩施州卫健委	en ui vz ww jm ww	100
+解斑	jp bj	100
+范现国	fj xm go	100
+积分夺宝券	ji ff do bc qr	100
+我嘞个	wo le ge	100
+我想念你的吻	wo xl nm ni de wf	100
+昭雪	vc xt	100
+杨小伟	yh xn ww	100
+凯越机车致歉	kd yt ji ie vi qm	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+张先丛	vh xm cs	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+绿苑	lv yr	100
+神州高铁	uf vz gc tp	100
+丁永生	dk ys ug	100
+幽邃地窟	yz sv di ku	100
+吗喽	ma lz	100
+光追	gl vv	100
+全国放假	qr go fh jx	100
+影棚	yk pg	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+中煤能源	vs mw ng yr	100
+柳州警方	lq vz jk fh	100
+吗喽	ma lz	100
+雷特综合征	lw te zs he vg	100
+生椰子	ug ye zi	100
+卡膜	ka mo	100
+太空发射系统	td ks fa ue xi ts	100
+燃油费	rj yz fw	100
+科学路径	ke xt lu jk	100
+牢帕	lc pa	100
+棒杀	bh ua	100
+牢弟	lc di	100
+联环	lm hr	100
+西格玛男人	ma ge xi nj rf	100
+今麦郎	jb md lh	100
+妈妈的职业	ma ma de vi ye	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+猫好人坏	mc hc rf hk	100
+盛世嫡妃	ug ui di fw	100
+伊能静方致歉	yi ng jk fh vi qm	100
+没人通知我啊	mw rf ts vi wo aa	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+汪诚	wh ig	100
+犬九	qr jq	100
+加图索	jx tu so	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+车俊	ie jy	100
+郭锐	go rv	100
+夺宝券	do bc qr	100
+小会员	xn hv yr	100
+千万时代	qm wj ui dd	100
+马杨	ma yh	100
+卡拉比丘	ka la bi qq	100
+吉林省公务员考试	ji lb ug gs wu yr kc ui	100
+迪希雅	di xi ya	100
+速腾	su tg	100
+阿米诺斯	aa mi no si	100
+马尼菈	ma ni la	100
+太上老君	td uh lc jy	100
+玛拉妮	ma la ni	100
+恩施州中心医院	en ui vz vs xb yi yr	100
+金价急速上涨	jb jx ji su uh vh	100
+黑吗喽	hw ma lz	100
+金龙院区	jb ls yr qu	100
+我嘞个豆	wo le ge dz	100
+柏原崇	bo yr is	100
+饿了么订单	ee le me dk dj	100
+爱不愚人	ai bu yu rf	100
+缉盗	ji dc	100
+梵希雅真的强	fj xi ya vf de ql	100
+白河县	bd he xm	100
+登陆少年	dg lu uc nm	100
+陈都灵工作室	if du lk gs zo ui	100
+蒜苔	sr td	100
+全国税收宣传月	qr go uv uz xr ir yt	100
+伊朗队	yi lh dv	100
+南绷	nj bh	100
+伊拉克政府	yi la ke vg fu	100
+嫁给自己	jx gw zi ji	100
+幻影特工	hr yk te gs	100
+阿尔忒弥斯	aa er tw mi si	100
+登陆日	dg lu ri	100
+暴抵	bc di	100
+安赛龙	an sd ls	100
+学历贬值	xt li bm vi	100
+内田有纪	nw tm yz ji	100
+棍式	gy ui	100
+雷犁热刀	lw li re dc	100
+云南麋鹿咖啡有限公司	yy nj mi lu ka fw yz xm gs si	100
+肖战现身青岛	xn vj xm uf qk dc	100
+阿花花酱	aa hx hx jl	100
+云璃	yy li	100
+绘卷	hv jr	100
+江西省医保局	jl xi ug yi bc ju	100
+张小小	vh xn xn	100
+莱顿东方	ld dy ds fh	100
+黑吗喽	hw ma lz	100
+广州早茶传承保护规定	gl vz zc ia ir ig bc hu gv dk	100
+吕品红	lv pb hs	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+佟晨洁	ts if jp	100
+翠北实验小学	cv bw ui yj xn xt	100
+中国大唐	vs go da th	100
+章小蕙	vh xn hv	100
+阿信寸头	aa xb cy tz	100
+星旅测试	xk lv ce ui	100
+梵希雅弹唱	fj xi ya tj ih	100
+娜维娅	na ww ya	100
+世一决	ui yi jt	100
+新天龙八部	xb tm ls ba bu	100
+维冈竞技	ww gh jk ji	100
+恩施州卫生健康委员会	en ui vz ww ug jm kh ww yr hv	100
+雨夜的同伴	yu ye de ts bj	100
+通威集团	ts ww ji tr	100
+肥宗	fw zs	100
+火红尾	ho hs ww	100
+属性球	uu xk qq	100
+柯冉	ke rj	100
+晦月魔君	hv yt mo jy	100
+清明节假期	qk mk jp jx qi	100
+宏村	hs cy	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+月鳞绮纪第三	yt lb qi ji di sj	100
+雷霆特工队	lw tk te gs dv	100
+浙江国资	ve jl go zi	100
+游戏人生	yz xi rf ug	100
+难绷	nj bg	100
+张杰梵希雅	vh jp fj xi ya	100
+击破特工	ji po te gs	100
+李雄	li xs	100
+卡齐娜	ka qi na	100
+无声言证	wu ug yj vg	100
+香缇莫	xl ti mo	100
+尼菈	ni la	100
+硒都大舞台	xi dz da wu td	100
+凯越机车道歉	kd yt ji ie dc qm	100
+梵希雅第一	fj xi ya di yi	100
+肖战出发青岛	xn vj iu fa qk dc	100
+车牌付	ie pd fu	100
+打咩	da mp	100
+霍华德城堡	ho hx de ig bc	100
+余宇涵什么族	yu yu hj uf me zu	100
+马鲁古海峡	ma lu gu hd xx	100
+反家庭暴力法	fj jx tk bc li fa	100
+癫公颠婆	dm gs dm po	100
+娜洛已上线	na lo yi uh xm	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+凯越机车	kd yt ji ie	100
+朱重八	vu is ba	100
+又没进	yz mw jb	100
+蒜苔	sr td	100
+打咩	da mp	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
