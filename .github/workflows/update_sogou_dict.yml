@@ -1,88 +1,149 @@
-# 自动更新搜狗 scel 词库到 rime 词库
+# 自动更新搜狗 scel 词库到 Rime 词库
 name: auto_update_sogou_dict
 
 on:
   schedule:
-    - cron: "10 0 * * *" # 设置定时任务
+    - cron: "10 0 * * *"
   workflow_dispatch:
 
-# 权限配置
 permissions:
   contents: write
 
+concurrency:
+  group: auto_update_sogou_dict
+  cancel-in-progress: false
+
 env:
   DOTNET_VERSION: "10.0.x"
-  DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 1
+  DOTNET_SKIP_FIRST_TIME_EXPERIENCE: "1"
+  DOTNET_NOLOGO: "1"
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
 jobs:
   auto_update_sogou_dict:
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        shell: bash
+
     steps:
       - name: Checkout code
-        uses: actions/checkout@v6
+        uses: actions/checkout@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v5.1.1
+        uses: actions/setup-python@v6
         with:
-          python-version: "3.13" # 你可以根据需要选择 Python 版本
-          cache: pip
+          python-version: "3.13"
 
-      - name: Install dependencies
+      - name: Install Python dependencies
         run: |
+          set -euo pipefail
           python3 -m pip install --upgrade pip
-          pip install requests pypinyin pypinyin_dict
+          python3 -m pip install requests pypinyin pypinyin_dict
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v5
         with:
           dotnet-version: ${{ env.DOTNET_VERSION }}
 
-      - name: Download imewlconverter_linux
-        run: |
-          LATEST_TAG=$(curl -s https://api.github.com/repos/studyzy/imewlconverter/releases/latest | jq -r .tag_name)
-          wget "https://github.com/studyzy/imewlconverter/releases/download/${LATEST_TAG}/imewlconverter_linux-x64.tar.gz"
-          tar -xvf imewlconverter_linux-x64.tar.gz
-
       - name: Download sogou scel file
         run: |
-          curl -vfsL -o sogou_net_pop.scel 'https://pinyin.sogou.com/d/dict/download_cell.php?id=4&name=网络流行新词【官方推荐】&f=detail'
+          set -euo pipefail
+          curl --fail --silent --show-error --location --retry 3 --retry-delay 5 --get \
+            --data-urlencode 'id=4' \
+            --data-urlencode 'name=网络流行新词【官方推荐】' \
+            --data-urlencode 'f=detail' \
+            'https://pinyin.sogou.com/d/dict/download_cell.php' \
+            --output sogou_net_pop.scel
+
+          test -s sogou_net_pop.scel
+          ls -lh sogou_net_pop.scel
+
+      - name: Clone imewlconverter latest release
+        run: |
+          set -euo pipefail
+          latest_tag="$(curl --fail --silent --show-error --location \
+            'https://api.github.com/repos/studyzy/imewlconverter/releases/latest' \
+            | python3 -c 'import json, sys; print(json.load(sys.stdin)["tag_name"])')"
+
+          echo "Using imewlconverter ${latest_tag}"
+          git clone --depth 1 --branch "${latest_tag}" \
+            https://github.com/studyzy/imewlconverter.git \
+            "${RUNNER_TEMP}/imewlconverter"
 
       - name: Convert sogou scel to rime quanpin dict
         run: |
-          chmod +x ./publish/linux-x64/ImeWlConverterCmd
-          ./publish/linux-x64/ImeWlConverterCmd -i:scel sogou_net_pop.scel -ft:"rm:eng|rm:num|rm:space|rm:pun" -o:rime sghot.dict.yaml
+          set -euo pipefail
+          dotnet run \
+            --project "${RUNNER_TEMP}/imewlconverter/src/ImeWlConverterCmd" \
+            --configuration Release \
+            -- \
+            -i scel \
+            -o rime \
+            -O sghot.dict.yaml \
+            -f "rm:eng|rm:num|rm:space|rm:pun" \
+            sogou_net_pop.scel
+
+          test -s sghot.dict.yaml
+          sed -n '1,20p' sghot.dict.yaml
 
       - name: Gen incremental update dict items
         run: |
-          awk -F'\t' 'FNR==NR&&NR>10{a[$1]++;w[$1]=$0};FNR!=NR&&FNR>10{b[$1]++}END{for(i in a){if(b[i]<1)print w[i]}}' ./sghot.dict.yaml ./cn_dicts/flypy_sogou.dict.yaml >diff_sg.txt
+          set -euo pipefail
+          test -s ./sghot.dict.yaml
+          test -s ./cn_dicts/flypy_sogou.dict.yaml
+
+          awk -F'\t' '
+            FNR==NR && NR>10 { a[$1]++; w[$1]=$0 }
+            FNR!=NR && FNR>10 { b[$1]++ }
+            END { for (i in a) { if (b[i] < 1) print w[i] } }
+          ' ./sghot.dict.yaml ./cn_dicts/flypy_sogou.dict.yaml > diff_sg.txt
+
+          wc -l diff_sg.txt
 
       - name: Incremental update rime quanpin items to flypy items
         run: |
-          python3 ./tools/python/flypy_dict_generator.py -i ./diff_sg.txt -o ./cn_dicts/flypy_sogou.dict.yaml -m -w 100
+          set -euo pipefail
+          python3 ./tools/python/flypy_dict_generator.py \
+            -i ./diff_sg.txt \
+            -o ./cn_dicts/flypy_sogou.dict.yaml \
+            -m \
+            -w 100
 
-      - name: change version for flypy_sogou.dict.yaml
+      - name: Change version for flypy_sogou.dict.yaml
         run: |
+          set -euo pipefail
           today="$(date '+%F')"
-          sed -i "s/version: .*/version: $today/" ./cn_dicts/flypy_sogou.dict.yaml
+          sed -i "s/^version: .*/version: ${today}/" ./cn_dicts/flypy_sogou.dict.yaml
 
       - name: Remove spam entries for flypy_sogou.dict.yaml
         run: |
+          set -euo pipefail
           bash ./tools/bash/prune_words.sh
 
-      - name: Remove intermediate file
+      - name: Remove intermediate files
         run: |
-          rm -f ./diff_sg.txt ./sghot.dict.yaml
+          set -euo pipefail
+          rm -f ./diff_sg.txt ./sghot.dict.yaml ./sogou_net_pop.scel
 
-      - name: Set env
+      - name: Configure Git
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit and push changes
         run: |
+          set -euo pipefail
           git add ./cn_dicts/flypy_sogou.dict.yaml
+
+          if git diff --cached --quiet; then
+            echo "No dictionary changes to commit."
+            exit 0
+          fi
+
           git commit -m "Update sogou dict"
-          git push origin master
+          git push origin "HEAD:${GITHUB_REF_NAME}"
