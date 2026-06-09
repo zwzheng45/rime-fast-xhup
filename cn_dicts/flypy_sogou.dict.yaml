@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-06-08
+version: 2026-06-09
 sort: by_weight
 ...
 
@@ -138724,7 +138724,6 @@ sort: by_weight
 卡莫纳	ka mo na	100
 飞霄	fw xn	100
 考场外	kc ih wd	100
-陆校服	dk xn fu	100
 寒窗	hj il	100
 互文	hu wf	100
 浮云	fu yy	100
@@ -138902,3 +138901,282 @@ sort: by_weight
 梵希雅第四	fj xi ya di si	100
 招手即停	vc uz ji tk	100
 摩纳哥站	mo na ge vj	100
+开个旅综吧	kd ge lv zs ba	100
+为高考静音	ww gc kc jk yb	100
+全国卷	qr go jr	100
+楼船	lz ir	100
+能科科技	ng ke ke ji	100
+语文题	yu wf ti	100
+战至巅峰	vj vi dm fg	100
+一拖高级技工学校	yi to gc ji ji gs xt xn	100
+外星人	wd xk rf	100
+终结年龄焦虑	vs jp nm lk jn lv	100
+我在高考	wo zd gc kc	100
+弦长	xm ih	100
+出题	iu ti	100
+韦达定理	ww da dk li	100
+乳状云	ru vl yy	100
+妙手	mn uz	100
+星启	xk qi	100
+分位数	ff ww uu	100
+樊振东	fj vg ds	100
+浮屠界	fu tu jp	100
+送考车	ss kc ie	100
+真考	vf kc	100
+独家记忆	du jx ji yi	100
+淡淡四公排名	dj dj si gs pd mk	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+向海图强	xl hd tu ql	100
+我力竭了	wo li jp le	100
+江语晨安全了	jl yu if an qr le	100
+索辰	so if	100
+被架进考场	bw jx jb kc ih	100
+数据标注	uu ju bn vu	100
+抛物线	pc wu xm	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+曾沛慈团	zg pw ci tr	100
+电磁感应	dm ci gj yk	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+方差	fh ia	100
+导数	dc uu	100
+凌虚子	lk xu zi	100
+树屋	uu wu	100
+果宝特工	go bc te gs	100
+不负韶华	bu fu uc hx	100
+麦捷	md jp	100
+条件概率	tn jm gd lv	100
+枇杷正确吃法	pi pa vg qt ii fa	100
+选填	xr tm	100
+文言文	wf yj wf	100
+相信人定胜天	xl xb rf dk ug tm	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+标新立异	bn xb li yi	100
+天津卷	tm jb jr	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+黄河之水天上来	hl he vi uv tm uh ld	100
+朋友是流动的	pg yz ui lq ds de	100
+赤壁赋	ii bi fu	100
+我嘞个	wo le ge	100
+斯安威斯坦	si an ww si tj	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+文综	wf zs	100
+天津高考	tm jb gc kc	100
+太过完美	td go wj mw	100
+巨型老鼠	ju xk lc uu	100
+梵希雅机位	fj xi ya ji ww	100
+法拉利刹车	fa la li ua ie	100
+懂张若昀了	ds vh ro yy le	100
+重庆暴雨	is qk bc yu	100
+正态分布	vg td ff bu	100
+词语	ci yu	100
+幽邃地窟	yz sv di ku	100
+高考还包场	gc kc hd bc ih	100
+吗喽	ma lz	100
+光追	gl vv	100
+宣州区	xr vz qu	100
+全员安全	qr yr an qr	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+函数	hj uu	100
+第一道大题	di yi dc da ti	100
+吗喽	ma lz	100
+概率题	gd lv ti	100
+登快阁	dg kk ge	100
+高考试卷	gc kc ui jr	100
+物理	wu li	100
+高考静音	gc kc jk yb	100
+创新题	il xb ti	100
+椭圆	to yr	100
+弦长公式	xm ih gs ui	100
+卡膜	ka mo	100
+论题	ly ti	100
+田山	tm uj	100
+隔夜蒜苔	ge ye sr td	100
+牢帕	lc pa	100
+浪姐四公排名	lh jp si gs pd mk	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+大低开	da di kd	100
+飞霄	fw xn	100
+造飞机	zc fw ji	100
+陆校服	dk xn fu	100
+提线人	ti xm rf	100
+黄金坑	hl jb kg	100
+作文题	zo wf ti	100
+小猿搜题	xn yr sz ti	100
+挫折	co ve	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+大学梦	da xt mg	100
+新航路	xb hh lu	100
+隐零点	yb lk dm	100
+北京卷	bw jk jr	100
+二面角	er mm jn	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+去年难	qu nm nj	100
+向量	xl ll	100
+人物素材	rf wu su cd	100
+夺宝券	do bc qr	100
+胡枫	hu fg	100
+年年考	nm nm kc	100
+作文没写完	zo wf mw xp wj	100
+卡拉比丘	ka la bi qq	100
+新定义	xb dk yi	100
+英语一卷	yk yu yi jr	100
+迪希雅	di xi ya	100
+俗手	su uz	100
+阿米诺斯	aa mi no si	100
+题目	ti mu	100
+彩陶	cd tc	100
+小论文	xn ly wf	100
+马尼菈	ma ni la	100
+我的抗战	wo de kh vj	100
+玛拉妮	ma la ni	100
+黑吗喽	hw ma lz	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+英语作文	yk yu zo wf	100
+谢娜新歌	xp na xb ge	100
+魏晓奎	ww xn kv	100
+威龙之刃	ww ls vi rf	100
+美国大豆包	mw go da dz bc	100
+缉盗	ji dc	100
+六氟化钨	lq fu hx wu	100
+梵希雅真的强	fj xi ya vf de ql	100
+登陆少年	dg lu uc nm	100
+半衰期	bj uk qi	100
+工业革命	gs ye ge mk	100
+奇葩拼豆大赏	qi pa pb dz da uh	100
+蒜苔	sr td	100
+奥比中光	ao bi vs gl	100
+王源留胡渣了	wh yr lq hu va le	100
+石脑油危机	ui nc yz ww ji	100
+姜汤	jl th	100
+南绷	nj bh	100
+人大附中	rf da fu vs	100
+幻影特工	hr yk te gs	100
+登陆日	dg lu ri	100
+郭靖宇	go jk yu	100
+海屿你	hd yu ni	100
+安赛龙	an sd ls	100
+傅子纯去世	fu zi iy qu ui	100
+历史一卷	li ui yi jr	100
+线面角	xm mm jn	100
+棍式	gy ui	100
+联动剧情	lm ds ju qk	100
+雷犁热刀	lw li re dc	100
+桂丹路	gv dj lu	100
+怯考	qp kc	100
+史天琪	ui tm qi	100
+战争机器	vj vg ji qi	100
+中考加油	vs kc jx yz	100
+磁通量	ci ts ll	100
+云璃	yy li	100
+结合能	jp he ng	100
+代斯淘汰	dd si tc td	100
+黑吗喽	hw ma lz	100
+散文	sj wf	100
+钝角	dy jn	100
+四分位数	si ff ww uu	100
+李小冉删博	li xn rj uj bo	100
+张慧雯直播	vh hv wf vi bo	100
+张月团	vh yt tr	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+二项分布	er xl ff bu	100
+盲人摸象	mh rf mo xl	100
+临桂	lb gv	100
+全国一卷	qr go yi jr	100
+数学难	uu xt nj	100
+钦差大臣	qb id da if	100
+雷米埃尔	lw mi ai er	100
+书愤	uu ff	100
+梵希雅弹唱	fj xi ya tj ih	100
+金安国际	jb an go ji	100
+娜维娅	na ww ya	100
+大题	da ti	100
+解三角	jp sj jn	100
+叶文杰	ye wf jp	100
+列文	lp wf	100
+浪姐选歌	lh jp xr ge	100
+中位数	vs ww uu	100
+英语二卷	yk yu er jr	100
+世一决	ui yi jt	100
+上海卷	uh hd jr	100
+离题	li ti	100
+华超神控	hx ic uf ks	100
+休克	xq ke	100
+圆曲	yr qu	100
+叶文洁	ye wf jp	100
+词义	ci yi	100
+数学答案	uu xt da an	100
+发配河南蒜苔	fa pw he nj sr td	100
+数码全家桶	uu ma qr jx ts	100
+肥宗	fw zs	100
+文旅宣传费	wf lv xr ir fw	100
+柯冉	ke rj	100
+电流表	dm lq bn	100
+好听好想哭	hc tk hc xl ku	100
+变电所	bm dm so	100
+晦月魔君	hv yt mo jy	100
+陈瑶一直在哭	if yc yi vi zd ku	100
+古诗	gu ui	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+纳达尔懂球帝	na da er ds qq di	100
+雷霆特工队	lw tk te gs dv	100
+八股文	ba gu wf	100
+高考结束了	gc kc jp uu le	100
+铁拳教育	tp qr jn yu	100
+历史题	li ui ti	100
+难绷	nj bg	100
+切线方程	qp xm fh ig	100
+李天泽	li tm ze	100
+张杰梵希雅	vh jp fj xi ya	100
+法向量	fa xl ll	100
+搁浅夯爆了	ge qm hh bc le	100
+击破特工	ji po te gs	100
+雾柳镇	wu lq vf	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+电学	dm xt	100
+光电效应	gl dm xn yk	100
+博利	bo li	100
+尼菈	ni la	100
+偏难	pm nj	100
+送考生	ss kc ug	100
+我浪姐了	wo lh jp le	100
+双曲线	ul qu xm	100
+修为散尽	xq ww sj jb	100
+梵希雅第一	fj xi ya di yi	100
+动量	ds ll	100
+打咩	da mp	100
+宣林	xr lb	100
+恐怖角	ks bu jn	100
+传奇组	ir qi zu	100
+住房公积金管理条例	vu fh gs ji jb gr li tn li	100
+历史二卷	li ui er jr	100
+余弦定理	yu xm dk li	100
+癫公颠婆	dm gs dm po	100
+河南蒜苔	he nj sr td	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+这高考	ve gc kc	100
+史上最贵的吻	ui uh zv gv de wf	100
+埃里克森	ai li ke sf	100
+吉瓦	ji wa	100
+安培力	an pw li	100
+朱重八	vu is ba	100
+全国二卷	qr go er jr	100
+杰作	jp zo	100
+晁盖	ic gd	100
+蒜苔	sr td	100
+昊华科技	hc hx ke ji	100
+打咩	da mp	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
