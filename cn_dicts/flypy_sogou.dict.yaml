@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-06-14
+version: 2026-06-15
 sort: by_weight
 ...
 
@@ -140095,7 +140095,6 @@ sort: by_weight
 中国教育	vs go jn yu	100
 重道	vs dc	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 黄灿灿工作室	hl cj cj gs zo ui	100
 阿罗拉	aa lo la	100
 癫公	dm gs	100
@@ -140233,6 +140232,290 @@ sort: by_weight
 城市化	ig ui hx	100
 蒜苔	sr td	100
 男幼师	nj yz ui	100
+打咩	da mp	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+如果爱忘了	ru go ai wh le	100
+王俊凯袖扣	wh jy kd xq kz	100
+奥丁	ao dk	100
+最弱	zv ro	100
+战至巅峰	vj vi dm fg	100
+焦灼	jn vo	100
+淹水	yj uv	100
+贵阳机场	gv yh ji ih	100
+碾压	nm ya	100
+伊尔迪兹	yi er di zi	100
+张海侠	vh hd xx	100
+世界排名	ui jp pd mk	100
+翻译题	fj yi ti	100
+曼谷雨季	mj gu yu ji	100
+红色预警	hs se yu jk	100
+昙花	tj hx	100
+太解气了	td jp qi le	100
+超能	ic ng	100
+孤独树	gu du uu	100
+晨昏	if hy	100
+樊振东	fj vg ds	100
+杰尼龟	jp ni gv	100
+浮屠界	fu tu jp	100
+程潇红毯	ig xn hs tj	100
+威能	ww ng	100
+盲侠	mh xx	100
+土耳其人	tu er qi rf	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+波切蒂诺	bo qp di no	100
+控图	ks tu	100
+钢背	gh bw	100
+银龄	yb lk	100
+手感火热	uz gj ho re	100
+右后卫	yz hz ww	100
+亚洲球队	ya vz qq dv	100
+隐世	yb ui	100
+咏鹅	ys ee	100
+胜者	ug ve	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+在线人数	zd xm rf uu	100
+迪力木拉提	di li mu la ti	100
+智取	vi qu	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+冷静秋	lg jk qq	100
+末节	mo jp	100
+任国超	rf go ic	100
+导播	dc bo	100
+凌虚子	lk xu zi	100
+帝政裙	di vg qy	100
+瑰宝	gv bc	100
+瑞士点球破门	rv ui dm qq po mf	100
+数位	uu ww	100
+暴力炸	bc li va	100
+果宝特工	go bc te gs	100
+润玉	ry yu	100
+张昭	vh vc	100
+科特	ke te	100
+华泰	hx td	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+卡塔	ka ta	100
+解斑	jp bj	100
+榴月	lq yt	100
+积分夺宝券	ji ff do bc qr	100
+罗密欧	lo mi ou	100
+我嘞个	wo le ge	100
+隐士	yb ui	100
+后弦	hz xm	100
+狼队十三冠	lh dv ui sj gr	100
+笔名	bi mk	100
+赛后采访	sd hz cd fh	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+裂变	lp bm	100
+傲慢与偏见	ao mj yu pm jm	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+大昌	da ih	100
+杜海波	du hd bo	100
+安帅	an uk	100
+加时	jx ui	100
+幽邃地窟	yz sv di ku	100
+素质	su vi	100
+李哲	li ve	100
+袋鼠	dd uu	100
+吗喽	ma lz	100
+光追	gl vv	100
+梅雨	mw yu	100
+耍猴	ux hz	100
+黄大炜	hl da ww	100
+零封	lk fg	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+白露生病了	bd lu ug bk le	100
+乳化	ru hx	100
+吗喽	ma lz	100
+善良人格	uj ll rf ge	100
+复梦天使	fu mg tm ui	100
+卡膜	ka mo	100
+漾濞县	yh bi xm	100
+家豪	jx hc	100
+判官	pj gr	100
+等等太帅了	dg dg td uk le	100
+隔夜蒜苔	ge ye sr td	100
+惹惊鸿	re jk hs	100
+牢帕	lc pa	100
+牢弟	lc di	100
+二轮秀	er ly xq	100
+西格玛男人	ma ge xi nj rf	100
+慢热	mj re	100
+飞霄	fw xn	100
+隐士修所	yb ui xq so	100
+陆校服	dk xn fu	100
+卡特尔	ka te er	100
+赎罪	uu zv	100
+乌迪尔	wu di er	100
+黑熊精	hw xs jk	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+采儿	cd er	100
+莫离的女二	mo li de nv er	100
+老上海	lc uh hd	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+康哥	kh ge	100
+夺宝券	do bc qr	100
+巴西醒醒	ba xi xk xk	100
+连接词	lm jp ci	100
+弱图	ro tu	100
+获胜	ho ug	100
+山中	uj vs	100
+星芒	xk mh	100
+卡拉比丘	ka la bi qq	100
+对攻	dv gs	100
+迪希雅	di xi ya	100
+钻机	zr ji	100
+澳大	ao da	100
+金句	jb ju	100
+蒂亚戈	di ya ge	100
+夸一夏派对	kx yi xx pd dv	100
+阿米诺斯	aa mi no si	100
+马尼菈	ma ni la	100
+陶陶居	tc tc ju	100
+回旋镖	hv xr bn	100
+玛拉妮	ma la ni	100
+空岛	ks dc	100
+康康	kh kh	100
+黑吗喽	hw ma lz	100
+做题顺序	zo ti uy xu	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+降维打击	jl ww da ji	100
+飞屋环游记	fw wu hr yz ji	100
+万能豆	wj ng dz	100
+缉盗	ji dc	100
+纸尿裤	vi nn ku	100
+梵希雅真的强	fj xi ya vf de ql	100
+渝见小面	yu jm xn mm	100
+登陆少年	dg lu uc nm	100
+胜者组	ug ve zu	100
+迪卡侬	di ka ns	100
+厄斐琉斯	ee fw lq si	100
+莲华	lm hx	100
+纽约之王	nq yt vi wh	100
+防守反击	fh uz fj ji	100
+英语六级	yk yu lq ji	100
+蒜苔	sr td	100
+惨败	cj bd	100
+拿下	na xx	100
+热河	re he	100
+布伦森哭了	bu ly sf ku le	100
+王城	wh ig	100
+南绷	nj bh	100
+幻影特工	hr yk te gs	100
+夏扬	xx yh	100
+登陆日	dg lu ri	100
+卡萨布兰卡	ka sa bu lj ka	100
+青虫	qk is	100
+安赛龙	an sd ls	100
+护士资格证	hu ui zi ge vg	100
+冷门	lg mf	100
+奶粉钱	nd ff qm	100
+长郡	ih jy	100
+牛津	nq jb	100
+棍式	gy ui	100
+五驴	wu lv	100
+雷犁热刀	lw li re dc	100
+黄大炜去世	hl da ww qu ui	100
+曾沛慈老公	zg pw ci lc gs	100
+标配	bn pw	100
+云璃	yy li	100
+尊师	zy ui	100
+题跋	ti ba	100
+黑吗喽	hw ma lz	100
+纽约尼克斯	nq yt ni ke si	100
+图池	tu ii	100
+职业生涯	vi ye ug ya	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+奶爸	nd ba	100
+银月	yb yt	100
+炸药包	va yc bc	100
+双塔	ul ta	100
+梵希雅弹唱	fj xi ya tj ih	100
+绘就	hv jq	100
+电影卡	dm yk ka	100
+娜维娅	na ww ya	100
+宠坏手势舞	is hk uz ui wu	100
+南雅	nj ya	100
+冠军赛	gr jy sd	100
+跪下	gv xx	100
+世一决	ui yi jt	100
+学院派	xt yr pd	100
+三强	sj ql	100
+军刀	jy dc	100
+中雅	vs ya	100
+六级翻译	lq ji fj yi	100
+悟道	wu dc	100
+季中赛	ji vs sd	100
+利亚	li ya	100
+发配河南蒜苔	fa pw he nj sr td	100
+聚焦	ju jn	100
+肥宗	fw zs	100
+粗鄙	cu bi	100
+柯冉	ke rj	100
+金箍棒	jb gu bh	100
+晦月魔君	hv yt mo jy	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+豪到我了	hc dc wo le	100
+雷霆特工队	lw tk te gs dv	100
+垃圾话	la ji hx	100
+吻别	wf bp	100
+迪瓦	di wa	100
+张雪机车冠军	vh xt ji ie gr jy	100
+垫脚	dm jn	100
+梁洛施	ll lo ui	100
+摩洛哥进球	mo lo ge jb qq	100
+修炼爱情	xq lm ai qk	100
+东海客栈	ds hd ke vj	100
+难绷	nj bg	100
+你把我灌醉	ni ba wo gr zv	100
+张杰梵希雅	vh jp fj xi ya	100
+搜点	sz dm	100
+阳谷	yh gu	100
+击破特工	ji po te gs	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+败者组	bd ve zu	100
+内切	nw qp	100
+尼菈	ni la	100
+和局	he ju	100
+毒奶	du nd	100
+莫离预期违背	mo li yu qi ww bw	100
+蚌埠	bg bu	100
+嘉豪	jx hc	100
+梵希雅第一	fj xi ya di yi	100
+火药味	ho yc ww	100
+塔尔	ta er	100
+打咩	da mp	100
+暴虐	bc nt	100
+远哥	yr ge	100
+阳谷县	yh gu xm	100
+投保	tz bc	100
+癫公颠婆	dm gs dm po	100
+史上	ui uh	100
+河南蒜苔	he nj sr td	100
+唐家	th jx	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+王橹杰北京	wh lu jp bw jk	100
+无邪气汉化组	wu xp qi hj hx zu	100
+春山镜	iy uj jk	100
+朱重八	vu is ba	100
+瓦萨	wa sa	100
+跳墙	tn ql	100
+道友	dc yz	100
+尼克斯总冠军	ni ke si zs gr jy	100
+蒜苔	sr td	100
+一日为师	yi ri ww ui	100
 打咩	da mp	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
