@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-06-15
+version: 2026-06-16
 sort: by_weight
 ...
 
@@ -140348,7 +140348,6 @@ sort: by_weight
 慢热	mj re	100
 飞霄	fw xn	100
 隐士修所	yb ui xq so	100
-陆校服	dk xn fu	100
 卡特尔	ka te er	100
 赎罪	uu zv	100
 乌迪尔	wu di er	100
@@ -140516,6 +140515,258 @@ sort: by_weight
 尼克斯总冠军	ni ke si zs gr jy	100
 蒜苔	sr td	100
 一日为师	yi ri ww ui	100
+打咩	da mp	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+伊东纯也	yi ds iy ye	100
+大成路	da ig lu	100
+世界青年发展论坛	ui jp qk nm fa vj ly tj	100
+流水	lq uv	100
+河津	he jb	100
+丁震	dk vf	100
+克洛泽	ke lo ze	100
+周一快乐	vz yi kk le	100
+白献锁	bd xm so	100
+战至巅峰	vj vi dm fg	100
+惠来	hv ld	100
+写信女	xp xb nv	100
+库拉	ku la	100
+尚军	uh jy	100
+主治	vu vi	100
+山姆被约谈	uj mu bw yt tj	100
+圣王	ug wh	100
+樊振东	fj vg ds	100
+浮屠界	fu tu jp	100
+贺儿	he er	100
+贺兰	he lj	100
+湖光壹号	hu gl yi hc	100
+朱一龙敏感度	vu yi ls mb gj du	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+法考报名	fa kc bc mk	100
+全军覆没	qr jy fu mo	100
+罗莎琳	lo ua lb	100
+高梓淇	gc zi qi	100
+穗穗	sv sv	100
+连城诀	lm ig jt	100
+世航智能	ui hh vi ng	100
+荷兰进球	he lj jb qq	100
+虐菜	nt cd	100
+新混池	xb hy ii	100
+未检之名官宣	ww jm vi mk gr xr	100
+德国战车	de go vj ie	100
+炽夏定档	ii xx dk dh	100
+权顺荣	qr uy rs	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+追评	vv pk	100
+提级管控	ti ji gr ks	100
+函函	hj hj	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+野火春风斗古城	ye ho iy fg dz gu ig	100
+帕差拉吉蒂雅帕	pa ia la ji di ya pa	100
+凌虚子	lk xu zi	100
+分冠	ff gr	100
+果宝特工	go bc te gs	100
+日本闪电扳平	ri bf uj dm bj pk	100
+水位	uv ww	100
+佩子	pw zi	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+马伦	ma ly	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+最近很空	zv jb hf ks	100
+德佩	de pw	100
+我嘞个	wo le ge	100
+德国队杀疯了	de go dv ua fg le	100
+龙圩	ls xu	100
+兽皮痣	uz pi vi	100
+国家市场监管总局	go jx ui ih jm gr zs ju	100
+河南省实验中学	he nj ug ui yj vs xt	100
+首冠	uz gr	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+中场休息	vs ih xq xi	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+柳艳兵	lq yj bk	100
+主管护师	vu gr hu ui	100
+弗得角	fu de jn	100
+幽邃地窟	yz sv di ku	100
+节前	jp qm	100
+马哈	ma ha	100
+吗喽	ma lz	100
+光追	gl vv	100
+郑州外国语学校	vg vz wd go yu xt xn	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+詹姆	vj mu	100
+吗喽	ma lz	100
+停球	tk qq	100
+左后卫	zo hz ww	100
+快查	kk ia	100
+卡膜	ka mo	100
+钱德勒	qm de le	100
+逼平	bi pk	100
+铁佛寺	tp fo si	100
+刘老太	lq lc td	100
+酷哥	ku ge	100
+严艺之	yj yi vi	100
+超级绿茵场	ic ji lv yb ih	100
+隔夜蒜苔	ge ye sr td	100
+张海琪	vh hd qi	100
+牢帕	lc pa	100
+燕顺路	yj uy lu	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+飞霄	fw xn	100
+客队	ke dv	100
+陆校服	dk xn fu	100
+人形庞氏骗局	rf xk ph ui pm ju	100
+炽夏尺度	ii xx ii du	100
+跳跳糖	tn tn th	100
+封面欺诈	fg mm qi va	100
+庄家	vl jx	100
+无后之徒	wu hz vi tu	100
+等你爱我	dg ni ai wo	100
+冒泡赛	mc pc sd	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+李秋源	li qq yr	100
+八仙	ba xm	100
+韩城	hj ig	100
+滔搏	tc bo	100
+日本绝平荷兰	ri bf jt pk he lj	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+巨化股份	ju hx gu ff	100
+夺宝券	do bc qr	100
+执法记录仪	vi fa ji lu yi	100
+穆勒	mu le	100
+黄金继续涨了	hl jb ji xu vh le	100
+盐场	yj ih	100
+卡拉比丘	ka la bi qq	100
+代希耶地区	dd xi ye di qu	100
+迪希雅	di xi ya	100
+阿米诺斯	aa mi no si	100
+晃动	hl ds	100
+耍起嘛	ux qi ma	100
+踢法	ti fa	100
+森保一	sf bc yi	100
+马尼菈	ma ni la	100
+鹿角巷	lu jn xl	100
+景燃	jk rj	100
+玛拉妮	ma la ni	100
+待客之道	dd ke vi dc	100
+镰田大地	lm tm da di	100
+铁打的	tp da de	100
+黑吗喽	hw ma lz	100
+我嘞个豆	wo le ge dz	100
+央央	yh yh	100
+额济纳旗	ee ji na qi	100
+饿了么订单	ee le me dk dj	100
+剑烛大荒	jm vu da hl	100
+阿瑞	aa rv	100
+缉盗	ji dc	100
+丢球	dq qq	100
+梵希雅真的强	fj xi ya vf de ql	100
+机器人伴侣	ji qi rf bj lv	100
+登陆少年	dg lu uc nm	100
+撒切尔夫人	sa qp er fu rf	100
+蒜苔	sr td	100
+女剑仙	nv jm xm	100
+克罗斯	ke lo si	100
+深桑达	uf sh da	100
+小贺	xn he	100
+格洛克	ge lo ke	100
+翁达夫破门	wg da fu po mf	100
+亚恒	ya hg	100
+天津航空	tm jb hh ks	100
+南绷	nj bh	100
+警务室	jk wu ui	100
+幻影特工	hr yk te gs	100
+友谊长存	yz yi ih cy	100
+登陆日	dg lu ri	100
+王局	wh ju	100
+安赛龙	an sd ls	100
+轻敌	qk di	100
+四串一	si ir yi	100
+德科	de ke	100
+象牙	xl ya	100
+蒙特雷体育场	mg te lw ti yu ih	100
+棍式	gy ui	100
+雷犁热刀	lw li re dc	100
+云璃	yy li	100
+德国战车好猛	de go vj ie hc mg	100
+奉贤九棵树	fg xm jq ke uu	100
+三停	sj tk	100
+黑吗喽	hw ma lz	100
+负温度	fu wf du	100
+德罗巴	de lo ba	100
+梵希雅	fj xi ya	100
+德国球迷	de go qq mi	100
+一个人也挺好	yi ge rf ye tk hc	100
+我是警察	wo ui jk ia	100
+管他什么音乐	gr ta uf me yb yt	100
+殿下	dm xx	100
+梵希雅弹唱	fj xi ya tj ih	100
+燧原科技	sv yr ke ji	100
+娜维娅	na ww ya	100
+烫染	th rj	100
+康盛	kh ug	100
+影之后	yk vi hz	100
+德意志	de yi vi	100
+世一决	ui yi jt	100
+上朝	uh ic	100
+鄢陵县中医院	yj lk xm vs yi yr	100
+荷兰人	he lj rf	100
+罗斯伯格	lo si bo ge	100
+梦洲	mg vz	100
+张碧晨口碑	vh bi if kz bw	100
+发配河南蒜苔	fa pw he nj sr td	100
+肥宗	fw zs	100
+柯冉	ke rj	100
+晦月魔君	hv yt mo jy	100
+轻量级	qk ll ji	100
+神锋	uf fg	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+雷霆特工队	lw tk te gs dv	100
+塔可	ta ke	100
+难绷	nj bg	100
+地震带	di vf dd	100
+张杰梵希雅	vh jp fj xi ya	100
+击破特工	ji po te gs	100
+合阳县	he yh xm	100
+璇姐	xr jp	100
+泽芮娅	ze rv ya	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+运城震感	yy ig vf gj	100
+帕差拉吉帝雅帕公主	pa ia la ji di ya pa gs vu	100
+尼菈	ni la	100
+都想抽	dz xl iz	100
+梵希雅第一	fj xi ya di yi	100
+邮政编码	yz vg bm ma	100
+龙舟雨	ls vz yu	100
+打咩	da mp	100
+萨格勒布	sa ge le bu	100
+德国人	de go rf	100
+癫公颠婆	dm gs dm po	100
+河南蒜苔	he nj sr td	100
+泱泱	yh yh	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+萨内	sa nw	100
+迪奥曼德	di ao mj de	100
+郭峰	go fg	100
+绵阳市	mm yh ui	100
+酱味	jl ww	100
+朱重八	vu is ba	100
+电影英雄之夜	dm yk yk xs vi ye	100
+天台	tm td	100
+佳木斯	jx mu si	100
+蒜苔	sr td	100
 打咩	da mp	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
