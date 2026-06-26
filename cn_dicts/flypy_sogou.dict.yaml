@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-06-25
+version: 2026-06-26
 sort: by_weight
 ...
 
@@ -143369,7 +143369,6 @@ sort: by_weight
 锐评一下	rv pk yi xx	100
 白鹿莫离口碑	bd lu mo li kz bw	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 乌其日勒	wu qi ri le	100
 高考分数线	gc kc ff uu xm	100
 人墙	rf ql	100
@@ -143553,3 +143552,481 @@ sort: by_weight
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
 查分数	ia ff uu	100
+隔期	ge qi	100
+纯理	iy li	100
+北京棉花云	bw jk mm hx yy	100
+最高分	zv gc ff	100
+陶森	tc sf	100
+顶薪	dk xb	100
+本科	bf ke	100
+深职	uf vi	100
+吴家庆	wu jx qk	100
+河南高考	he nj gc kc	100
+江西高考	jl xi gc kc	100
+考分	kc ff	100
+财经大学	cd jk da xt	100
+艺术生	yi uu ug	100
+医学	yi xt	100
+战至巅峰	vj vi dm fg	100
+湖北高考	hu bw gc kc	100
+单列类	dj lp lw	100
+帮查	bh ia	100
+辽大	ln da	100
+考号	kc hc	100
+武铁	wu tp	100
+赛季更新	sd ji gg xb	100
+陵城区	lk ig qu	100
+鬼手	gv uz	100
+裸分	lo ff	100
+宁大	nk da	100
+公费师范	gs fw ui fj	100
+科技大学	ke ji da xt	100
+机电一体化	ji dm yi ti hx	100
+征集	vg ji	100
+扬大	yh da	100
+物理方向	wu li fh xl	100
+樊振东	fj vg ds	100
+欠你的那场婚礼	qm ni de na ih hy li	100
+山东高考分数	uj ds gc kc ff uu	100
+浮屠界	fu tu jp	100
+大专	da vr	100
+王牌专业	wh pd vr ye	100
+浴池	yu ii	100
+全省排名	qr ug pd mk	100
+转专业	vr vr ye	100
+南昌中院	nj ih vs yr	100
+医学院	yi xt yr	100
+南信	nj xb	100
+包一中	bc yi vs	100
+报名序号	bc mk xu hc	100
+温北	wf bw	100
+士官	ui gr	100
+华微	hx ww	100
+血影	xt yk	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+反辐射	fj fu ue	100
+落榜	lo bh	100
+最低分	zv di ff	100
+长江证券	ih jl vg qr	100
+临床医学	lb il yi xt	100
+铁路	tp lu	100
+君正	jy vg	100
+普通批	pu ts pi	100
+土木工程	tu mu gs ig	100
+专项计划	vr xl ji hx	100
+科技学院	ke ji xt yr	100
+张孝宇	vh xn yu	100
+安徽查分	an hv ia ff	100
+公募基金	gs mu ji jb	100
+郑铁	vg tp	100
+少数民族	uc uu mb zu	100
+本科率	bf ke lv	100
+生源	ug yr	100
+偏远地区	pm yr di qu	100
+安徽省	an hv ug	100
+问分	wf ff	100
+董汶鑫	ds wf xb	100
+主科	vu ke	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+咨询会	zi xy hv	100
+合肥大学	he fw da xt	100
+填报志愿	tm bc vi yr	100
+内马尔替补	nw ma er ti bu	100
+内马尔首秀	nw ma er uz xq	100
+河西学院	he xi xt yr	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+西交利物浦	xi jn li wu pu	100
+牧业	mu ye	100
+生化环材	ug hx hr cd	100
+中北	vs bw	100
+凌虚子	lk xu zi	100
+失利	ui li	100
+吉林高考	ji lb gc kc	100
+南大	nj da	100
+河师大	he ui da	100
+历史方向	li ui fh xl	100
+贵师大	gv ui da	100
+专业分	vr ye ff	100
+果宝特工	go bc te gs	100
+工商管理	gs uh gr li	100
+军警	jy jk	100
+文理	wf li	100
+安农	an ns	100
+安徽分数线	an hv ff uu xm	100
+华水	hx uv	100
+中外	vs wd	100
+口令卡	kz lk ka	100
+招生考试院	vc ug kc ui yr	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+联招	lm vc	100
+体专	ti vr	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+考的不错	kc de bu co	100
+退档	tv dh	100
+好学校	hc xt xn	100
+荆楚	jk iu	100
+我嘞个	wo le ge	100
+山东教育	uj ds jn yu	100
+新工科	xb gs ke	100
+分数低	ff uu di	100
+差专业	ia vr ye	100
+失常	ui ih	100
+秦岭神树	qb lk uf uu	100
+外语	wd yu	100
+文科生	wf ke ug	100
+安大	an da	100
+过线	go xm	100
+专科批	vr ke pi	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+预感大爆	yu gj da bc	100
+星鸣特工	xk mk te gs	100
+乌龙山剿匪记	wu ls uj jn fw ji	100
+河南考生	he nj kc ug	100
+副科	fu ke	100
+政法	vg fa	100
+预期	yu qi	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+动物医学	ds wu yi xt	100
+广美	gl mw	100
+北京高考	bw jk gc kc	100
+快出分了	kk iu ff le	100
+河北教育	he bw jn yu	100
+商洛学院	uh lo xt yr	100
+幽邃地窟	yz sv di ku	100
+文科类	wf ke lw	100
+韩国出线形势	hj go iu xm xk ui	100
+吗喽	ma lz	100
+百花杀定档	bd hx ua dk dh	100
+省状元	ug vl yr	100
+脂粉	vi ff	100
+光追	gl vv	100
+长江大学	ih jl da xt	100
+赣服通	gj fu ts	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+赵姨	vc yi	100
+吗喽	ma lz	100
+本科分数线	bf ke ff uu xm	100
+好本科	hc bf ke	100
+豫事办	yu ui bj	100
+夏季高考	xx ji gc kc	100
+卡膜	ka mo	100
+财会	cd kk	100
+邮电	yz dm	100
+隔夜蒜苔	ge ye sr td	100
+雪乃	xt nd	100
+好专科	hc vr ke	100
+河北工业	he bw gs ye	100
+牢帕	lc pa	100
+古比斯	gu bi si	100
+意料	yi ln	100
+医药	yi yc	100
+牢弟	lc di	100
+尹净汉退伍	yb jk hj tv wu	100
+武汉市第一聋哑学校	wu hj ui di yi ls ya xt xn	100
+西格玛男人	ma ge xi nj rf	100
+河北省	he bw ug	100
+同分	ts ff	100
+办学	bj xt	100
+网络技术	wh lo ji uu	100
+重邮	is yz	100
+飞霄	fw xn	100
+一拜二拜三拜	yi bd er bd sj bd	100
+公募	gs mu	100
+陆校服	dk xn fu	100
+内马尔造黄牌	nw ma er zc hl pd	100
+哈工程	ha gs ig	100
+合作办学	he zo bj xt	100
+代号十三钗	dd hc ui sj id	100
+算分	sr ff	100
+海南高考	hd nj gc kc	100
+鸡西市	ji xi ui	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+实体版	ui ti bj	100
+双过线	ul go xm	100
+高职高专	gc vi gc vr	100
+保研率	bc yj lv	100
+镇中	vf vs	100
+警官学院	jk gr xt yr	100
+公费师范生	gs fw ui fj ug	100
+山东高考	uj ds gc kc	100
+电气工程	dm qi gs ig	100
+移动智能	yi ds vi ng	100
+二段线	er dr xm	100
+预科	yu ke	100
+显眼包	xm yj bc	100
+报喜	bc xi	100
+红温了	hs wf le	100
+扩招	ko vc	100
+存储芯片涨价	cy iu xb pm vh jx	100
+夺宝券	do bc qr	100
+高考失利	gc kc ui li	100
+五串一	wu ir yi	100
+兰理工	lj li gs	100
+财大	cd da	100
+实体盘	ui ti pj	100
+牛国	nq go	100
+政治学院	vg vi xt yr	100
+柯秉逸	ke bk yi	100
+茅以升	mc yi ug	100
+厦大	xx da	100
+卡拉比丘	ka la bi qq	100
+山西高考成绩	uj xi gc kc ig ji	100
+韩红错在哪了	hj hs co zd na le	100
+大事很妙	da ui hf mn	100
+迪希雅	di xi ya	100
+代查	dd ia	100
+教育厅	jn yu tk	100
+学校专业	xt xn vr ye	100
+阿米诺斯	aa mi no si	100
+遮挡区	ve dh qu	100
+高考志愿	gc kc vi yr	100
+名次	mk ci	100
+福建警察学院	fu jm jk ia xt yr	100
+理工类	li gs lw	100
+孙兴慜道歉	sy xk mb dc qm	100
+番位排序	fj ww pd xu	100
+马尼菈	ma ni la	100
+国一	go yi	100
+单招	dj vc	100
+玛拉妮	ma la ni	100
+古田会议	gu tm hv yi	100
+黑吗喽	hw ma lz	100
+宿舍环境	su ue hr jk	100
+合工大	he gs da	100
+等效分	dg xn ff	100
+河南理工	he nj li gs	100
+我嘞个豆	wo le ge dz	100
+教基	jn ji	100
+饿了么订单	ee le me dk dj	100
+老痒	lc yh	100
+史政地	ui vg di	100
+省份	ug ff	100
+山农	uj ns	100
+海中	hd vs	100
+美光科技财报	mw gl ke ji cd bc	100
+兔老大	tu lc da	100
+起死回生	qi si hv ug	100
+缉盗	ji dc	100
+梵希雅真的强	fj xi ya vf de ql	100
+轻工	qk gs	100
+登陆少年	dg lu uc nm	100
+普职融通	pu vi rs ts	100
+投档分	tz dh ff	100
+控制线	ks vi xm	100
+福师大	fu ui da	100
+怀斯曼	hk si mj	100
+纯文化	iy wf hx	100
+背刺了	bw ci le	100
+上大专了	uh da vr le	100
+理工	li gs	100
+蒜苔	sr td	100
+都出分了	dz iu ff le	100
+冷门专业	lg mf vr ye	100
+普通本科	pu ts bf ke	100
+招生组	vc ug zu	100
+省内	ug nw	100
+湖南高考	hu nj gc kc	100
+艺考	yi kc	100
+烂专业	lj vr ye	100
+南绷	nj bh	100
+党课	dh ke	100
+四大行	si da hh	100
+录取分	lu qu ff	100
+无相神器	wu xl uf qi	100
+孙权皮肤	sy qr pi fu	100
+预购	yu gz	100
+幻影特工	hr yk te gs	100
+陕西高考	uj xi gc kc	100
+上线率	uh xm lv	100
+中外合作办学	vs wd he zo bj xt	100
+定向	dk xl	100
+贵大	gv da	100
+口腔医学	kz ql yi xt	100
+登陆日	dg lu ri	100
+三本线	sj bf xm	100
+燕山	yj uj	100
+车辆工程	ie ll gs ig	100
+鄂汇办	ee hv bj	100
+安赛龙	an sd ls	100
+省外	ug wd	100
+小语种	xn yu vs	100
+五谷磨房	wu gu mo fh	100
+棍式	gy ui	100
+郑大	vg da	100
+省实	ug ui	100
+雷犁热刀	lw li re dc	100
+物化政	wu hx vg	100
+音乐表演	yb yt bn yj	100
+成绩出来了吗	ig ji iu ld le ma	100
+盘后	pj hz	100
+热门专业	re mf vr ye	100
+夏天没食欲	xx tm mw ui yu	100
+禄根	lu gf	100
+电子可分	dm zi ke ff	100
+一段线	yi dr xm	100
+云璃	yy li	100
+特招	te vc	100
+婉若游龙	wj ro yz ls	100
+海底	hd di	100
+文科状元	wf ke vl yr	100
+私募基金	si mu ji jb	100
+黑吗喽	hw ma lz	100
+华师一	hx ui yi	100
+征集志愿	vg ji vi yr	100
+职业技术	vi ye ji uu	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+高校专项	gc xn vr xl	100
+胡歌杨紫同框	hu ge yh zi ts kl	100
+罗辑	lo ji	100
+复读班	fu du bj	100
+武科大	wu ke da	100
+南邮	nj yz	100
+复读生	fu du ug	100
+写故事的人	xp gu ui de rf	100
+湖大	hu da	100
+汉语言文学	hj yu yj wf xt	100
+安师大	an ui da	100
+安徽高考	an hv gc kc	100
+海易办	hd yi bj	100
+数字媒体	uu zi mw ti	100
+宿州学院	su vz xt yr	100
+西交大	xi jn da	100
+专升	vr ug	100
+梵希雅弹唱	fj xi ya tj ih	100
+番位新规	fj ww xb gv	100
+独立学院	du li xt yr	100
+娜维娅	na ww ya	100
+延安大学	yj an da xt	100
+法球	fa qq	100
+北工商	bw gs uh	100
+民族班	mb zu bj	100
+艺术分	yi uu ff	100
+超常	ic ih	100
+滑档	hx dh	100
+毛利率	mc li lv	100
+泰和新材	td he xb cd	100
+豆包价格	dz bc jx ge	100
+世一决	ui yi jt	100
+中医学	vs yi xt	100
+北工大	bw gs da	100
+技能高考	ji ng gc kc	100
+模考	mo kc	100
+方宇翔	fh yu xl	100
+山东德州	uj ds de vz	100
+技术学院	ji uu xt yr	100
+宜春学院	yi iy xt yr	100
+湖师大	hu ui da	100
+合办	he bj	100
+广西分数线	gl xi ff uu xm	100
+轻工业	qk gs ye	100
+费霞	fw xx	100
+白鹿回复陆虎	bd lu hv fu lu hu	100
+录取分数	lu qu ff uu	100
+明天周五	mk tm vz wu	100
+物化生	wu hx ug	100
+至纯	vi iy	100
+安徽高考查分	an hv gc kc ia ff	100
+国防科大	go fh ke da	100
+省丹中	ug dj vs	100
+高考人数	gc kc rf uu	100
+四川高考	si ir gc kc	100
+南理工	nj li gs	100
+逆水寒单相思	ni uv hj dj xl si	100
+衡中	hg vs	100
+发配河南蒜苔	fa pw he nj sr td	100
+肥宗	fw zs	100
+报名条	bc mk tn	100
+高考状元	gc kc vl yr	100
+军士	jy ui	100
+语数外	yu uu wd	100
+柯冉	ke rj	100
+水利水电	uv li uv dm	100
+美基	mw ji	100
+职业学院	vi ye xt yr	100
+安农大	an ns da	100
+苏大	su da	100
+晦月魔君	hv yt mo jy	100
+越改越乱	yt gd yt lr	100
+本一线	bf yi xm	100
+今年高考	jb nm gc kc	100
+西北师大	xi bw ui da	100
+黄河水利	hl he uv li	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+创新武器	il xb wu qi	100
+章北海	vh bw hd	100
+文理科	wf li ke	100
+三晋通	sj jb ts	100
+电气自动化	dm qi zi ds hx	100
+雷霆特工队	lw tk te gs dv	100
+高校	gc xn	100
+商界	uh jp	100
+杨紫妆造水平	yh zi vl zc uv pk	100
+数字版	uu zi bj	100
+难绷	nj bg	100
+医学技术	yi xt ji uu	100
+张杰梵希雅	vh jp fj xi ya	100
+理科状元	li ke vl yr	100
+恶灵骑士	ee lk qi ui	100
+重点线	vs dm xm	100
+击破特工	ji po te gs	100
+公费	gs fw	100
+警察学院	jk ia xt yr	100
+浙江高考	ve jl gc kc	100
+新石器	xb ui qi	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+录取率	lu qu lv	100
+工科类	gs ke lw	100
+尼菈	ni la	100
+师范生	ui fj ug	100
+工学院	gs xt yr	100
+纸尿裤风波	vi nn ku fg bo	100
+梵希雅第一	fj xi ya di yi	100
+终极版	vs ji bj	100
+招考院	vc kc yr	100
+省重点	ug vs dm	100
+打咩	da mp	100
+提前批次	ti qm pi ci	100
+消费保	xn fw bc	100
+高分段	gc ff dr	100
+新低	xb di	100
+塔克拉玛干	ta ke la ma gj	100
+特殊类型	te uu lw xk	100
+龙泉山	ls qr uj	100
+癫公颠婆	dm gs dm po	100
+师范类	ui fj lw	100
+文科理科	wf ke li ke	100
+河南蒜苔	he nj sr td	100
+师范	ui fj	100
+美术	mw uu	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+省排名	ug pd mk	100
+高收费	gc uz fw	100
+公办专	gs bj vr	100
+工业	gs ye	100
+连小敏	lm xn mb	100
+韩国队先丢球	hj go dv xm dq qq	100
+豆包收费功能	dz bc uz fw gs ng	100
+平行志愿	pk xk vi yr	100
+朱重八	vu is ba	100
+无界普惠	wu jp pu hv	100
+县中	xm vs	100
+聊城大学	ln ig da xt	100
+蒜苔	sr td	100
+郸城一高	dj ig yi gc	100
+打咩	da mp	100
+理化生	li hx ug	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+出分没	iu ff mw	100
+好专业	hc vr ye	100
+大超预期	da ic yu qi	100
