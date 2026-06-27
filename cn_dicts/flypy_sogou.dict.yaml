@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-06-26
+version: 2026-06-27
 sort: by_weight
 ...
 
@@ -143737,7 +143737,6 @@ sort: by_weight
 飞霄	fw xn	100
 一拜二拜三拜	yi bd er bd sj bd	100
 公募	gs mu	100
-陆校服	dk xn fu	100
 内马尔造黄牌	nw ma er zc hl pd	100
 哈工程	ha gs ig	100
 合作办学	he zo bj xt	100
@@ -144030,3 +144029,321 @@ sort: by_weight
 出分没	iu ff mw	100
 好专业	hc vr ye	100
 大超预期	da ic yu qi	100
+楚怡	iu yi	100
+新图	xb tu	100
+典藏大观	dm ch da gr	100
+稳出线	wf iu xm	100
+首发名单	uz fa mk dj	100
+女皇	nv hl	100
+周龙	vz ls	100
+私酒	si jq	100
+战至巅峰	vj vi dm fg	100
+高考指南	gc kc vi nj	100
+黄中	hl vs	100
+美术类	mw uu lw	100
+调档线	dn dh xm	100
+郭京飞状态	go jk fw vl td	100
+河南科技	he nj ke ji	100
+冰之女皇	bk vi nv hl	100
+白蒲	bd pu	100
+湖南理工	hu nj li gs	100
+厄瓜多尔教练	ee gx do er jn lm	100
+阳光高考网	yh gl gc kc wh	100
+玉苍红	yu ch hs	100
+市一中	ui yi vs	100
+镁光	mw gl	100
+稷下学院	ji xx xt yr	100
+楚水	iu uv	100
+杨洋晚宴人气	yh yh wj yj rf qi	100
+樊振东	fj vg ds	100
+艾琳	ai lb	100
+浮屠界	fu tu jp	100
+佳和里	jx he li	100
+好就业	hc jq ye	100
+东华理工	ds hx li gs	100
+市状元	ui vl yr	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+沈青竹	uf qk vu	100
+佐野	zo ye	100
+掌上高考	vh uh gc kc	100
+民办大专	mb bj da vr	100
+王面	wh mm	100
+张凌赫开毯	vh lk he kd tj	100
+沃雅妮莎	wo ya ni ua	100
+课堂	ke th	100
+前田大然	qm tm da rj	100
+第一阶段	di yi jp dr	100
+禁毒日	jb du ri	100
+牌盒	pd he	100
+单考单招	dj kc dj vc	100
+核辐射	he fu ue	100
+中国电影博物馆	vs go dm yk bo wu gr	100
+招生会	vc ug hv	100
+体脂秤	ti vi ig	100
+恒逸石化	hg yi ui hx	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+惠科	hv ke	100
+安工大	an gs da	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+进池	jb ii	100
+调专业	tn vr ye	100
+升达	ug da	100
+凌虚子	lk xu zi	100
+亚洲市场暴跌	ya vz ui ih bc dp	100
+知了	vi ln	100
+果宝特工	go bc te gs	100
+应用程序	yk ys ig xu	100
+佩佩梅开二度	pw pw mw kd er du	100
+物资点	wu zi dm	100
+小泡芙	xn pc fu	100
+能报啥	ng bc ua	100
+圭臬	gv np	100
+孙颖莎	sy yb ua	100
+三降	sj jl	100
+接崽	jp zd	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+代数学家	dd uu xt jx	100
+我嘞个	wo le ge	100
+金发帅哥	jb fa uk ge	100
+原始分	yr ui ff	100
+专业好	vr ye hc	100
+选大学	xr da xt	100
+邯郸市教育局	hj dj ui jn yu ju	100
+特控率	te ks lv	100
+念象科技	nm xl ke ji	100
+微电子	ww dm zi	100
+过本科线了	go bf ke xm le	100
+正常水平	vg ih uv pk	100
+屏东中学	pk ds vs xt	100
+服从调剂	fu cs tn ji	100
+等位分	dg ww ff	100
+政史地	vg ui di	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+想上的	xl uh de	100
+修斯	xq si	100
+星鸣特工	xk mk te gs	100
+医科	yi ke	100
+太过完美	td go wj mw	100
+高考满分	gc kc mj ff	100
+梵希雅机位	fj xi ya ji ww	100
+置身米内	vi uf mi nw	100
+陇东	ls ds	100
+幽邃地窟	yz sv di ku	100
+中国煤矿文工团	vs go mw kl wf gs tr	100
+湖南新化县	hu nj xb hx xm	100
+星炬	xk ju	100
+吗喽	ma lz	100
+光追	gl vv	100
+定向军士	dk xl jy ui	100
+成都大学	ig du da xt	100
+停牌	tk pd	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+广东广雅中学	gl ds gl ya vs xt	100
+原神至冬	yr uf vi ds	100
+吗喽	ma lz	100
+首师	uz ui	100
+雷曼	lw mj	100
+初级	iu ji	100
+徐汇刑警	xu hv xk jk	100
+绿瓷美人	lv ci mw rf	100
+会员服	hv yr fu	100
+文史类	wf ui lw	100
+清华北大	qk hx bw da	100
+卡膜	ka mo	100
+尊界典藏	zy jp dm ch	100
+光魇	gl yj	100
+肖战背发言稿	xn vj bw fa yj gc	100
+隔夜蒜苔	ge ye sr td	100
+白玉兰座位	bd yu lj zo ww	100
+长理	ih li	100
+牢帕	lc pa	100
+会计	kk ji	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+北信科	bw xb ke	100
+苹果涨价	pk go vh jx	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+尚美巴黎	uh mw ba li	100
+阳叔	yh uu	100
+代言口碑	dd yj kz bw	100
+纯理科	iy li ke	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+夏促	xx cu	100
+汇流为兵	hv lq ww bk	100
+小黄人与大怪兽	xn hl rf yu da gk uz	100
+理科类	li ke lw	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+诺伊	no yi	100
+夺宝券	do bc qr	100
+炎拳天使	yj qr tm ui	100
+黔东南州检察院	qm ds nj vz jm ia yr	100
+韩山	hj uj	100
+北华	bw hx	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+治虫	vi is	100
+照顾分	vc gu ff	100
+赵德发	vc de fa	100
+阿米诺斯	aa mi no si	100
+新英格兰革命	xb yk ge lj ge mk	100
+马尼菈	ma ni la	100
+高新区	gc xb qu	100
+玛拉妮	ma la ni	100
+承影剑	ig yk jm	100
+以撒的结合	yi sa de jp he	100
+黑吗喽	hw ma lz	100
+苹果宣布涨价	pk go xr bu vh jx	100
+综合类	zs he lw	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+江西理工	jl xi li gs	100
+一本率	yi bf lv	100
+缉盗	ji dc	100
+西北政法	xi bw vg fa	100
+省靖中	ug jk vs	100
+梵希雅真的强	fj xi ya vf de ql	100
+登陆少年	dg lu uc nm	100
+泡菜国	pc cd go	100
+雨世界	yu ui jp	100
+昆工	ky gs	100
+赵照	vc vc	100
+农学院	ns xt yr	100
+卡缪	ka mq	100
+蒜苔	sr td	100
+报报	bc bc	100
+反应堆	fj yk dv	100
+查尔	ia er	100
+批次线	pi ci xm	100
+超长预售	ic ih yu uz	100
+农业大学	ns ye da xt	100
+南绷	nj bh	100
+长安女子鉴	ih an nv zi jm	100
+中船	vs ir	100
+群侠	qy xx	100
+幻影特工	hr yk te gs	100
+谁敢问	uv gj wf	100
+通信设备	ts xb ue bw	100
+登陆日	dg lu ri	100
+安赛龙	an sd ls	100
+杨亚东	yh ya ds	100
+青衿	qk jb	100
+棍式	gy ui	100
+山理工	uj li gs	100
+雷犁热刀	lw li re dc	100
+染色	rj se	100
+云璃	yy li	100
+数学满分	uu xt mj ff	100
+执政	vi vg	100
+黑吗喽	hw ma lz	100
+王橹杰眉眼	wh lu jp mw yj	100
+成都理工	ig du li gs	100
+西华师范	xi hx ui fj	100
+政法大学	vg fa da xt	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+科技大	ke ji da	100
+给他爱	gw ta ai	100
+安理工	an li gs	100
+石油化工	ui yz hx gs	100
+女皇大人	nv hl da rf	100
+云师大	yy ui da	100
+一本	yi bf	100
+贯通	gr ts	100
+吴珈庆	wu jx qk	100
+安财	an cd	100
+首经贸	uz jk mc	100
+国际禁毒日	go ji jb du ri	100
+梵希雅弹唱	fj xi ya tj ih	100
+娜维娅	na ww ya	100
+密评	mi pk	100
+广西高考	gl xi gc kc	100
+预科班	yu ke bj	100
+挽歌	wj ge	100
+千香定档节奏	qm xl dk dh jp zz	100
+海军航空大学	hd jy hh ks da xt	100
+世一决	ui yi jt	100
+拼好片	pb hc pm	100
+自主命题	zi vu mk ti	100
+医科大学	yi ke da xt	100
+川内	ir nw	100
+川农	ir ns	100
+泰中	td vs	100
+铖昌	ig ih	100
+定榜	dk bh	100
+小三门	xn sj mf	100
+发配河南蒜苔	fa pw he nj sr td	100
+衡二	hg er	100
+羊山新区	yh uj xb qu	100
+肥宗	fw zs	100
+柯冉	ke rj	100
+惠科股份	hv ke gu ff	100
+中外合资	vs wd he zi	100
+晦月魔君	hv yt mo jy	100
+川外	ir wd	100
+川大	ir da	100
+欢愉之死	hr yu vi si	100
+韩媒集体慌了	hj mw ji ti hl le	100
+贺永辉	he ys hv	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+复核	fu he	100
+复读学校	fu du xt xn	100
+雷霆特工队	lw tk te gs dv	100
+服装表演	fu vl bn yj	100
+电影功夫女足	dm yk gs fu nv zu	100
+滁州学院	iu vz xt yr	100
+难绷	nj bg	100
+师范大学	ui fj da xt	100
+士官学校	ui gr xt xn	100
+张杰梵希雅	vh jp fj xi ya	100
+黑色星期五	hw se xk qi wu	100
+击破特工	ji po te gs	100
+卡齐娜	ka qi na	100
+潍坊学院	ww fh xt yr	100
+香缇莫	xl ti mo	100
+国防科技	go fh ke ji	100
+日本将战巴西	ri bf jl vj ba xi	100
+尼菈	ni la	100
+刷卡点	ux ka dm	100
+菏泽学院	he ze xt yr	100
+不成功穿越指南	bu ig gs ir yt vi nj	100
+赴美上市	fu mw uh ui	100
+梵希雅第一	fj xi ya di yi	100
+马老师	ma lc ui	100
+太原理工	td yr li gs	100
+专科学校	vr ke xt xn	100
+打咩	da mp	100
+考试局	kc ui ju	100
+西南石油	xi nj ui yz	100
+邵阳学院	uc yh xt yr	100
+暴击流	bc ji lq	100
+万事通	wj ui ts	100
+彩虹币	cd hs bi	100
+癫公颠婆	dm gs dm po	100
+河南蒜苔	he nj sr td	100
+山艺	uj yi	100
+烟台大学	yj td da xt	100
+陆先生	lu xm ug	100
+潘展乐双记录	pj vj le ul ji lu	100
+艺体生	yi ti ug	100
+光追	gl vv	100
+农村专项	ns cy vr xl	100
+弗朗西斯	fu lh xi si	100
+张凌赫蛇戒	vh lk he ue jp	100
+朱重八	vu is ba	100
+愿望单	yr wh dj	100
+苗金凤去世	mn jb fg qu ui	100
+华五	hx wu	100
+苹果回应涨价	pk go hv yk vh jx	100
+蒜苔	sr td	100
+打咩	da mp	100
+娱乐化	yu le hx	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+双科	ul ke	100
