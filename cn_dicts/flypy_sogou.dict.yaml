@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-07-02
+version: 2026-07-03
 sort: by_weight
 ...
 
@@ -145305,7 +145305,6 @@ sort: by_weight
 牢弟	lc di	100
 西格玛男人	ma ge xi nj rf	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 癫公	dm gs	100
 凌虚子怎么打	lk xu zi zf me da	100
 战马万里行	vj ma wj li xk	100
@@ -145415,6 +145414,238 @@ sort: by_weight
 黄多多纯素颜	hl do do iy su yj	100
 努萨兜射破门	nu sa dz ue po mf	100
 蒜苔	sr td	100
+打咩	da mp	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+八重奏	ba is zz	100
+跨国	kx go	100
+战至巅峰	vj vi dm fg	100
+美国红牌	mw go hs pd	100
+诺维斯基	no ww si ji	100
+箴言	vf yj	100
+泰山景区道歉	td uj jk qu dc qm	100
+见习生	jm xi ug	100
+樊振东	fj vg ds	100
+浮屠界	fu tu jp	100
+桑多捏	sh do np	100
+浙鳌	ve ao	100
+政史	vg ui	100
+绿源	lv yr	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+不负时代	bu fu ui dd	100
+舞力全开	wu li qr kd	100
+欧洲内分泌学大会	ou vz nw ff mi xt da hv	100
+获得者	ho de ve	100
+王俊凯露腰了	wh jy kd lu yc le	100
+戚墅堰	qi uu yj	100
+钟掘	vs jt	100
+今天开始做明星	jb tm kd ui zo mk xk	100
+偿还	ih hr	100
+小寨	xn vd	100
+预增	yu zg	100
+化形草	hx xk cc	100
+胜胜	ug ug	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+悬案	xr an	100
+敖隐	ao yb	100
+埃斯	ai si	100
+雪迷宫	xt mi gs	100
+凌虚子	lk xu zi	100
+帕乔	pa qn	100
+存储一哥暴跌	cy iu yi ge bc dp	100
+勋章	xy vh	100
+果宝特工	go bc te gs	100
+三狮军团	sj ui jy tr	100
+李金铭现身	li jb mk xm uf	100
+西安赛格电脑商城	xi an sd ge dm nc uh ig	100
+史蒂文斯	ui di wf si	100
+被罚下	bw fa xx	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+购物券	gz wu qr	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+我嘞个	wo le ge	100
+非洲队	fw vz dv	100
+杀死比尔	ua si bi er	100
+结息	jp xi	100
+金宏气体	jb hs qi ti	100
+玉溪市	yu xi ui	100
+徐氏	xu ui	100
+数创	uu il	100
+收看	uz kj	100
+公积金	gs ji jb	100
+神勇	uf ys	100
+菲总统府	fw zs ts fu	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+党旗	dh qi	100
+给凯恩磕一个	gw kd en ke yi ge	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+必进球	bi jb qq	100
+巴拉贡	ba la gs	100
+连高	lm gc	100
+鲜叶	xm ye	100
+凯尔特	kd er te	100
+幽邃地窟	yz sv di ku	100
+詹姆斯抢手	vj mu si ql uz	100
+吗喽	ma lz	100
+光追	gl vv	100
+零度玫瑰	lk du mw gv	100
+射术	ue uu	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+主场优势	vu ih yz ui	100
+吗喽	ma lz	100
+内讧	nw hs	100
+香港回归	xl gh hv gv	100
+光驱	gl qu	100
+卡膜	ka mo	100
+上海嘉定	uh hd jx dk	100
+隔夜蒜苔	ge ye sr td	100
+独播	du bo	100
+牢帕	lc pa	100
+法国胜	fa go ug	100
+牢弟	lc di	100
+乌布雷	wu bu lw	100
+地天板	di tm bj	100
+西格玛男人	ma ge xi nj rf	100
+恶念	ee nm	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+野狗骨头定档	ye gz gu tz dk dh	100
+塞克斯顿	sd ke si dy	100
+我爱我香港	wo ai wo xl gh	100
+张泽群	vh ze qy	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+夺宝券	do bc qr	100
+故土	gu tu	100
+重要讲话	vs yc jl hx	100
+数据组	uu ju zu	100
+范德贝伦	fj de bw ly	100
+周年	vz nm	100
+停航	tk hh	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+迷核手势舞	mi he uz ui wu	100
+凯恩头球扳平	kd en tz qq bj pk	100
+黄金珠宝	hl jb vu bc	100
+阿米诺斯	aa mi no si	100
+马尼菈	ma ni la	100
+原神千灵节剧情	yr uf qm lk jp ju qk	100
+大孤山	da gu uj	100
+玛拉妮	ma la ni	100
+黑吗喽	hw ma lz	100
+中站	vs vj	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+黄一山	hl yi uj	100
+异环真红	yi hr vf hs	100
+先导基电	xm dc ji dm	100
+缉盗	ji dc	100
+梵希雅真的强	fj xi ya vf de ql	100
+济北	ji bw	100
+唐代宝相花纹	th dd bc xl hx wf	100
+李连成	li lm ig	100
+卢卡库破门	lu ka ku po mf	100
+登陆少年	dg lu uc nm	100
+张路	vh lu	100
+画梦录	hx mg lu	100
+蒜苔	sr td	100
+非洲球队	fw vz qq dv	100
+姐妹	jp mw	100
+黄冈市	hl gh ui	100
+入党誓词	ru dh ui ci	100
+卖票	md pn	100
+南绷	nj bh	100
+严鹏	yj pg	100
+群体	qy ti	100
+努萨	nu sa	100
+幻影特工	hr yk te gs	100
+登陆日	dg lu ri	100
+安赛龙	an sd ls	100
+棍式	gy ui	100
+建军节	jm jy jp	100
+雷犁热刀	lw li re dc	100
+水羊	uv yh	100
+宋妍霏本名	ss yj fw bf mk	100
+江西省税务局	jl xi ug uv wu ju	100
+南宁舰	nj nk jm	100
+苹果信息泄露	pk go xb xi xp lz	100
+快讯	kk xy	100
+云璃	yy li	100
+西安赛格	xi an sd ge	100
+英格	yk ge	100
+黑吗喽	hw ma lz	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+深市	uf ui	100
+护框	hu kl	100
+化形丹	hx xk dj	100
+梵希雅弹唱	fj xi ya tj ih	100
+娜维娅	na ww ya	100
+英格兰落后	yk ge lj lo hz	100
+滨化股份	bb hx gu ff	100
+世一决	ui yi jt	100
+自由市场	zi yz ui ih	100
+党龄	dh lk	100
+万比萨卡	wj bi sa ka	100
+寻找认同	xy vc rf ts	100
+分配生	ff pw ug	100
+小米辟谣	xn mi pi yc	100
+赖斯燃尽了	ld si rj jb le	100
+兔八哥	tu ba ge	100
+赵贵	vc gv	100
+华东区域	hx ds qu yu	100
+栉风沐雨	vi fg mu yu	100
+发配河南蒜苔	fa pw he nj sr td	100
+纳贤	na xm	100
+肥宗	fw zs	100
+于正已经报警	yu vg yi jk bc jk	100
+柯冉	ke rj	100
+刚果金进球	gh go jb jb qq	100
+球场外的赢面	qq ih wd de yk mm	100
+晦月魔君	hv yt mo jy	100
+老党员	lc dh yr	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+削球	xn qq	100
+雷霆特工队	lw tk te gs dv	100
+大英帝星	da yk di xk	100
+范欣	fj xb	100
+凯皇	kd hl	100
+美国晋级	mw go jb ji	100
+难绷	nj bg	100
+张杰梵希雅	vh jp fj xi ya	100
+投票权	tz pn qr	100
+铁丝网	tp si wh	100
+击破特工	ji po te gs	100
+首尔警察厅	uz er jk ia tk	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+尼菈	ni la	100
+梵希雅第一	fj xi ya di yi	100
+图司令	tu si lk	100
+打咩	da mp	100
+尼美舒利	ni mw uu li	100
+珠江船务	vu jl ir wu	100
+大冬瓜	da ds gx	100
+癫公颠婆	dm gs dm po	100
+河南蒜苔	he nj sr td	100
+潘展乐双记录	pj vj le ul ji lu	100
+不是点球	bu ui dm qq	100
+光追	gl vv	100
+黑色星期四	hw se xk qi si	100
+风水局	fg uv ju	100
+朱重八	vu is ba	100
+英格兰醒醒	yk ge lj xk xk	100
+星扩散	xk ko sj	100
+蒜苔	sr td	100
+莺歌	yk ge	100
 打咩	da mp	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
