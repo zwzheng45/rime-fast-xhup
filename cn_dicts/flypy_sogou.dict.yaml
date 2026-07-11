@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-07-10
+version: 2026-07-11
 sort: by_weight
 ...
 
@@ -147502,7 +147502,6 @@ sort: by_weight
 沙巴	ua ba	100
 偏心	pm xb	100
 新北区	xb bw qu	100
-陆校服	dk xn fu	100
 柴油机	id yz ji	100
 营救	yk jq	100
 固镇	gu vf	100
@@ -148096,3 +148095,247 @@ sort: by_weight
 梵希雅第四	fj xi ya di si	100
 孙勇	sy ys	100
 左左	zo zo	100
+荷花节	he hx jp	100
+三秋	sj qq	100
+速发贝	su fa bw	100
+聋哑	ls ya	100
+伪童书	ww ts uu	100
+秒板	mn bj	100
+自由可投	zi yz ke tz	100
+战至巅峰	vj vi dm fg	100
+目送	mu ss	100
+北高	bw gc	100
+北魏	bw ww	100
+氮泵	dj bg	100
+星命	xk mk	100
+樊振东	fj vg ds	100
+大统领	da ts lk	100
+浮屠界	fu tu jp	100
+台风来之前	td fg ld vi qm	100
+贵州省汤火了	gv vz ug th ho le	100
+丹妮	dj ni	100
+应对台风巴威	yk dv td fg ba ww	100
+芙劳	fu lc	100
+电电	dm dm	100
+环湖赛	hr hu sd	100
+张福正	vh fu vg	100
+初音未来	iu yb ww ld	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+我的爱人	wo de ai rf	100
+刀片式	dc pm ui	100
+许华升	xu hx ug	100
+秦涛	qb tc	100
+印度神王	yb du uf wh	100
+新档	xb dh	100
+翻屋企	fj wu qi	100
+微博文化交流之夜	ww bo wf hx jn lq vi ye	100
+回收成功	hv uz ig gs	100
+想得美	xl de mw	100
+迟野	ii ye	100
+中国移动研究院	vs go yi ds yj jq yr	100
+灵可	lk ke	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+火娃	ho wa	100
+救下	jq xx	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+加布里	jx bu li	100
+凌虚子	lk xu zi	100
+高金	gc jb	100
+果宝特工	go bc te gs	100
+狮子队	ui zi dv	100
+侧柏叶	ce bd ye	100
+溃堤	kv di	100
+敦化	dy hx	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+体操服	ti cc fu	100
+心流	xb lq	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+故纸堆	gu vi dv	100
+我嘞个	wo le ge	100
+耀世	yc ui	100
+铅字幻梦	qm zi hr mg	100
+台风巴威位置	td fg ba ww ww vi	100
+停车楼	tk ie lz	100
+守住	uz vu	100
+奥比	ao bi	100
+航空自卫队	hh ks zi ww dv	100
+空间自定义	ks jm zi dk yi	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+架招	jx vc	100
+首响	uz xl	100
+思瑶	si yc	100
+内阁总理	nw ge zs li	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+茗香	mk xl	100
+巴威台风	ba ww td fg	100
+孙怡素颜肤色	sy yi su yj fu se	100
+汾阳文旅	ff yh wf lv	100
+限定红	xm dk hs	100
+辞章	ci vh	100
+幽邃地窟	yz sv di ku	100
+新绛	xb jl	100
+吗喽	ma lz	100
+光追	gl vv	100
+飞凡	fw fj	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+阿德耶米	aa de ye mi	100
+会员日	hv yr ri	100
+吗喽	ma lz	100
+内娱高考成绩	nw yu gc kc ig ji	100
+丹神	dj uf	100
+卡膜	ka mo	100
+隔夜蒜苔	ge ye sr td	100
+牢帕	lc pa	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+九丰	jq fg	100
+玄方	xr fh	100
+黑门	hw mf	100
+咚咚羊	ds ds yh	100
+局数	ju uu	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+辉腾	hv tg	100
+六毛网吧	lq mc wh ba	100
+可回收	ke hv uz	100
+救援航母	jq yr hh mu	100
+多圈	do qr	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+夺宝券	do bc qr	100
+托伦斯	to ly si	100
+飞行器	fw xk qi	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+破亿	po yi	100
+阿米诺斯	aa mi no si	100
+马尼菈	ma ni la	100
+索菲体育场	so fw ti yu ih	100
+玛拉妮	ma la ni	100
+霞洛	xx lo	100
+黑吗喽	hw ma lz	100
+李源	li yr	100
+法国摩洛哥	fa go mo lo ge	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+马龙许昕	ma ls xu xb	100
+宇智波佐助	yu vi bo zo vu	100
+缉盗	ji dc	100
+决斗场	jt dz ih	100
+铖昌科技	ig ih ke ji	100
+桃米洗菜	tc mi xi cd	100
+鱼块	yu kk	100
+梵希雅真的强	fj xi ya vf de ql	100
+登陆少年	dg lu uc nm	100
+长征十号乙	ih vg ui hc yi	100
+蒜苔	sr td	100
+青玉案	qk yu wj	100
+电子手刹	dm zi uz ua	100
+二南开	er nj kd	100
+佐助	zo vu	100
+南绷	nj bh	100
+吴平	wu pk	100
+补打	bu da	100
+清园	qk yr	100
+谬因	mq yb	100
+马皮	ma pi	100
+幻影特工	hr yk te gs	100
+登陆日	dg lu ri	100
+安赛龙	an sd ls	100
+安能	an ng	100
+棍式	gy ui	100
+薇欧拉	ww ou la	100
+雷犁热刀	lw li re dc	100
+购物节	gz wu jp	100
+云璃	yy li	100
+黑吗喽	hw ma lz	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+返利	fj li	100
+多片	do pm	100
+努诺门德斯	nu no mf de si	100
+科技事业	ke ji ui ye	100
+梵希雅弹唱	fj xi ya tj ih	100
+钨钢	wu gh	100
+反指	fj vi	100
+长十乙	ih ui yi	100
+减弱	jm ro	100
+示范性	ui fj xk	100
+娜维娅	na ww ya	100
+共渡难关	gs du nj gr	100
+华微电子	hx ww dm zi	100
+汾阳市	ff yh ui	100
+最锋利	zv fg li	100
+杨幂赢面很大	yh mi yk mm hf da	100
+芬达	ff da	100
+世一决	ui yi jt	100
+李建波	li jm bo	100
+蚌家镇怪谈	bh jx vf gk tj	100
+谋反	mz fj	100
+秧秧玄翎	yh yh xr lk	100
+百世集团	bd ui ji tr	100
+发配河南蒜苔	fa pw he nj sr td	100
+肥宗	fw zs	100
+警告函	jk gc hj	100
+柯冉	ke rj	100
+风之所在	fg vi so zd	100
+晦月魔君	hv yt mo jy	100
+台风期间	td fg qi jm	100
+贵州省政协	gv vz ug vg xp	100
+初航乐章	iu hh yt vh	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+种太阳	vs td yh	100
+帕露	pa lu	100
+落花生	lo hx ug	100
+雷霆特工队	lw tk te gs dv	100
+匹诺曹的谎言	pi no cc de hl yj	100
+彩蛋房	cd dj fh	100
+衣橱	yi iu	100
+四史	si ui	100
+难绷	nj bg	100
+泸州市中级人民法院	lu vz ui vs ji rf mb fa yr	100
+长鑫科技申购	ih xb ke ji uf gz	100
+观前街	gr qm jp	100
+张杰梵希雅	vh jp fj xi ya	100
+香港奇案	xl gh qi an	100
+击破特工	ji po te gs	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+尼菈	ni la	100
+梵希雅第一	fj xi ya di yi	100
+歌唱祖国	ge ih zu go	100
+打咩	da mp	100
+我命怜绝不贱	wo mk lm jt bu jm	100
+金角	jb jn	100
+蔡战胜	cd vj ug	100
+癫公颠婆	dm gs dm po	100
+建平	jm pk	100
+河南蒜苔	he nj sr td	100
+李贤在	li xm zd	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+百花	bd hx	100
+电房	dm fh	100
+乡村协理员	xl cy xp li yr	100
+朱重八	vu is ba	100
+杜江发声	du jl fa ug	100
+深州市	uf vz ui	100
+网系回收	wh xi hv uz	100
+缪缪	mq mq	100
+大同市	da ts ui	100
+蒜苔	sr td	100
+打咩	da mp	100
+员外	yr wd	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+杜威	du ww	100
+技术中立	ji uu vs li	100
