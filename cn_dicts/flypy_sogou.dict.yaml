@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-07-31
+version: 2026-08-01
 sort: by_weight
 ...
 
@@ -152116,7 +152116,6 @@ sort: by_weight
 电影奥德赛	dm yk ao de sd	100
 西格玛男人	ma ge xi nj rf	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 图传	tu ir	100
 癫公	dm gs	100
 凌虚子怎么打	lk xu zi zf me da	100
@@ -152214,5 +152213,206 @@ sort: by_weight
 米提亚	mi ti ya	100
 蒜苔	sr td	100
 打咩	da mp	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+冬旅人	ds lv rf	100
+张铭恩	vh mk en	100
+特高课	te gc ke	100
+战至巅峰	vj vi dm fg	100
+敖鲁古雅	ao lu gu ya	100
+小春兰	xn iy lj	100
+张杰清唱	vh jp qk ih	100
+冥火	mk ho	100
+樊振东	fj vg ds	100
+炸板了	va bj le	100
+豪鬼	hc gv	100
+风雨飘摇转场	fg yu pn yc vr ih	100
+浮屠界	fu tu jp	100
+张大佛爷	vh da fo ye	100
+关晓彤粉发	gr xn ts ff fa	100
+九门爆开	jq mf bc kd	100
+一链	yi lm	100
+哑女	ya nv	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+长嘉汇	ih jx hv	100
+复联四	fu lm si	100
+龚宝冬	gs bc ds	100
+超跌	ic dp	100
+增程车	zg ig ie	100
+套牢盘	tc lc pj	100
+九门首播口碑	jq mf uz bo kz bw	100
+延边医院	yj bm yi yr	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+人工智能法	rf gs vi ng fa	100
+伊贝儿	yi bw er	100
+三大起义	sj da qi yi	100
+魔能爆	mo ng bc	100
+凌虚子	lk xu zi	100
+琴葛蕾	qb ge lw	100
+显卡全面封仓	xm ka qr mm fg ch	100
+杜凯文	du kd wf	100
+果宝特工	go bc te gs	100
+暗突袭	an tu xi	100
+小心震荡	xn xb vf dh	100
+陈得信	if de xb	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+解斑	jp bj	100
+朱妍	vu yj	100
+积分夺宝券	ji ff do bc qr	100
+晋江喊话番茄	jb jl hj hx fj qp	100
+我嘞个	wo le ge	100
+伊贝尔	yi bw er	100
+大阳线	da yh xm	100
+徐洁儿抢票	xu jp er ql pn	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+升顶	ug dk	100
+展示台	vj ui td	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+兰登	lj dg	100
+浦式	pu ui	100
+黑化加尔	hw hx jx er	100
+幽邃地窟	yz sv di ku	100
+张日山	vh ri uj	100
+吗喽	ma lz	100
+光追	gl vv	100
+雾影猎人	wu yk lp rf	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+同伤	ts uh	100
+吗喽	ma lz	100
+大兴沟	da xk gz	100
+罗文	lo wf	100
+李一恩	li yi en	100
+婚外胚胎案	hy wd pw td an	100
+路北区	lu bw qu	100
+卡膜	ka mo	100
+九门直播	jq mf vi bo	100
+隔夜蒜苔	ge ye sr td	100
+黄江医院	hl jl yi yr	100
+牢帕	lc pa	100
+黑加尔	hw jx er	100
+抛压	pc ya	100
+河北省委书记	he bw ug ww uu ji	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+油离配合	yz li pw he	100
+泥吼牙	ni hz ya	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+期许	qi xu	100
+晋江鞋厂	jb jl xp ih	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+八一	ba yi	100
+蓝灯	lj dg	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+兰州博文科技学院	lj vz bo wf ke ji xt yr	100
+夺宝券	do bc qr	100
+拉希德	la xi de	100
+迪丽热巴裙子	di li re ba qy zi	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+日元全线飙升	ri yr qr xm bn ug	100
+传智	ir vi	100
+秦一隅	qb yi yu	100
+阿米诺斯	aa mi no si	100
+马尼菈	ma ni la	100
+玛拉妮	ma la ni	100
+黑吗喽	hw ma lz	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+张副官	vh fu gr	100
+车顶帐篷	ie dk vh pg	100
+缉盗	ji dc	100
+梵希雅真的强	fj xi ya vf de ql	100
+登陆少年	dg lu uc nm	100
+蒜苔	sr td	100
+谜题关卡	mi ti gr qx	100
+小订	xn dk	100
+三寸钉	sj cy dk	100
+林知夏	lb vi xx	100
+南绷	nj bh	100
+幻影特工	hr yk te gs	100
+自由子	zi yz zi	100
+巴雷西	ba lw xi	100
+登陆日	dg lu ri	100
+安赛龙	an sd ls	100
+陕鼓	uj gu	100
+棍式	gy ui	100
+雷犁热刀	lw li re dc	100
+大五座	da wu zo	100
+云璃	yy li	100
+黑吗喽	hw ma lz	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+暴涨	bc vh	100
+御木本高珠展	yu mu bf gc vu vj	100
+连云港火灾	lm yy gh ho zd	100
+连击	lm ji	100
+梵希雅弹唱	fj xi ya tj ih	100
+轮切	ly qp	100
+暑期辟谣指南	uu qi pi yc vi nj	100
+暴涨暴跌	bc vh bc dp	100
+娜维娅	na ww ya	100
+谢欣	xp xb	100
+胡一天	hu yi tm	100
+世一决	ui yi jt	100
+刘亦菲说粤语	lq yi fw uo yt yu	100
+冠军结算画面	gr jy jp sr hx mm	100
+露西亚	lu xi ya	100
+发配河南蒜苔	fa pw he nj sr td	100
+肥宗	fw zs	100
+嘴遁	zv dy	100
+柯冉	ke rj	100
+晦月魔君	hv yt mo jy	100
+韩股暴涨熔断	hj gu bc vh rs dr	100
+战斗之夜	vj dz vi ye	100
+闪燃	uj rj	100
+冲高回落	is gc hv lo	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+川少	ir uc	100
+拽哥	vk ge	100
+雷霆特工队	lw tk te gs dv	100
+大七座	da qi zo	100
+二月红	er yt hs	100
+难绷	nj bg	100
+手瓦墨武曝光	uz wa mo wu bc gl	100
+罗正翻红	lo vg fj hs	100
+张杰梵希雅	vh jp fj xi ya	100
+击破特工	ji po te gs	100
+彭程	pg ig	100
+卡齐娜	ka qi na	100
+迪神	di uf	100
+涨停板	vh tk bj	100
+香缇莫	xl ti mo	100
+尼菈	ni la	100
+梵希雅第一	fj xi ya di yi	100
+玉祥门	yu xl mf	100
+宋威龙单手抱	ss ww ls dj uz bc	100
+一字板	yi zi bj	100
+草系徽章	cc xi hv vh	100
+打咩	da mp	100
+伊贝	yi bw	100
+软盘	rr pj	100
+癫公颠婆	dm gs dm po	100
+河南蒜苔	he nj sr td	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+武神凌	wu uf lk	100
+洛北河	lo bw he	100
+蔡徐坤伴手礼	cd xu ky bj uz li	100
+朱重八	vu is ba	100
+汉谟拉比	hj mo la bi	100
+披荆斩棘阵容	pi jk vj ji vf rs	100
+蒜苔	sr td	100
+打咩	da mp	100
+波浪谷	bo lh gu	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
