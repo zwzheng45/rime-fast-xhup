@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-08-01
+version: 2026-08-02
 sort: by_weight
 ...
 
@@ -152303,7 +152303,6 @@ sort: by_weight
 油离配合	yz li pw he	100
 泥吼牙	ni hz ya	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 期许	qi xu	100
 晋江鞋厂	jb jl xp ih	100
 癫公	dm gs	100
@@ -152414,5 +152413,177 @@ sort: by_weight
 蒜苔	sr td	100
 打咩	da mp	100
 波浪谷	bo lh gu	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+谷雨街后巷	gu yu jp hz xl	100
+八一广场	ba yi gl ih	100
+坏了他真会啊	hk le ta vf hv aa	100
+三角洲自制动画	sj jn vz zi vi ds hx	100
+战至巅峰	vj vi dm fg	100
+陈文清	if wf qk	100
+彩虹海	cd hs hd	100
+肖战神的羔羊	xn vj uf de gc yh	100
+樊振东	fj vg ds	100
+时代峰峻妹	ui dd fg jy mw	100
+浮屠界	fu tu jp	100
+九门首日热度	jq mf uz ri re du	100
+砺行修远	li xk xq yr	100
+逐玉作者道歉	vu yu zo ve dc qm	100
+人民解放军	rf mb jp fh jy	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+罗正口碑	lo vg kz bw	100
+跨月	kx yt	100
+孙楠	sy nj	100
+星反应	xk fj yk	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+毒系	du xi	100
+梁圣	ll ug	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+凌虚子	lk xu zi	100
+八一建军节	ba yi jm jy jp	100
+老叟戏顽童	lc sz xi wj ts	100
+中国军人	vs go jy rf	100
+中国女兵	vs go nv bk	100
+果宝特工	go bc te gs	100
+老兵	lc bk	100
+棱光	lg gl	100
+无冕	wu mm	100
+凯瑞亚	kd rv ya	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+解斑	jp bj	100
+积分夺宝券	ji ff do bc qr	100
+我嘞个	wo le ge	100
+凝光	nk gl	100
+灾兽	zd uz	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+九门破万红包	jq mf po wj hs bc	100
+星鸣特工	xk mk te gs	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+幽邃地窟	yz sv di ku	100
+辛保安	xb bc an	100
+吗喽	ma lz	100
+玄帝	xr di	100
+光追	gl vv	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+吗喽	ma lz	100
+军魂	jy hy	100
+卡膜	ka mo	100
+隔夜蒜苔	ge ye sr td	100
+至东	vi ds	100
+怜爱	lm ai	100
+人民军队	rf mb jy dv	100
+牢帕	lc pa	100
+李淑元	li uu yr	100
+牢弟	lc di	100
+南昌起义	nj ih qi yi	100
+西格玛男人	ma ge xi nj rf	100
+浪漫的绝对值	lh mj de jt dv vi	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+妮达	ni da	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+白鹿广东凉鞋	bd lu gl ds ll xp	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+夺宝券	do bc qr	100
+雪国	xt go	100
+夕阳	xi yh	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+同志	ts vi	100
+阿米诺斯	aa mi no si	100
+刘北	lq bw	100
+马尼菈	ma ni la	100
+克拉蕾	ke la lw	100
+玛拉妮	ma la ni	100
+黑吗喽	hw ma lz	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+系别	xi bp	100
+缉盗	ji dc	100
+正太扭腰挑战	vg td nq yc tn vj	100
+梵希雅真的强	fj xi ya vf de ql	100
+登陆少年	dg lu uc nm	100
+蒜苔	sr td	100
+珊比	uj bi	100
+战斗曲	vj dz qu	100
+死执	si vi	100
+我想留在你身边	wo xl lq zd ni uf bm	100
+南绷	nj bh	100
+一等功	yi dg gs	100
+我的菌子之交	wo de jy zi vi jn	100
+幻影特工	hr yk te gs	100
+熬鹰杯	ao yk bw	100
+上海宝山警方	uh hd bc uj jk fh	100
+登陆日	dg lu ri	100
+派蒙	pd mg	100
+安赛龙	an sd ls	100
+星游记	xk yz ji	100
+棍式	gy ui	100
+戎装	rs vl	100
+雷犁热刀	lw li re dc	100
+克拉雷	ke la lw	100
+云璃	yy li	100
+黑吗喽	hw ma lz	100
+驻澳门部队	vu ao mf bu dv	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+一针一线	yi vf yi xm	100
+军人	jy rf	100
+露米	lu mi	100
+梵希雅弹唱	fj xi ya tj ih	100
+娜维娅	na ww ya	100
+冰厂	bk ih	100
+共此深蓝	gs ci uf lj	100
+世一决	ui yi jt	100
+卫南海	ww nj hd	100
+炸知了	va vi ln	100
+九门口碑爆了	jq mf kz bw bc le	100
+杀死比尔撤档	ua si bi er ie dh	100
+发配河南蒜苔	fa pw he nj sr td	100
+肥宗	fw zs	100
+时代峰峻星探	ui dd fg jy xk tj	100
+柯冉	ke rj	100
+肥鸭	fw ya	100
+晦月魔君	hv yt mo jy	100
+墨武	mo wu	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+美羊羊	mw yh yh	100
+雷霆特工队	lw tk te gs dv	100
+逾梦深情	yu mg uf qk	100
+建军	jm jy	100
+难绷	nj bg	100
+张杰梵希雅	vh jp fj xi ya	100
+商务漂流	uh wu pn lq	100
+击破特工	ji po te gs	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+凉州区	ll vz qu	100
+尼菈	ni la	100
+南泉山	nj qr uj	100
+梵希雅第一	fj xi ya di yi	100
+浪尾	lh ww	100
+打咩	da mp	100
+奋进向一流	ff jb xl yi lq	100
+出境易	iu jk yi	100
+圣手	ug uz	100
+癫公颠婆	dm gs dm po	100
+河南蒜苔	he nj sr td	100
+潘展乐双记录	pj vj le ul ji lu	100
+光追	gl vv	100
+敬礼	jk li	100
+伤病对决	uh bk dv jt	100
+朱重八	vu is ba	100
+达妮卡	da ni ka	100
+蔡崇信	cd is xb	100
+蒜苔	sr td	100
+打咩	da mp	100
+阔步前行	ko bu qm xk	100
 泰酷辣	td ku la	100
 梵希雅第四	fj xi ya di si	100
