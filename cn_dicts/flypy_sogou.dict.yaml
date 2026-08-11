@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-08-10
+version: 2026-08-11
 sort: by_weight
 ...
 
@@ -153867,7 +153867,6 @@ sort: by_weight
 西格玛男人	ma ge xi nj rf	100
 战争片	vj vg pm	100
 飞霄	fw xn	100
-陆校服	dk xn fu	100
 程潇身材比例	ig xn uf cd bi li	100
 台风琵鹭来了	td fg pi lu ld le	100
 王莽岭	wh mh lk	100
@@ -153971,6 +153970,178 @@ sort: by_weight
 朱重八	vu is ba	100
 沈腾演技	uf tg yj ji	100
 折扣券	ve kz qr	100
+蒜苔	sr td	100
+打咩	da mp	100
+泰酷辣	td ku la	100
+梵希雅第四	fj xi ya di si	100
+军乐队	jy yt dv	100
+战至巅峰	vj vi dm fg	100
+费大厨	fw da iu	100
+头号种子出战	tz hc vs zi iu vj	100
+大别山区	da bp uj qu	100
+岩主天星	yj vu tm xk	100
+樊振东	fj vg ds	100
+上海变海上	uh hd bm hd uh	100
+浮屠界	fu tu jp	100
+海之蓝	hd vi lj	100
+杜桥	du qn	100
+鸢尾	yr ww	100
+梵希雅好松弛	fj xi ya hc ss ii	100
+上海发布	uh hd fa bu	100
+龙阳路	ls yh lu	100
+莘庄	xb vl	100
+大疆错失宇树	da jl co ui yu uu	100
+雨量	yu ll	100
+北京文化	bw jk wf hx	100
+张杰梵希雅强强联合	vh jp fj xi ya ql ql lm he	100
+韩乔生	hj qn ug	100
+敖隐	ao yb	100
+雪迷宫	xt mi gs	100
+雨靴	yu xt	100
+大雨天	da yu tm	100
+凌虚子	lk xu zi	100
+易中天大跌	yi vs tm da dp	100
+希腊神女	xi la uf nv	100
+小衣又	xn yi yz	100
+南浔区	nj xy qu	100
+果宝特工	go bc te gs	100
+河埒口	he lp kz	100
+孙颖莎	sy yb ua	100
+接崽	jp zd	100
+解斑	jp bj	100
+攀峰	pj fg	100
+积分夺宝券	ji ff do bc qr	100
+我嘞个	wo le ge	100
+重启回归	is qi hv gv	100
+天之蓝	tm vi lj	100
+日本流水素面	ri bf lq uv su mm	100
+苏州河	su vz he	100
+荣花与炎日之途	rs hx yu yj ri vi tu	100
+星鸣特工	xk mk te gs	100
+太过完美	td go wj mw	100
+梵希雅机位	fj xi ya ji ww	100
+幽邃地窟	yz sv di ku	100
+吗喽	ma lz	100
+光追	gl vv	100
+张万森下雪了	vh wj sf xx xt le	100
+伊内丝	yi nw si	100
+穷收藏	qs uz ch	100
+吗喽	ma lz	100
+地势低	di ui di	100
+大溪	da xi	100
+灵江	lk jl	100
+卡膜	ka mo	100
+老扎	lc va	100
+隔夜蒜苔	ge ye sr td	100
+牢帕	lc pa	100
+小狐	xn hu	100
+牢弟	lc di	100
+西格玛男人	ma ge xi nj rf	100
+飞霄	fw xn	100
+陆校服	dk xn fu	100
+癫公	dm gs	100
+凌虚子怎么打	lk xu zi zf me da	100
+生死离别	ug si li bp	100
+王水牛	wh uv nq	100
+茂名奥体中心体育馆	mc mk ao ti vs xb ti yu gr	100
+绿控传动	lv ks ir ds	100
+长江大桥	ih jl da qn	100
+显眼包	xm yj bc	100
+红温了	hs wf le	100
+夺宝券	do bc qr	100
+彭仕运	pg ui yy	100
+爆料者	bc ln ve	100
+新吴区	xb wu qu	100
+台风琵鹭生成	td fg pi lu ug ig	100
+划船	hx ir	100
+标绘	bn hv	100
+卡拉比丘	ka la bi qq	100
+迪希雅	di xi ya	100
+阿米诺斯	aa mi no si	100
+工作清闲	gs zo qk xm	100
+马尼菈	ma ni la	100
+司门口	si mf kz	100
+玛拉妮	ma la ni	100
+黑吗喽	hw ma lz	100
+钟灵毓秀	vs lk yu xq	100
+我嘞个豆	wo le ge dz	100
+饿了么订单	ee le me dk dj	100
+缉盗	ji dc	100
+欢迎来到龙餐馆	hr yk ld dc ls cj gr	100
+梵希雅真的强	fj xi ya vf de ql	100
+出尘	iu if	100
+演员秦焰去世	yj yr qb yj qu ui	100
+登陆少年	dg lu uc nm	100
+试训	ui xy	100
+蒜苔	sr td	100
+倒灌	dc gr	100
+北慕	bw mu	100
+有条不紊	yz tn bu wf	100
+南绷	nj bh	100
+武康路	wu kh lu	100
+幻影特工	hr yk te gs	100
+上海地铁停运	uh hd di tp tk yy	100
+登陆日	dg lu ri	100
+安赛龙	an sd ls	100
+地铁停运	di tp tk yy	100
+阻尼器	zu ni qi	100
+棍式	gy ui	100
+赵梓婷	vc zi tk	100
+雷犁热刀	lw li re dc	100
+云璃	yy li	100
+黑吗喽	hw ma lz	100
+负温度	fu wf du	100
+梵希雅	fj xi ya	100
+梵希雅弹唱	fj xi ya tj ih	100
+娜维娅	na ww ya	100
+张凌赫锁骨	vh lk he so gu	100
+世一决	ui yi jt	100
+路面积水	lu mm ji uv	100
+公司门口	gs si mf kz	100
+特大暴雨	te da bc yu	100
+俞定延	yu dk yj	100
+李超	li ic	100
+翁垟	wg yh	100
+海正	hd vg	100
+发配河南蒜苔	fa pw he nj sr td	100
+国乒最大威胁	go pk zv da ww xp	100
+肥宗	fw zs	100
+龙餐厅走势	ls cj tk zz ui	100
+柯冉	ke rj	100
+勇往直前	ys wh vi qm	100
+晦月魔君	hv yt mo jy	100
+小骊龙	xn li ls	100
+基尼奇	ji ni qi	100
+利比里亚	li bi li ya	100
+雷霆特工队	lw tk te gs dv	100
+难绷	nj bg	100
+张杰梵希雅	vh jp fj xi ya	100
+淹城	yj ig	100
+击破特工	ji po te gs	100
+黄少天	hl uc tm	100
+卡齐娜	ka qi na	100
+香缇莫	xl ti mo	100
+通用技术	ts ys ji uu	100
+尼菈	ni la	100
+梵希雅第一	fj xi ya di yi	100
+沈严	uf yj	100
+打咩	da mp	100
+罗贯中	lo gr vs	100
+运城市	yy ig ui	100
+风雨无阻	fg yu wu zu	100
+梅村	mw cy	100
+癫公颠婆	dm gs dm po	100
+抛锚	pc mc	100
+河南蒜苔	he nj sr td	100
+潘展乐双记录	pj vj le ul ji lu	100
+秋膘	qq bn	100
+光追	gl vv	100
+爷们	ye mf	100
+张凌赫红海	vh lk he hs hd	100
+朱重八	vu is ba	100
+漫水	mj uv	100
+低洼	di wa	100
+暴雨天	bc yu tm	100
 蒜苔	sr td	100
 打咩	da mp	100
 泰酷辣	td ku la	100
