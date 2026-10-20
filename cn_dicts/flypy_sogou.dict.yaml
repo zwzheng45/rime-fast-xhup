@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-10-18
+version: 2026-10-20
 sort: by_weight
 ...
 
@@ -192213,3 +192213,540 @@ sort: by_weight
 阶跃星辰旗舰模型	jp yt xk if qi jm mo xk	100
 地铁双井站	di tp ul jk vj	100
 理想汽车科技	li xl qi ie ke ji	100
+购票	gz pn	100
+蒹葭	jm jx	100
+女秘书	nv mi uu	100
+跟着电影去运动	gf ve dm yk qu yy ds	100
+布良斯克州	bu ll si ke vz	100
+欧洲理事会	ou vz li ui hv	100
+郧西县人民检察院	yy xi xm rf mb jm ia yr	100
+农情	ns qk	100
+宁晋	nk jb	100
+星石	xk ui	100
+都暻秀	dz jk xq	100
+小安德列娃	xn an de lp wa	100
+湖北省检察机关	hu bw ug jm ia ji gr	100
+赛亚人	sd ya rf	100
+中国电影新力量论坛	vs go dm yk xb li ll ly tj	100
+程普	ig pu	100
+宽心	kr xb	100
+微信珊瑚安全	ww xb uj hu an qr	100
+肖战巡演周边	xn vj xy yj vz bm	100
+姑母	gu mu	100
+早苗	zc mn	100
+桓景	hr jk	100
+陈奕迅演唱会	if yi xy yj ih hv	100
+伊人睽睽	yi rf kv kv	100
+吴康民	wu kh mb	100
+李羽洁	li yu jp	100
+短尾蝮蛇	dr ww fu ue	100
+金湖	jb hu	100
+通风报信	ts fg bc xb	100
+摩托车冲浪吉尼斯纪录	mo to ie is lh ji ni si ji lu	100
+尘封	if fg	100
+老狐狸	lc hu li	100
+石嘴山市中级法院	ui zv uj ui vs ji fa yr	100
+嘉祥	jx xl	100
+一二一	yi er yi	100
+俄联合部队集群	ee lm he bu dv ji qy	100
+尖叫声	jm jn ug	100
+大康	da kh	100
+三番战	sj fj vj	100
+鸭嘴兽	ya zv uz	100
+政客	vg ke	100
+刘嘉伟	lq jx ww	100
+师太	ui td	100
+云南省罗平县人民法院	yy nj ug lo pk xm rf mb fa yr	100
+闽南	mb nj	100
+你的眼神	ni de yj uf	100
+储粮	iu ll	100
+微改造	ww gd zc	100
+江苏丹阳眼镜市场	jl su dj yh yj jk ui ih	100
+尚可	uh ke	100
+周子涵	vz zi hj	100
+星链终端	xk lm vs dr	100
+别斯克列斯特诺夫	bp si ke lp si te no fu	100
+李睿	li rv	100
+打投	da tz	100
+修学	xq xt	100
+云门	yy mf	100
+聂成帅	np ig uk	100
+麦芽糊精	md ya hu jk	100
+体育中心	ti yu vs xb	100
+小李	xn li	100
+竹荪	vu sy	100
+共鸣之战	gs mk vi vj	100
+青协	qk xp	100
+大周末	da vz mo	100
+夹饼	jx bk	100
+和氏璧	he ui bi	100
+船锚	ir mc	100
+县级	xm ji	100
+南昌经开区税务局	nj ih jk kd qu uv wu ju	100
+杨洪基	yh hs ji	100
+伟大长征精神	ww da ih vg jk uf	100
+街口	jp kz	100
+炸弹之母	va dj vi mu	100
+老乐	lc le	100
+花落	hx lo	100
+江天秋光颂重阳	jl tm qq gl ss is yh	100
+三个代表	sj ge dd bn	100
+吴起县	wu qi xm	100
+阿英	aa yk	100
+长城建设集团	ih ig jm ue ji tr	100
+自然卷	zi rj jr	100
+建文	jm wf	100
+杨士桐	yh ui ts	100
+计费	ji fw	100
+古蔺	gu lb	100
+凯亚	kd ya	100
+若梦	ro mg	100
+社保新规	ue bc xb gv	100
+试喝	ui he	100
+雨雾	yu wu	100
+海安	hd an	100
+医学部	yi xt bu	100
+小范	xn fj	100
+洪辛	hs xb	100
+小茜	xn qm	100
+言行	yj xk	100
+萌兔	mg tu	100
+闺房	gv fh	100
+得宝	de bc	100
+鲜芋仙	xm yu xm	100
+九江市民政局	jq jl ui mb vg ju	100
+雨露	yu lu	100
+新鸭绿江大桥	xb ya lu jl da qn	100
+吴诗晴	wu ui qk	100
+新龙生态林	xb ls ug td lb	100
+李升堂	li ug th	100
+张杰深圳演唱会	vh jp uf vf yj ih hv	100
+叙永县	xu ys xm	100
+大梦归	da mg gv	100
+面纱	mm ua	100
+诺里	no li	100
+淬炼	cv lm	100
+和平精英吃鸡节	he pk jk yk ii ji jp	100
+国医馆	go yi gr	100
+爬墙	pa ql	100
+新龙	xb ls	100
+欧舒丹	ou uu dj	100
+视唱	ui ih	100
+柚子茶	yz zi ia	100
+韦恩赖特军事基地	ww en ld te jy ui ji di	100
+小沈阳部落	xn uf yh bu lo	100
+天琪	tm qi	100
+俄乌博弈格局	ee wu bo yi ge ju	100
+加州公路巡逻队	jx vz gs lu xy lo dv	100
+恋与深空银翼杀手联动	lm yu uf ks yb yi ua uz lm ds	100
+战死	vj si	100
+小鲸鱼	xn jk yu	100
+孟菲尔斯	mg fw er si	100
+猫妈妈	mc ma ma	100
+精英战场	jk yk vj ih	100
+绿色出行	lv se iu xk	100
+建桥	jm qn	100
+蒙古包	mg gu bc	100
+珍重	vf vs	100
+榴弹炮	lq dj pc	100
+易怒	yi nu	100
+列宁格勒州	lp nk ge le vz	100
+定安骨汤香味园	dk an gu th xl ww yr	100
+长影集团	ih yk ji tr	100
+光效	gl xn	100
+宜良	yi ll	100
+花蟹	hx xp	100
+潮牌	ic pd	100
+阳节	yh jp	100
+江西九江瑞昌特殊学校	jl xi jq jl rv ih te uu xt xn	100
+王爹爹	wh dp dp	100
+米姐	mi jp	100
+张佳琪	vh jx qi	100
+武警警士学院	wu jk jk ui xt yr	100
+国能	go ng	100
+老兰	lc lj	100
+垫料	dm ln	100
+蒙语	mg yu	100
+若水	ro uv	100
+贺聪	he cs	100
+法航荷航	fa hh he hh	100
+成交量	ig jn ll	100
+最高检第五评议组	zv gc jm di wu pk yi zu	100
+瑞安警方	rv an jk fh	100
+优托邦	yz to bh	100
+山西晋城锡崖沟	uj xi jb ig xi ya gz	100
+马三	ma sj	100
+赫雷斯赛道	he lw si sd dc	100
+跟唱	gf ih	100
+淘宝天猫	tc bc tm mc	100
+画集	hx ji	100
+摩托车冲浪	mo to ie is lh	100
+温赖特基地	wf ld te ji di	100
+沃罗涅日	wo lo np ri	100
+治愈系	vi yu xi	100
+十二届十三次全体会议	ui er jp ui sj ci qr ti hv yi	100
+淅淅沥沥	xi xi li li	100
+技艺	ji yi	100
+订书钉	dk uu dk	100
+飞翼	fw yi	100
+小海	xn hd	100
+就在此刻	jq zd ci ke	100
+床车	il ie	100
+软水	rr uv	100
+威朗	ww lh	100
+法荷航集团	fa he hh ji tr	100
+国产	go ij	100
+槽位	cc ww	100
+普京生日礼物	pu jk ug ri li wu	100
+聚财	ju cd	100
+请勿	qk wu	100
+探鱼	tj yu	100
+太夯	td hh	100
+老千	lc qm	100
+张涵	vh hj	100
+莫大	mo da	100
+瑞凯	rv kd	100
+大和平	da he pk	100
+香风	xl fg	100
+审讯	uf xy	100
+和其正	he qi vg	100
+阿洛伊西	aa lo yi xi	100
+谢观妙	xp gr mn	100
+小卷	xn jr	100
+王顺大	wh uy da	100
+个位	ge ww	100
+麻枝准	ma vi vy	100
+春茧	iy jm	100
+三级跳	sj ji tn	100
+俄乌前线	ee wu qm xm	100
+企石	qi ui	100
+俗语	su yu	100
+小司	xn si	100
+努姆鲁格保护区	nu mu lu ge bc hu qu	100
+丹阳耀程光学	dj yh yc ig gl xt	100
+健达	jm da	100
+白沙县林业局	bd ua xm lb ye ju	100
+莫大中国学联	mo da vs go xt lm	100
+小升初	xn ug iu	100
+全国最低工资标准	qr go zv di gs zi bn vy	100
+胫骨	jk gu	100
+我国	wo go	100
+贾米拉	jx mi la	100
+运行内存	yy xk nw cy	100
+结伴	jp bj	100
+博扎	bo va	100
+黄伟杰	hl ww jp	100
+午市	wu ui	100
+首图	uz tu	100
+石砚洞北山反击战	ui yj ds bw uj fj ji vj	100
+帕特里西奥	pa te li xi ao	100
+中联西北院	vs lm xi bw yr	100
+百草园	bd cc yr	100
+芭莎盛典	ba ua ug dm	100
+剃刀	ti dc	100
+宝船	bc ir	100
+萨马拉输油站	sa ma la uu yz vj	100
+女儿	nv er	100
+满载	mj zd	100
+黄钊溢	hl vc yi	100
+开化	kd hx	100
+日落大道	ri lo da dc	100
+钟杯	vs bw	100
+峨眉	ee mw	100
+邓伦	dg ly	100
+开卖	kd md	100
+癫公颠婆	dm gs dm po	100
+华科女篮	hx ke nv lj	100
+酵素神药	jn su uf yc	100
+电磁战武器	dm ci vj wu qi	100
+遗照	yi vc	100
+热卤	re lu	100
+刘子豪	lq zi hc	100
+马马嘟嘟骑	ma ma du du qi	100
+王东升	wh ds ug	100
+海伦司	hd ly si	100
+李昂	li ah	100
+我家那闺女	wo jx na gv nv	100
+大中	da vs	100
+区人民医院	qu rf mb yi yr	100
+东方省	ds fh ug	100
+工作组	gs zo zu	100
+高低肩	gc di jm	100
+郎才女貌	lh cd nv mc	100
+统战部部长	ts vj bu bu vh	100
+南通中院	nj ts vs yr	100
+龙虱	ls ui	100
+水色	uv se	100
+陈昱	if yu	100
+宋兴宇	ss xk yu	100
+没关系	mw gr xi	100
+骚乱	sc lr	100
+美英	mw yk	100
+索契	so qi	100
+抽签	iz qm	100
+艾尔德	ai er de	100
+杜尔迦	du er jx	100
+搭电	da dm	100
+大苏	da su	100
+铁管	tp gr	100
+言尚	yj uh	100
+梨涡	li wo	100
+枣糕	zc gc	100
+录音专场	lu yb vr ih	100
+小豆子	xn dz zi	100
+玫瑰德比	mw gv de bi	100
+新义州	xb yi vz	100
+陈胜	if ug	100
+星阅辰石	xk yt if ui	100
+一羽绘亚太	yi yu hv ya td	100
+镐山	gc uj	100
+美术课	mw uu ke	100
+逃出布迪秀	tc iu bu di xq	100
+中国香港站	vs go xl gh vj	100
+浙江省第十八届运动会	ve jl ug di ui ba jp yy ds hv	100
+刘林	lq lb	100
+连云港造船厂	lm yy gh zc ir ih	100
+采桑子	cd sh zi	100
+团费	tr fw	100
+城镇职工基本养老保险	ig vf vi gs ji bf yh lc bc xm	100
+腾讯元器平台	tg xy yr qi pk td	100
+王大伯	wh da bo	100
+国博	go bo	100
+旭日	xu ri	100
+狂爱	kl ai	100
+中国驻俄罗斯大使馆	vs go vu ee lo si da ui gr	100
+广东高院	gl ds gc yr	100
+场地费	ih di fw	100
+符彩轮	fu cd ly	100
+文隽	wf jy	100
+澳琳达	ao lb da	100
+我国东南沿海	wo go ds nj yj hd	100
+猫步	mc bu	100
+锡基霍尔	xi ji ho er	100
+王博文	wh bo wf	100
+福洛里希教授	fu lo li xi jn uz	100
+拼色	pb se	100
+阿尔山市法院	aa er uj ui fa yr	100
+德胜岩	de ug yj	100
+棉拖鞋	mm to xp	100
+绝缘体	jt yr ti	100
+培侨中学	pw qn vs xt	100
+董鹏	ds pg	100
+泉南高速江西永新段	qr nj gc su jl xi ys xb dr	100
+缅北魏家犯罪集团	mm bw ww jx fj zv ji tr	100
+周末快乐	vz mo kk le	100
+魏家犯罪集团	ww jx fj zv ji tr	100
+汇入	hv ru	100
+别尔哥罗德	bp er ge lo de	100
+南京青奥馆	nj jk qk ao gr	100
+孙瑜浓	sy yu ns	100
+炸开	va kd	100
+毕业证书	bi ye vg uu	100
+内收	nw uz	100
+刘莉	lq li	100
+南方医科大学深圳医院	nj fh yi ke da xt uf vf yi yr	100
+果宝特工	go bc te gs	100
+近况	jb kl	100
+茶馆	ia gr	100
+敬字票	jk zi pn	100
+领结	lk jp	100
+小瑶	xn yc	100
+黄乐豪	hl le hc	100
+电价	dm jx	100
+青海省委统战部	qk hd ug ww ts vj bu	100
+不是你的恋爱	bu ui ni de lm ai	100
+阶跃终端发布会	jp yt vs dr fa bu hv	100
+奥尔	ao er	100
+纳西	na xi	100
+小窗口	xn il kz	100
+固戍	gu uu	100
+开猴	kd hz	100
+丹阳市市场监督管理局	dj yh ui ui ih jm du gr li ju	100
+南昌经开区	nj ih jk kd qu	100
+微信零钱	ww xb lk qm	100
+俄圣彼得堡石油码头	ee ug bi de bc ui yz ma tz	100
+怎么样才能回到以前	zf me yh cd ng hv dc yi qm	100
+橄榄菜	gj lj cd	100
+奥登	ao dg	100
+相敬如宾	xl jk ru bb	100
+余利宝	yu li bc	100
+马谡	ma su	100
+载人飞行滑板	zd rf fw xk hx bj	100
+博大光学	bo da gl xt	100
+阿皮	aa pi	100
+高画质	gc hx vi	100
+妲己配音大赛	da ji pw yb da sd	100
+极化	ji hx	100
+彭山	pg uj	100
+藏手机	ch uz ji	100
+自来卷	zi ld jr	100
+穆斯卡特	mu si ka te	100
+维吉尔	ww ji er	100
+蛋烘糕	dj hs gc	100
+全安	qr an	100
+国运级	go yy ji	100
+检录	jm lu	100
+输卵管	uu lr gr	100
+新疆小哥	xb jl xn ge	100
+北宁	bw nk	100
+杀猪刀	ua vu dc	100
+中佑教育	vs yz jn yu	100
+索契机场	so qi ji ih	100
+遐思	xx si	100
+高知	gc vi	100
+嫁金钗直播	jx jb id vi bo	100
+身世	uf ui	100
+加工品	jx gs pb	100
+罗山县	lo uj xm	100
+唐九洲好惊艳	th jq vz hc jk yj	100
+北京法源寺	bw jk fa yr si	100
+新体育中心	xb ti yu vs xb	100
+四级手术	si ji uz uu	100
+多爱美眼镜	do ai mw yj jk	100
+学前班	xt qm bj	100
+碧桃	bi tc	100
+一数	yi uu	100
+省市	ug ui	100
+老金	lc jb	100
+保隆	bc ls	100
+习习	xi xi	100
+近视防控镜片	jb ui fh ks jk pm	100
+学习成绩	xt xi ig ji	100
+白沙	bd ua	100
+杨涵	yh hj	100
+加赛了	jx sd le	100
+亚丁	ya dk	100
+单方	dj fh	100
+陶瓷杯	tc ci bw	100
+沁园春	qb yr iy	100
+阿强	aa ql	100
+铝扣板	lv kz bj	100
+超意兴	ic yi xk	100
+伊川	yi ir	100
+全国马拉松锦标赛	qr go ma la ss jb bn sd	100
+暴动	bc ds	100
+中朝	vs ic	100
+帅哥美女	uk ge mw nv	100
+通海	ts hd	100
+二战侵华日军军帽	er vj qb hx ri jy jy mc	100
+深圳站	uf vf vj	100
+阿念	aa nm	100
+斑马救援队	bj ma jq yr dv	100
+联队	lm dv	100
+回头是岸	hv tz ui an	100
+谋害	mz hd	100
+江西永新泉南高速	jl xi ys xb qr nj gc su	100
+中方驻日使馆	vs fh vu ri ui gr	100
+向总	xl zs	100
+危急值	ww ji vi	100
+花镜	hx jk	100
+长寿	ih uz	100
+改写	gd xp	100
+谦谦	qm qm	100
+骤雨	vz yu	100
+包牌	bc pd	100
+绿泡泡	lv pc pc	100
+麻省大学	ma ug da xt	100
+南京人	nj jk rf	100
+特例	te li	100
+头脑风暴	tz nc fg bc	100
+千佛山庙会	qm fo uj mn hv	100
+章时安	vh ui an	100
+任丽	rf li	100
+串口	ir kz	100
+复赛	fu sd	100
+刘若英	lq ro yk	100
+大乐乐	da le le	100
+大阪赛	da bj sd	100
+舒婷	uu tk	100
+城主	ig vu	100
+周周	vz vz	100
+拉普兰德	la pu lj de	100
+王妈	wh ma	100
+泡沫箱	pc mo xl	100
+把黑夜点燃	ba hw ye dm rj	100
+徐汇区检察院	xu hv qu jm ia yr	100
+鱼姐	yu jp	100
+幻灯	hr dg	100
+社会救助新标准	ue hv jq vu xb bn vy	100
+槟榔青果	bk lh qk go	100
+蒋依依工作室	jl yi yi gs zo ui	100
+迪尔	di er	100
+倪倪	ni ni	100
+林泽锟	lb ze ky	100
+兰州中院	lj vz vs yr	100
+而今	er jb	100
+武汉任务	wu hj rf wu	100
+第二十届亚洲运动会	di er ui jp ya vz yy ds hv	100
+福州气象	fu vz qi xl	100
+迅哥	xy ge	100
+索拉	so la	100
+哀酱	ai jl	100
+压强	ya ql	100
+须须	xu xu	100
+桥架	qn jx	100
+电源键	dm yr jm	100
+煤油	mw yz	100
+跳水票	tn uv pn	100
+光宇	gl yu	100
+游游	yz yz	100
+星瑞	xk rv	100
+郭子	go zi	100
+九月初九	jq yt iu jq	100
+出生岛	iu ug dc	100
+托拉	to la	100
+金麦	jb md	100
+路赞	lu zj	100
+香榭丽舍大街	xl xp li ue da jp	100
+马西桐	ma xi ts	100
+林森	lb sf	100
+崔秀彬	cv xq bb	100
+猫妖	mc yc	100
+小叶子	xn ye zi	100
+雨不小	yu bu xn	100
+大妍	da yj	100
+跟腱撕裂	gf jm si lp	100
+坐票	zo pn	100
+迪利曼对话会	di li mj dv hx hv	100
+产耀东	ij yc ds	100
+西苑	xi yr	100
+淘金币	tc jb bi	100
+秦川	qb ir	100
+美琪	mw qi	100
+泰安市泰山区检察院	td an ui td uj qu jm ia yr	100
+恶战	ee vj	100
+莱莱	ld ld	100
+卢茨克	lu ci ke	100
+尾田	ww tm	100
+热热热	re re re	100
+上通	uh ts	100
+热销	re xn	100
+蜀山分局荷叶地派出所	uu uj ff ju he ye di pd iu so	100
+小房	xn fh	100
+马尼菈	ma ni la	100
+汤米家维	th mi jx ww	100
+日本国家队	ri bf go jx dv	100
+铺地	pu di	100
+诗雅	ui ya	100
+可能的爱	ke ng de ai	100
+驿站	yi vj	100
+建水县来薰小学	jm uv xm ld xy xn xt	100
+兴义华哥	xk yi hx ge	100
+逐日	vu ri	100
+教育部办公厅	jn yu bu bj gs tk	100
+察哈尔右翼前旗	ia ha er yz yi qm qi	100
+洛川	lo ir	100
+志愿活动	vi yr ho ds	100
+马克龙夫妇	ma ke ls fu fu	100
+骨头汤	gu tz th	100
+原形	yr xk	100
+同走长征路	ts zz ih vg lu	100
+一审法院	yi uf fa yr	100
+星盾	xk dy	100
+湖北省郧西县看守所	hu bw ug yy xi xm kj uz so	100
+西条市	xi tn ui	100
+黑莲花	hw lm hx	100
+孙水	sy uv	100
+脑部	nc bu	100
+水封	uv fg	100
+老酒体验馆	lc jq ti yj gr	100
