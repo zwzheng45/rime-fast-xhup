@@ -3,7 +3,7 @@
 
 ---
 name: flypy_sogou
-version: 2026-11-25
+version: 2026-11-26
 sort: by_weight
 ...
 
@@ -202716,3 +202716,639 @@ sort: by_weight
 在轨驻留试验任务	zd gv vu lq ui yj rf wu	100
 果宝特工	go bc te gs	100
 陕西希望小学	uj xi xi wh xn xt	100
+急性呼吸道传染病	ji xk hu xi dc ir rj bk	100
+夏威夷大学男篮	xx ww yi da xt nj lj	100
+美国公主邮轮公司	mw go gs vu yz ly gs si	100
+中国载人航天体系	vs go zd rf hh tm ti xi	100
+中国航天员乘组	vs go hh tm yr ig zu	100
+新橙意科技公司	xb ig yi ke ji gs si	100
+正燊健康商贸	vg uf jm kh uh mc	100
+神舟二十四号乘组	uf vz er ui si hc ig zu	100
+卖旧买新项目库	md jq md xb xl mu ku	100
+上都布锂辉石	uh dz bu li hv ui	100
+中国月球探测工程	vs go yt qq tj ce gs ig	100
+自主操作系统鸿蒙	zi vu cc zo xi ts hs mg	100
+廖达文	ln da wf	100
+全新第三代唐	qr xb di sj dd th	100
+公安联考	gs an lm kc	100
+中巴联合太空实验	vs ba lm he td ks ui yj	100
+清悦服装店	qk yt fu vl dm	100
+田秉义	tm bk yi	100
+日本文部科学省	ri bf wf bu ke xt ug	100
+人形机器人概念股	rf xk ji qi rf gd nm gu	100
+中国神舟二号飞船	vs go uf vz er hc fw ir	100
+逃脱者	tc to ve	100
+欧冠焦点战	ou gr jn dm vj	100
+深圳亿优威光	uf vf yi yz ww gl	100
+纳伊姆阿布纳赫勒	na yi mu aa bu na he le	100
+生育友好型政策	ug yu yz hc xk vg ce	100
+四级反诈服务体系	si ji fj va fu wu ti xi	100
+三亚裕通	sj ya yu ts	100
+惠城环保董事会	hv ig hr bc ds ui hv	100
+毒蛛钻嘴	du vu zr zv	100
+巴基斯坦宇航员	ba ji si tj yu hh yr	100
+华为折叠屏手机	hx ww ve dp pk uz ji	100
+修杰	xq jp	100
+深圳匠星数码商行	uf vf jl xk uu ma uh hh	100
+重庆新壹库科技	is qk xb yi ku ke ji	100
+成佳昂	ig jx ah	100
+低糖版旺仔牛奶糖	di th bj wh zd nq nd th	100
+徐思雷	xu si lw	100
+伊朗海峡	yi lh hd xx	100
+敦煌政府	dy hl vg fu	100
+上海华为发布会	uh hd hx ww fa bu hv	100
+贺州矿洞	he vz kl ds	100
+雅江锂矿	ya jl li kl	100
+火灾事故调查组	ho zd ui gu dn ia zu	100
+欧冠资格区	ou gr zi ge qu	100
+可折叠轻薄电脑	ke ve dp qk bo dm nc	100
+鑫煜晟华文旅公司	xb yu ug hx wf lv gs si	100
+超级大圆月现象	ic ji da yr yt xm xl	100
+深圳迷乐包装公司	uf vf mi le bc vl gs si	100
+大山的孩子	da uj de hd zi	100
+神舟二十四飞船	uf vz er ui si fw ir	100
+中国产混动乘用车	vs go ij hy ds ig ys ie	100
+精测显芯产业投资	jk ce xm xb ij ye tz zi	100
+比亚迪第三代唐	bi ya di di sj dd th	100
+毒蛛探唇	du vu tj iy	100
+中国太空站	vs go td ks vj	100
+云南天麻高速公路	yy nj tm ma gc su gs lu	100
+沙巴巴库联赛	ua ba ba ku lm sd	100
+巴呱网络科技公司	ba gx wh lo ke ji gs si	100
+巴基斯坦勋章	ba ji si tj xy vh	100
+新款可口可乐	xb kr ke kz ke le	100
+舰载直升机	jm zd vi ug ji	100
+低糖版旺仔牛奶	di th bj wh zd nq nd	100
+第十一届世青会	di ui yi jp ui qk hv	100
+浙江华电	ve jl hx dm	100
+鸿富瀚控股	hs fu hj ks gu	100
+云南天麻高速	yy nj tm ma gc su	100
+原生鸿蒙系统	yr ug hs mg xi ts	100
+天濠公司	tm hc gs si	100
+杨利伟	yh li ww	100
+希腊卫城博物馆	xi la ww ig bo wu gr	100
+河南省药监局	he nj ug yc jm ju	100
+马来西亚邮政集团	ma ld xi ya yz vg ji tr	100
+溢流井	yi lq jk	100
+亚冠比赛数据	ya gr bi sd uu ju	100
+复旦微电股份	fu dj ww dm gu ff	100
+中英商谈	vs yk uh tj	100
+神舟二十四乘组	uf vz er ui si ig zu	100
+英汉思动力	yk hj si ds li	100
+智元灵心平台	vi yr lk xb pk td	100
+中国旺旺集团	vs go wh wh ji tr	100
+小米家电	xn mi jx dm	100
+神舟飞船系列	uf vz fw ir xi lp	100
+烟台北部	yj td bw bu	100
+天津杨光相声社	tm jb yh gl xl ug ue	100
+美联信心指数	mw lm xb xb vi uu	100
+全新全女旅行综艺	qr xb qr nv lv xk zs yi	100
+韩国防空识别区	hj go fh ks ui bp qu	100
+知乎营销服务板块	vi hu yk xn fu wu bj kk	100
+拉米卢格马尼	la mi lu ge ma ni	100
+顺荣和信息科技	uy rs he xb xi ke ji	100
+数据质量国际标准	uu ju vi ll go ji bn vy	100
+湖南岳阳教体局	hu nj yt yh jn ti ju	100
+广东制造企业	gl ds vi zc qi ye	100
+海南映阙科技	hd nj yk qt ke ji	100
+海南婵机科技	hd nj ij ji ke ji	100
+留轨航天员	lq gv hh tm yr	100
+人工智能标准	rf gs vi ng bn vy	100
+兰州市检察院	lj vz ui jm ia yr	100
+韩防空识别区	hj fh ks ui bp qu	100
+深圳馋小喵烧腊店	uf vf ij xn mn uc la dm	100
+浙江云芯机器人	ve jl yy xb ji qi rf	100
+欧盟混动汽车	ou mg hy ds qi ie	100
+上都布锂矿	uh dz bu li kl	100
+巴基斯坦籍成员	ba ji si tj ji ig yr	100
+长沙站	ih ua vj	100
+豆包应用	dz bc yk ys	100
+湖南祁东	hu nj qi ds	100
+孙莉夫妇	sy li fu fu	100
+中所安全框架协议	vs so an qr kl jx xp yi	100
+中旺集团	vs wh ji tr	100
+湖南和丰大厦	hu nj he fg da ua	100
+洗碗海绵	xi wj hd mm	100
+亚冠精英赛东区	ya gr jk yk sd ds qu	100
+宿迁京东天地	su qm jk ds tm di	100
+危险货物包装领域	ww xm ho wu bc vl lk yu	100
+力佳科技股份	li jx ke ji gu ff	100
+长城山海炮	ih ig uj hd pc	100
+混动保障措施	hy ds bc vh co ui	100
+欣旺达股份	xb wh da gu ff	100
+首位外籍宇航员	uz ww wd ji yu hh yr	100
+第三代唐旗舰版本	di sj dd th qi jm bj bf	100
+南港队	nj gh dv	100
+雅江措拉锂矿	ya jl co la li kl	100
+纪念李政道	ji nm li vg dc	100
+中国足坛	vs go zu tj	100
+湖南华容县教体局	hu nj hx rs xm jn ti ju	100
+三星西安晶圆厂	sj xk xi an jk yr ih	100
+英达公司	yk da gs si	100
+海南禾硕科技	hd nj he uo ke ji	100
+浙江卫视新音综	ve jl ww ui xb yb zs	100
+神舟二十四号飞天	uf vz er ui si hc fw tm	100
+吉盛集团控股	ji ug ji tr ks gu	100
+卖旧买新	md jq md xb	100
+江西金融集团	jl xi jb rs ji tr	100
+法国外贸银行	fa go wd mc yb hh	100
+北京超大月亮	bw jk ic da yt ll	100
+袁泉夫妇	yr qr fu fu	100
+西藏最大风电基地	xi zh zv da fg dm ji di	100
+长华控股	ih hx ks gu	100
+载人航天飞行	zd rf hh tm fw xk	100
+中望软件	vs wh rr jm	100
+京东天地	jk ds tm di	100
+深圳锦泰轩养生馆	uf vf jb td xr yh ug gr	100
+溧忱智能科技	li if vi ng ke ji	100
+曼彻斯特城市球场	mj ie si te ig ui qq ih	100
+京沪列车车次	jk hu lp ie ie ci	100
+北美大豆包	bw mw da dz bc	100
+深圳兰味春秋餐饮	uf vf lj ww iy qq cj yb	100
+葛小波	ge xn bo	100
+第三代唐星际双屏	di sj dd th xk ji ul pk	100
+海上牧歌公司	hd uh mu ge gs si	100
+韩越联合体	hj yt lm he ti	100
+烧炭沟锂矿项目	uc tj gz li kl xl mu	100
+加州值得心动	jx vz vi de xb ds	100
+广东工业	gl ds gs ye	100
+原生鸿蒙生态	yr ug hs mg ug td	100
+秦城	qb ig	100
+朝鲜夏令营	ic xm xx lk yk	100
+智能体伙伴计划	vi ng ti ho bj ji hx	100
+新规范	xb gv fj	100
+深圳铭鑫隆商行	uf vf mk xb ls uh hh	100
+朝霞伴飞	vc xx bj fw	100
+超长驻留太空	ic ih vu lq td ks	100
+深圳闰颜养生馆	uf vf ry yj yh ug gr	100
+盗龄医生公司	dc lk yi ug gs si	100
+首项工业应用标准	uz xl gs ye yk ys bn vy	100
+现行殡葬管理办法	xm xk bb zh gr li bj fa	100
+土超豪门	tu ic hc mf	100
+驻平壤外交办事处	vu pk rh wd jn bj ui iu	100
+成都天齐兴宇	ig du tm qi xk yu	100
+秦峰	qb fg	100
+网易灵动	wh yi lk ds	100
+三亚优尼可	sj ya yz ni ke	100
+顺安消防	uy an xn fh	100
+丰源矿业	fg yr kl ye	100
+深圳嘉捷通商贸行	uf vf jx jp ts uh mc xk	100
+死寂	si ji	100
+欧冠悲喜夜	ou gr bw xi ye	100
+巴宇航员	ba yu hh yr	100
+日出神箭	ri iu uf jm	100
+英力士汽车	yk li ui qi ie	100
+宋祖英	ss zu yk	100
+巴首位航天员	ba uz ww hh tm yr	100
+亚冠焦点战	ya gr jn dm vj	100
+刘玉萱	lq yu xr	100
+京沪高铁山东段	jk hu gc tp uj ds dr	100
+超级满月天象	ic ji mj yt tm xl	100
+播放	bo fh	100
+上海上港俱乐部	uh hd uh gh ju le bu	100
+海南安正贸易公司	hd nj an vg mc yi gs si	100
+法国制药商	fa go vi yc uh	100
+齐尚阿里	qi uh aa li	100
+跨年首场超级月亮	kx nm uz ih ic ji yt ll	100
+库克岛	ku ke dc	100
+中国任务总指挥部	vs go rf wu zs vi hv bu	100
+宣城海螺光伏科技	xr ig hd lo gl fu ke ji	100
+世青赛团体决赛	ui qk sd tr ti jt sd	100
+食管堵塞	ui gr du se	100
+深圳酥韵世家	uf vf su yy ui jx	100
+山东都市酒店	uj ds du ui jq dm	100
+慧育优童工作室	hv yu yz ts gs zo ui	100
+星轨	xk gv	100
+深圳苒玥	uf vf rj yt	100
+漆髹敦煌	qi xq dy hl	100
+山东岭南都市酒店	uj ds lk nj du ui jq dm	100
+东亚积分榜	ds ya ji ff bh	100
+清泉棋牌室	qk qr qi pd ui	100
+中国乒乓青年队	vs go pk ph qk nm dv	100
+长丰草莓	ih fg cc mw	100
+阿里健康	aa li jm kh	100
+新能源材料产业园	xb ng yr cd ln ij ye yr	100
+新版可口可乐	xb bj ke kz ke le	100
+萨德体育	sa de ti yu	100
+廖哲宏	ln ve hs	100
+磷系新能源产业园	lb xi xb ng yr ij ye yr	100
+金新农	jb xb ns	100
+中国国家建材集团	vs go go jx jm cd ji tr	100
+深圳刘记吊烧鸡	uf vf lq ji dn uc ji	100
+黄磊夫妇	hl lw fu fu	100
+小折叠笔记本	xn ve dp bi ji bf	100
+谌恒法律咨询	uf hg fa lv zi xy	100
+山东烟台	uj ds yj td	100
+伊朗法庭	yi lh fa tk	100
+甲基卡锂矿	jx ji ka li kl	100
+高德新世界模型	gc de xb ui jp mo xk	100
+包头强磁材料公司	bc tz ql ci cd ln gs si	100
+上海证券公司	uh hd vg qr gs si	100
+启橙电子商务公司	qi ig dm zi uh wu gs si	100
+逸祥卫生科技	yi xl ww ug ke ji	100
+全新小折电脑	qr xb xn ve dm nc	100
+穆罕默德齐尚阿里	mu hj mo de qi uh aa li	100
+海南云识科技	hd nj yy ui ke ji	100
+浙江国企	ve jl go qi	100
+海南算雳云科技	hd nj sr li yy ke ji	100
+中国消协	vs go xn xp	100
+中巴航天合作项目	vs ba hh tm he zo xl mu	100
+羽毛球协会	yu mc qq xp hv	100
+抗流感医药	kh lq gj yi yc	100
+新款长城山海炮	xb kr ih ig uj hd pc	100
+深圳清悦服装店	uf vf qk yt fu vl dm	100
+王唯菲	wh ww fw	100
+港股核药	gh gu he yc	100
+求索笃行咨询管理	qq so du xk zi xy gr li	100
+美两用物项	mw ll ys wu xl	100
+金顶酸奶店	jb dk sr nd dm	100
+天猫健康平台	tm mc jm kh pk td	100
+海南鑫超赢公司	hd nj xb ic yk gs si	100
+上海吉致汽车金融	uh hd ji vi qi ie jb rs	100
+工业机械长川科技	gs ye ji xp ih ir ke ji	100
+泛亚数学学术组织	fj ya uu xt xt uu zu vi	100
+第肆象限	di si xl xm	100
+欧洲英力士	ou vz yk li ui	100
+长春新能源工厂	ih iy xb ng yr gs ih	100
+天宫航天员	tm gs hh tm yr	100
+混动进口配额方案	hy ds jb kz pw ee fh an	100
+泛亚数学组织	fj ya uu xt zu vi	100
+阿星	aa xk	100
+羽协教练组	yu xp jn lm zu	100
+磷系新材料产业园	lb xi xb cd ln ij ye yr	100
+消费医疗领域	xn fw yi ln lk yu	100
+四洲集团	si vz ji tr	100
+海南驰丰科技	hd nj ii fg ke ji	100
+神舟航天	uf vz hh tm	100
+三亚长峰科技	sj ya ih fg ke ji	100
+黄磊夫妻	hl lw fu qi	100
+四川烧炭沟锂矿	si ir uc tj gz li kl	100
+东风汽车金融公司	ds fg qi ie jb rs gs si	100
+普速客车	pu su ke ie	100
+金通智运	jb ts vi yy	100
+深圳釉色轻小吃店	uf vf yz se qk xn ii dm	100
+已知最冷人造物质	yi vi zv lg rf zc wu vi	100
+柯尔百货	ke er bd ho	100
+深圳小李食光小馆	uf vf xn li ui gl xn gr	100
+环球小姐	hr qq xn jp	100
+赣州新材料公司	gj vz xb cd ln gs si	100
+敦煌色彩美学	dy hl se cd mw xt	100
+广西柳江	gl xi lq jl	100
+涉美两用物项	ue mw ll ys wu xl	100
+海南帆船赛	hd nj fj ir sd	100
+环海南岛帆船赛	hr hd nj dc fj ir sd	100
+海南缔秀科技	hd nj di xq ke ji	100
+收购价	uz gz jx	100
+小豆智能体	xn dz vi ng ti	100
+折叠鸿蒙电脑	ve dp hs mg dm nc	100
+对美出口两用物项	dv mw iu kz ll ys wu xl	100
+江苏瀚启	jl su hj qi	100
+原生鸿蒙操作系统	yr ug hs mg cc zo xi ts	100
+中国中消协	vs go vs xn xp	100
+新款鸿蒙折叠电脑	xb kr hs mg ve dp dm nc	100
+疾病遗传基因检测	ji bk yi ir ji yb jm ce	100
+太原普惠托育	td yr pu hv to yu	100
+对美部分两用物项	dv mw bu ff ll ys wu xl	100
+天齐兴宇公司	tm qi xk yu gs si	100
+亚冠精英赛制	ya gr jk yk sd vi	100
+新可口可乐	xb ke kz ke le	100
+深圳瑞姿颜养生馆	uf vf rv zi yj yh ug gr	100
+深圳翠华早餐店	uf vf cv hx zc cj dm	100
+顺事通商行	uy ui ts uh xk	100
+深圳熙锦供应链	uf vf xi jb gs yk lm	100
+中巴联合实验	vs ba lm he ui yj	100
+海南恒沧达公司	hd nj hg ch da gs si	100
+小区治理	xn qu vi li	100
+华南转型项目二期	hx nj vr xk xl mu er qi	100
+中国蛟龙号	vs go jn ls hc	100
+中粮可口可乐公司	vs ll ke kz ke le gs si	100
+驻朝办事处	vu ic bj ui iu	100
+深圳懂爱小面馆	uf vf ds ai xn mm gr	100
+湖南岳阳一中	hu nj yt yh yi vs	100
+深圳淳粱食品	uf vf iy ll ui pb	100
+超长太空出差	ic ih td ks iu id	100
+第三代唐系列车型	di sj dd th xi lp ie xk	100
+开源翻译层	kd yr fj yi cg	100
+广西藤县	gl xi tg xm	100
+上海杉达学院	uh hd uj da xt yr	100
+中国载人飞行	vs go zd rf fw xk	100
+深圳阳飙百货店	uf vf yh bn bd ho dm	100
+暮光之城系列	mu gl vi ig xi lp	100
+百灵医疗大模型	bd lk yi ln da mo xk	100
+浙江友邦吊顶	ve jl yz bh dn dk	100
+泰国武里南队	td go wu li nj dv	100
+广西贺州昭平县	gl xi he vz vc pk xm	100
+新围桂香园快餐店	xb ww gv xl yr kk cj dm	100
+生物工程技术人员	ug wu gs ig ji uu rf yr	100
+广州岭南幻境	gl vz lk nj hr jk	100
+所罗门群岛	so lo mf qy dc	100
+林俊贤工作室	lb jy xm gs zo ui	100
+首款鸿蒙折叠电脑	uz kr hs mg ve dp dm nc	100
+帆船邀请赛	fj ir yc qk sd	100
+新一届国羽教练组	xb yi jp go yu jn lm zu	100
+上研智联	uh yj vi lm	100
+智元平台	vi yr pk td	100
+所罗门岛	so lo mf dc	100
+血压升高分类体系	xt ya ug gc ff lw ti xi	100
+新款鸿蒙终端设备	xb kr hs mg vs dr ue bw	100
+神舟二号乘组	uf vz er hc ig zu	100
+神二十四乘组	uf er ui si ig zu	100
+大观	da gr	100
+乒乓世界青赛	pk ph ui jp qk sd	100
+宝尊电商品牌	bc zy dm uh pb pd	100
+津巴布韦警方	jb ba bu ww jk fh	100
+红罐旺仔牛奶	hs gr wh zd nq nd	100
+十五五能源蓝图	ui wu wu ng yr lj tu	100
+吴晓	wu xn	100
+塔吉克斯坦议会	ta ji ke si tj yi hv	100
+哥伦比亚国会	ge ly bi ya go hv	100
+首场欧冠比赛	uz ih ou gr bi sd	100
+群德利商贸商行	qy de li uh mc uh hh	100
+美国公主邮轮	mw go gs vu yz ly	100
+深圳玉丰巷	uf vf yu fg xl	100
+广东公司	gl ds gs si	100
+锋富锂业	fg fu li ye	100
+中国籍航天员	vs go ji hh tm yr	100
+沈阳机床公司	uf yh ji il gs si	100
+年度超级月亮	nm du ic ji yt ll	100
+英伟达期权	yk ww da qi qr	100
+中英教育部	vs yk jn yu bu	100
+四川锂矿项目	si ir li kl xl mu	100
+山东青岛城阳区委	uj ds qk dc ig yh qu ww	100
+太古飞机	td gu fw ji	100
+夏雨袁泉夫妇	xx yu yr qr fu fu	100
+全国普速旅客列车	qr go pu su lv ke lp ie	100
+宋派艺术	ss pd yi uu	100
+哥伦比亚议会	ge ly bi ya yi hv	100
+鑫享咖啡	xb xl ka fw	100
+全国消协平台	qr go xn xp pk td	100
+混动进口配额制度	hy ds jb kz pw ee vi du	100
+国字号男足	go zi hc nj zu	100
+子洲天然气井	zi vz tm rj qi jk	100
+煌光科技海南公司	hl gl ke ji hd nj gs si	100
+泛亚洲数学组织	fj ya vz uu xt zu vi	100
+中国载人航天任务	vs go zd rf hh tm rf wu	100
+中国载人航天项目	vs go zd rf hh tm xl mu	100
+加勒比公主号邮轮	jx le bi gs vu hc yz ly	100
+威尔史密斯	ww er ui mi si	100
+报喜鸟控股	bc xi nn ks gu	100
+世界青乒赛	ui jp qk pk sd	100
+美委员会	mw ww yr hv	100
+国产折叠屏手机	go ij ve dp pk uz ji	100
+阿里平台	aa li pk td	100
+迪拜国际金融中心	di bd go ji jb rs vs xb	100
+瀚昱通海南国贸	hj yu ts hd nj go mc	100
+燊龙队	uf ls dv	100
+坤泰公司	ky td gs si	100
+恒健投资	hg jm tz zi	100
+中国材料研究学会	vs go cd ln yj jq xt hv	100
+国铁普速旅客列车	go tp pu su lv ke lp ie	100
+亚冠东亚区循环赛	ya gr ds ya qu xy hr sd	100
+法韩越企业联合体	fa hj yt qi ye lm he ti	100
+四川峨眉山金顶	si ir ee mw uj jb dk	100
+千年敦煌	qm nm dy hl	100
+医药防疫板块	yi yc fh yi bj kk	100
+乐高欧洲	le gc ou vz	100
+李玲芳	li lk fh	100
+李兰	li lj	100
+塞斯纳飞机	sd si na fw ji	100
+深圳涵笛孜百货店	uf vf hj di zi bd ho dm	100
+解百	jp bd	100
+中羽协	vs yu xp	100
+鸿蒙智家系统	hs mg vi jx xi ts	100
+太空之家	td ks vi jx	100
+首飞航天员	uz fw hh tm yr	100
+山东蓬莱	uj ds pg ld	100
+皇马队史纪录	hl ma dv ui ji lu	100
+浙江友邦集成家居	ve jl yz bh ji ig jx ju	100
+新设首席合规官	xb ue uz xi he gv gr	100
+北京金通智运科技	bw jk jb ts vi yy ke ji	100
+中国国家羽毛球队	vs go go jx yu mc qq dv	100
+小规格旺仔牛奶	xn gv ge wh zd nq nd	100
+沙利文白皮书	ua li wf bd pi uu	100
+成都天齐实业	ig du tm qi ui ye	100
+闪鱼	uj yu	100
+酒泉圆梦园广场	jq qr yr mg yr gl ih	100
+大折叠系列	da ve dp xi lp	100
+木质防火门	mu vi fh ho mf	100
+小豆产品	xn dz ij pb	100
+越南高铁二标段	yt nj gc tp er bn dr	100
+深圳玥羽养生馆	uf vf yt yu yh ug gr	100
+精工钢构海南公司	jk gs gh gz hd nj gs si	100
+海关异常信用名录	hd gr yi ih xb ys mk lu	100
+小米增程器	xn mi zg ig qi	100
+美国参院	mw go cj yr	100
+殡葬管理办法	bb zh gr li bj fa	100
+网红拼豆玩具	wh hs pb dz wj ju	100
+数智筑基计划	uu vi vu ji ji hx	100
+敦煌九色鹿	dy hl jq se lu	100
+宇航员	yu hh yr	100
+航天界	hh tm jp	100
+温书豪	wf uu hc	100
+澳洲华人俱乐部	ao vz hx rf ju le bu	100
+广东女篮队	gl ds nv lj dv	100
+小冰豆	xn bk dz	100
+非洲塞内加尔	fw vz sd nw jx er	100
+洋市涂污水厂一期	yh ui tu wu uv ih yi qi	100
+新殡葬管理办法	xb bb zh gr li bj fa	100
+杭州市新企联	hh vz ui xb qi lm	100
+永南	ys nj	100
+三亚韵铭能源	sj ya yy mk ng yr	100
+贝斯特新材料	bw si te xb cd ln	100
+汉巴赫汽车工厂	hj ba he qi ie gs ih	100
+广西藤州	gl xi tg vz	100
+天宫实验	tm gs ui yj	100
+中巴合作实验	vs ba he zo ui yj	100
+贺电	he dm	100
+世青乒乓球锦标赛	ui qk pk ph qq jb bn sd	100
+北京京东天地	bw jk jk ds tm di	100
+岭南酒店	lk nj jq dm	100
+深圳清泉棋牌室	uf vf qk qr qi pd ui	100
+儿童友好医院	er ts yz hc yi yr	100
+西安市委书记	xi an ui ww uu ji	100
+三亚顺乐科技	sj ya uy le ke ji	100
+火钢	ho gh	100
+邯郸学校	hj dj xt xn	100
+海南归仓科技	hd nj gv ch ke ji	100
+古乐	gu yt	100
+第三代比亚迪唐	di sj dd bi ya di th	100
+金谷信托产品	jb gu xb to ij pb	100
+神二十四航天员	uf er ui si hh tm yr	100
+海南缔秀科技公司	hd nj di xq ke ji gs si	100
+原生鸿蒙终端	yr ug hs mg vs dr	100
+民贤餐饮公司	mb xm cj yb gs si	100
+亚冠纪录	ya gr ji lu	100
+享道出行	xl dc iu xk	100
+深圳泉芳商贸	uf vf qr fh uh mc	100
+褪黑素片	tv hw su pm	100
+海南莱恩特科技	hd nj ld en te ke ji	100
+中信科移动股份	vs xb ke yi ds gu ff	100
+俄制裁法案	ee vi cd fa an	100
+盗龄人机交互公司	dc lk rf ji jn hu gs si	100
+鸿蒙生态系统	hs mg ug td xi ts	100
+中粮可口可乐	vs ll ke kz ke le	100
+湖库一体架构	hu ku yi ti jx gz	100
+蓉优爱家	rs yz ai jx	100
+大石中药材公司	da ui vs yc cd gs si	100
+京沪列车	jk hu lp ie	100
+海南楚瀚科技	hd nj iu hj ke ji	100
+陈黎明	if li mk	100
+湖南华容县教育局	hu nj hx rs xm jn yu ju	100
+挥拍吧搭子	hv pd ba da zi	100
+普速列车车次编排	pu su lp ie ie ci bm pd	100
+和世界奔现	he ui jp bf xm	100
+海南大帆船赛	hd nj da fj ir sd	100
+云南文山天麻高速	yy nj wf uj tm ma gc su	100
+图文	tu wf	100
+岭南酒店集团	lk nj jq dm ji tr	100
+联合国国际日	lm he go go ji ri	100
+银海闻语大模型	yb hd wf yu da mo xk	100
+湖南祁东县	hu nj qi ds xm	100
+太原康养公寓	td yr kh yh gs yu	100
+智能交互机器人	vi ng jn hu ji qi rf	100
+梧州藤州大桥	wu vz tg vz da qn	100
+开源数据库引擎	kd yr uu ju ku yb qk	100
+湖北宜都化工园	hu bw yi du hx gs yr	100
+重庆璧泉街道	is qk bi qr jp dc	100
+沨呵三亚公司	fg he sj ya gs si	100
+山东烟台蓬莱区	uj ds yj td pg ld qu	100
+国家标准化试点	go jx bn vy hx ui dm	100
+堵塞食管	du se ui gr	100
+长春纯电工厂	ih iy iy dm gs ih	100
+海南信息技术公司	hd nj xb xi ji uu gs si	100
+最新鸿蒙座舱	zv xb hs mg zo ch	100
+驻平壤使馆	vu pk rh ui gr	100
+越高铁	yt gc tp	100
+三亚松煜科技	sj ya ss yu ke ji	100
+神舟二十四号舱	uf vz er ui si hc ch	100
+欧冠淘汰赛附加赛	ou gr tc td sd fu jx sd	100
+旺仔牛奶公司	wh zd nq nd gs si	100
+全国学生资助管理中心	qr go xt ug zi vu gr li vs xb	100
+海南顺盈科技	hd nj uy yk ke ji	100
+尊上	zy uh	100
+韩美林	hj mw lb	100
+高端微创手术	gc dr ww il uz uu	100
+摩洛哥少年队	mo lo ge uc nm dv	100
+深圳慧芝涛商贸行	uf vf hv vi tc uh mc xk	100
+可口可乐中国	ke kz ke le vs go	100
+墨丘利号军舰	mo qq li hc jy jm	100
+中国载人航天计划	vs go zd rf hh tm ji hx	100
+江西金控集团	jl xi jb ks ji tr	100
+中巴联合空间实验	vs ba lm he ks jm ui yj	100
+非洲杯正赛	fw vz bw vg sd	100
+一年期在轨驻留	yi nm qi zd gv vu lq	100
+新殡葬法规	xb bb zh fa gv	100
+显芯产投公司	xm xb ij tz gs si	100
+澳所罗门群岛	ao so lo mf qy dc	100
+韩美林艺术展	hj mw lb yi uu vj	100
+铁血信使	tp xt xb ui	100
+首位航天员	uz ww hh tm yr	100
+王记沙茶麻辣烫店	wh ji ua ia ma la th dm	100
+海南诗傲科技	hd nj ui ao ke ji	100
+显芯产业投资公司	xm xb ij ye tz zi gs si	100
+盘龙药业股份	pj ls yc ye gu ff	100
+临时用地复垦	lb ui ys di fu kf	100
+湖库一体数据架构	hu ku yi ti uu ju jx gz	100
+反诈服务平台	fj va fu wu pk td	100
+发射	fa ue	100
+尖果文化公司	jm go wf hx gs si	100
+光辉敦煌限定版	gl hv dy hl xm dk bj	100
+王牌对王牌第九季	wh pd dv wh pd di jq ji	100
+雪迷宫	xt mi gs	100
+贝斯特新材	bw si te xb cd	100
+溢流井喷	yi lq jk pf	100
+中英两国教育部	vs yk ll go jn yu bu	100
+中巴合作科学项目	vs ba he zo ke xt xl mu	100
+新任驻朝大使	xb rf vu ic da ui	100
+食管堵塞患者	ui gr du se hr ve	100
+玛吉哈桑	ma ji ha sh	100
+哈尔滨冰雪暖世界	ha er bb bk xt nr ui jp	100
+韦正	ww vg	100
+京沪铁路	jk hu tp lu	100
+公墓管理办法	gs mu gr li bj fa	100
+夏雨夫妇	xx yu fu fu	100
+所罗门群岛条约	so lo mf qy dc tn yt	100
+宜昌工厂	yi ih gs ih	100
+敦煌限定版	dy hl xm dk bj	100
+浙江台州警方	ve jl td vz jk fh	100
+比亚迪三代唐	bi ya di sj dd th	100
+捷莱顺贸易	jp ld uy mc yi	100
+比亚迪唐后驱版	bi ya di th hz qu bj	100
+台球英锦赛	td qq yk jb sd	100
+国铁普速旅游列车	go tp pu su lv yz lp ie	100
+甘肃检方	gj su jm fh	100
+全球麻疹疫情	qr qq ma vf yi qk	100
+慧芝涛商贸行	hv vi tc uh mc xk	100
+大湾区文投大会	da wj qu wf tz da hv	100
+国产可口可乐	go ij ke kz ke le	100
+我国载人航天工程	wo go zd rf hh tm gs ig	100
+抗流感药物板块	kh lq gj yc wu bj kk	100
+湖北省宜昌市政府	hu bw ug yi ih ui vg fu	100
+三亚晟邦机械	sj ya ug bh ji xp	100
+巴基斯坦航天员	ba ji si tj hh tm yr	100
+中国神舟系列飞船	vs go uf vz xi lp fw ir	100
+新航天员	xb hh tm yr	100
+机器人力学传感器	ji qi rf li xt ir gj qi	100
+标志性皮衣	bn vi xk pi yi	100
+中国揽月着陆器	vs go lj yt vo lu qi	100
+海南自影科技	hd nj zi yk ke ji	100
+聊城物业	ln ig wu ye	100
+本土锂资源	bf tu li zi yr	100
+四川上都布锂矿	si ir uh dz bu li kl	100
+欧盟乘用车	ou mg ig ys ie	100
+快充电解液	kk is dm jp ye	100
+青海格尔木无人区	qk hd ge er mu wu rf qu	100
+豆包灰度测试	dz bc hv du ce ui	100
+访华行程	fh hx xk ig	100
+中国信通科技	vs go xb ts ke ji	100
+海南智行方舟科技	hd nj vi xk fh vz ke ji	100
+云南昆明滇池学院	yy nj ky mk dm ii xt yr	100
+吹笛人	iv di rf	100
+海伦日用百货店	hd ly ri ys bd ho dm	100
+光追	gl vv	100
+二十四号乘组	er ui si hc ig zu	100
+卖旧买新专项补贴	md jq md xb vr xl bu tp	100
+深圳正燊健康商贸	uf vf vg uf jm kh uh mc	100
+外籍航天员	wd ji hh tm yr	100
+深圳顺事通商行	uf vf uy ui ts uh xk	100
+海绵洗碗	hd mm xi wj	100
+马兰花开的声音	ma lj hx kd de ug yb	100
+雅江措拉锂辉石矿	ya jl co la li hv ui kl	100
+托底流动性	to di lq ds xk	100
+海南艾库识科技	hd nj ai ku ui ke ji	100
+社区共托模式	ue qu gs to mo ui	100
+罗双红	lo ul hs	100
+烟台蓬莱海域	yj td pg ld hd yu	100
+雅典旧卫城博物馆	ya dm jq ww ig bo wu gr	100
+希腊雅典卫城	xi la ya dm ww ig	100
+海南思力科技	hd nj si li ke ji	100
+金太阳投资	jb td yh tz zi	100
+云南天麻	yy nj tm ma	100
+四川锂矿资源	si ir li kl zi yr	100
+李蓓多	li bw do	100
+精工钢构海南	jk gs gh gz hd nj	100
+爸妈防骗指南	ba ma fh pm vi nj	100
+杨德昌	yh de ih	100
+智中国际控股	vi vs go ji ks gu	100
+刘雨欣	lq yu xb	100
+升空	ug ks	100
+鸿蒙生态业务	hs mg ug td ye wu	100
+上都布锂矿资源	uh dz bu li kl zi yr	100
+广东特发光缆	gl ds te fa gl lj	100
+最轻薄智能手表	zv qk bo vi ng uz bn	100
+韩泰印尼三国	hj td yb ni sj go	100
+孙政才	sy vg cd	100
+刘顺贤	lq uy xm	100
+最新流感流行动态	zv xb lq gj lq xk ds td	100
+新型运载火箭	xb xk yy zd ho jm	100
+山西好人榜	uj xi hc rf bh	100
+云南云天麻	yy nj yy tm ma	100
+央视虎年跨年晚会	yh ui hu nm kx nm wj hv	100
+小米浏览器	xn mi lq lj qi	100
+你们是城市的荣光	ni mf ui ig ui de rs gl	100
+林洋能源控股	lb yh ng yr ks gu	100
+果宝特工	go bc te gs	100
+贵州猛龙篮球队	gv vz mg ls lj qq dv	100
+悉尼华人俱乐部	xi ni hx rf ju le bu	100
+宋丹菊	ss dj ju	100
+青少年世乒赛	qk uc nm ui pk sd	100
